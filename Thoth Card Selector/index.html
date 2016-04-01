@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+    	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+    	<title>Pick a Card</title>
+
+	    <link href="css/bootstrap.css" rel="stylesheet">
+		<link href="css/home.css" type="text/css" rel="stylesheet" />
+	</head>
+
+	<body>
+		
+		<nav class="navbar navbar-default">
+	  		<div class="container-fluid">
+	    		<div class="navbar-header">
+	      			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+	        			<span class="sr-only">Toggle navigation</span>
+	        			<span class="icon-bar"></span>
+	        			<span class="icon-bar"></span>
+	        			<span class="icon-bar"></span>
+	      			</button>
+	      			<a class="navbar-brand" href="index.html">Pick a Card</a>
+	    		</div>
+			    <!-- Collect the nav links, forms, and other content for toggling -->
+			    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+			     	<ul class="nav navbar-nav navbar-right">
+			        	<li><a href="card_summaries.html">Card Summaries</a></li>
+			        	<li><a href="faq.html">FAQ</a></li>
+			        	<li><a href="about.html">About</a></li>
+			      	</ul>
+			    </div>	<!-- /.navbar-collapse -->
+			</div>	<!-- /.container-fluid -->
+		</nav>
+
+		<div class="container-fluid contentDIV" >
+	     	<div class="row">
+	       		
+	       		<section class="col-xs-12 instructionsDIV"> 
+	       			<h4>Click on the card below to select your card:</h4>
+	       		</section>
+
+	       		<section class="col-xs-12 titleDIV"> 
+	       			<h2 id="cardTitleDIV"> </h2>
+	       		</section>
+
+	       		<section class="col-xs-12 cardpictureDIV">
+	       			<img id="backcoverDIV" src="images/backcover.jpg"/>
+	       			<img id="randomCardDIV" src=" "/>
+	       		</section>
+
+	       		<section class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-3 col-lg-4 col-lg-offset-4 interpretationDIV"> 	
+	      			<p id="randomCardInterpretationDIV"> </p>
+	       		</section>
+
+	       		<section class="col-xs-12 pickanothercardDIV"> 
+	       			<button><a href="index.html"> Pick Another Card </a></button>
+	       		</section>
+
+	     	</div>
+	    </div>
+
+		<div class="panel panel-default">
+	  		<div class="panel-footer">&copy; jonburla_2016</div>
+		</div>
+
+		
+		
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+		<script src="js/bootstrap.js"></script>
+		<script src="js/script.js"></script>
+	</body>
+</html>
+<!-- -->
+
+
+<!-- 
+CONTENT
+- fine tune definitions (corax, iPhone app)
+
+FUNCTIONALITY
+-! put website on GitHub 
+-! for mobile, adjust the hegiht % of the cardpicture container
+- create other pages
+- add another deck
+- enter your question
+
+CSS:
+-! style background; blur out background either as actual background or when card is picked
+-! style title
+-! style interpretation
+-! style pickanothercard     
+-! style and html to fotter  
+-->
+
+

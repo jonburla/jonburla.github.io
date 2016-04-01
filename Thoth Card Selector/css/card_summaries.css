@@ -1,0 +1,17 @@
+@import 'nav.css';
+
+section{
+        height: 400px;
+      }
+
+      .one{
+        background-color: red;
+      }
+
+      .two{
+        background-color: green;
+      }
+
+      .three{
+        background-color: blue;
+      }
