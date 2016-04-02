@@ -1,17 +1,1 @@
 @import 'nav.css';
-
-section{
-        height: 50px;
-      }
-
-      .one{
-        background-color: red;
-      }
-
-      .two{
-        background-color: green;
-      }
-
-      .three{
-        background-color: blue;
-      }

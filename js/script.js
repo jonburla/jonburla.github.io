@@ -1,7 +1,8 @@
 // load page
-$('document').ready(function(){
+$('document').ready(function (){
 
-	// hide the following containers by default:
+	//$('.materialboxed').materialbox();
+    // hide the following containers by default:
 	$('.titleDIV').hide();	
 	$('.interpretationDIV').hide();
 	$('.pickanothercardDIV').hide();
@@ -9,7 +10,7 @@ $('document').ready(function(){
 
 	// 1. set up event listener for card click; 
 	// note: replace #backcover with img for continuous clicking
-	$('img').click(function(){							
+	$('#backcoverDIV').click(function generateCard (){							
 		
 		// test: console.log('click is working');
 		
@@ -47,6 +48,11 @@ $('document').ready(function(){
 		$('.pickanothercardDIV').show(); 
 		$('#footer').hide();
 	});
+
+    function genereateCard (){
+        $('#pickanothercardDIV').click();    
+    } 
+    
 
 });
 
