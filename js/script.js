@@ -45,7 +45,7 @@ $('document').ready(function(){
 		// test: console.log(randomCard);
 
 		$('.pickanothercardDIV').show(); 
-		
+		$('#footer').hide();
 	});
 
 });
@@ -75,7 +75,7 @@ var deck = ['The Fool', 'The Magus', 'The Priestess', 'The Empress',
 var deckInterpretation = [
     {"cardName":"The Fool", "cardInterpretation":"Beginnings, innocence, spontaneity, a free spirit"},
     {"cardName":"The Magus", "cardInterpretation":"Law of attraction, manifestation, power, skill, concentration, action, resourcefulness"},
-    {"cardName":"The Priestess","cardInterpretation": "Universal Life Force; Intuition, Higher powers, mystery, subconscious mind"},
+    {"cardName":"The Priestess","cardInterpretation": "access to universal life force, intuition, higher knowledge and powers, mystery, subconscious mind"},
     {"cardName":"The Empress", "cardInterpretation":"Creativity, femininity, beauty, nature, abundance"},
     {"cardName":"The Emperor", "cardInterpretation":"Authority, father-figure, structure, solid foundation"},
     {"cardName":"The Hierophant", "cardInterpretation":"Religion, group identification, conformity, tradition, beliefs"},
@@ -147,7 +147,7 @@ var deckInterpretation = [
     {"cardName":"Power", "cardInterpretation":"Control, stability, security, possession"},
     {"cardName":"Worry", "cardInterpretation":"Isolation, insecurity, worry, financial loss, poverty"},
     {"cardName":"Success", "cardInterpretation":"Generosity, charity, giving, prosperity, sharing wealth"},
-    {"cardName":"Failure", "cardInterpretation":"Limited success or reward, perseverance, profit, reward, investment"},
+    {"cardName":"Failure", "cardInterpretation":"delays, undexpected setbacks, limited success or reward, perseverance, harvest to be reaped, profit, reward, investment"},
     {"cardName":"Prudence", "cardInterpretation":"Apprenticeship, education, quality, engagement"},
     {"cardName":"Gain", "cardInterpretation":"Gratitude, luxury, self-sufficiency, culmination"},
     {"cardName":"Wealth", "cardInterpretation":"Wealth, inheritance, family, establishment, retirement"},

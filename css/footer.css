@@ -1,7 +1,10 @@
- .panel-footer{
+#footer{
   text-align: center;
   font-size: 80%;
-  background-color: black;
   color: white;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
 }
 
