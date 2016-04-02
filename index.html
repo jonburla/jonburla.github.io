@@ -8,36 +8,34 @@
     	<title>Pick a Card</title>
 
 	    <link href="css/bootstrap.css" rel="stylesheet">
-	    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/css/materialize.min.css">
 		<link href="css/home.css" type="text/css" rel="stylesheet" />
 	</head>
 
 	<body>
-
-		<nav class="navbar navbar-default">
-	  		<div class="container-fluid">
-	    		<div class="navbar-header">
-	      			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-	        			<span class="sr-only">Toggle navigation</span>
-	        			<span class="icon-bar"></span>
-	        			<span class="icon-bar"></span>
-	        			<span class="icon-bar"></span>
-	      			</button>
-	      			<a class="navbar-brand" href="index.html">Pick a Card</a>
-	    		</div>
-			    <!-- Collect the nav links, forms, and other content for toggling -->
-			    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-			     	<ul class="nav navbar-nav navbar-right">
-			        	<li><a href="card_gallery.html">Card Gallery</a></li>
-			        	<li><a href="faq.html">FAQ</a></li>
-			        	<li><a href="about.html">About</a></li>
-			      	</ul>
-			    </div>	<!-- /.navbar-collapse -->
-			</div>	<!-- /.container-fluid -->
-		</nav>
-
 		<div class="container-fluid contentDIV" >
 	     	<div class="row">
+
+				<nav class="navbar navbar-default">
+			  		<div class="container-fluid">
+			    		<div class="navbar-header">
+			      			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+			        			<span class="sr-only">Toggle navigation</span>
+			        			<span class="icon-bar"></span>
+			        			<span class="icon-bar"></span>
+			        			<span class="icon-bar"></span>
+			      			</button>
+			      			<a class="navbar-brand" href="index.html">Pick a Card</a>
+			    		</div>
+					    <!-- Collect the nav links, forms, and other content for toggling -->
+					    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					     	<ul class="nav navbar-nav navbar-right">
+					        	<li><a href="card_gallery.html">Card Gallery</a></li>
+					        	<li><a href="faq.html">FAQ</a></li>
+					        	<li><a href="about.html">About</a></li>
+					      	</ul>
+					    </div>	<!-- /.navbar-collapse -->
+					</div>	<!-- /.container-fluid -->
+				</nav>
 
 				<section class="col-xs-12 instructionsDIV"> 
 	       			<h3>Click on the card below to select your card:</h3>
@@ -49,7 +47,7 @@
 
 	       		<section class="col-xs-12 cardpictureDIV">
 	       			<img id="backcoverDIV" src="images/backcover.jpg"/>
-	       			<img class="materialboxed" width="650" id="randomCardDIV" src=" "/>
+	       			<img id="randomCardDIV" src=" "/>
 	       		</section>
 
 	       		<section class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-3 col-lg-4 col-lg-offset-4 interpretationDIV"> 	
@@ -57,7 +55,8 @@
 	       		</section>
 
 	       		<section class="col-xs-12 pickanothercardDIV"> 
-	       			<a class="waves-effect waves-light btn" href="index.html">Pick Another Card</a>
+	       			<!--<a href="index.html"> <p id="pickanothercardtext"> Pick Another Card</p></a>-->
+	       			<p id="pickanothercardtext"> Pick Another Card</p>
 	       		</section>
 
 	    	</div>
@@ -67,26 +66,7 @@
 		
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 		<script src="js/bootstrap.js"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/js/materialize.min.js"></script>
 		<script src="js/script.js"></script>
 	</body>
 </html>
 <!-- -->
-
-
-<!-- 
-
-FUNCTIONALITY
- -! for mobile, adjust the hegiht % of the cardpicture container
-- Change function of pic another card to do the auto refresh feature ; 	 
-
-
-CSS TO ADD:
--! style header
--! style background: blur out background when card is picked
--! style title
--! style interpretation
--! style pickanothercard
--->
-
-

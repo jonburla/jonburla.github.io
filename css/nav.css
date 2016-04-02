@@ -1,2 +1,7 @@
 @import 'config.css';
 @import 'footer.css';
+
+.navbar{
+	border: 0px;
+	background: url(../images/stars.jpeg)  no-repeat;
+}

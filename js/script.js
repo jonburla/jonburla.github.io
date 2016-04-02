@@ -1,16 +1,15 @@
 // load page
-$('document').ready(function (){
+$('document').ready(function(){
 
-	//$('.materialboxed').materialbox();
-    // hide the following containers by default:
+	// hide the following containers by default:
 	$('.titleDIV').hide();	
 	$('.interpretationDIV').hide();
 	$('.pickanothercardDIV').hide();
 	$('#randomCardDIV').hide();
 
 	// 1. set up event listener for card click; 
-	// note: replace #backcover with img for continuous clicking
-	$('#backcoverDIV').click(function generateCard (){							
+	// note: replace #backcoverDIV with img for continuous clicking
+	$('#backcoverDIV').click(function(){							
 		
 		// test: console.log('click is working');
 		
@@ -49,11 +48,19 @@ $('document').ready(function (){
 		$('#footer').hide();
 	});
 
-    function genereateCard (){
-        $('#pickanothercardDIV').click();    
-    } 
-    
-
+    $('#pickanothercardtext').click(function(){
+        var randomCard = deck [Math.floor(Math.random() * deck.length)];
+        console.log(randomCard);
+        document.getElementById("cardTitleDIV").innerHTML = randomCard; 
+        var randomCardImage = "images/cards/"+randomCard+".jpg";
+        $("#randomCardDIV").attr("src",randomCardImage);
+        for (i = 0; i < deck.length; i++) { 
+            if(deckInterpretation[i].cardName === randomCard){
+                $("#randomCardInterpretationDIV").append()
+                .html(deckInterpretation[i].cardInterpretation);
+            }           
+        }
+    });
 });
 
 var deck = ['The Fool', 'The Magus', 'The Priestess', 'The Empress', 
