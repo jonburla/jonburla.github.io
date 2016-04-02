@@ -86,7 +86,7 @@ img{
     padding: 0px;
   }
   #pickanothercardtext:hover{
-    background-color: black;
+    background-color: transparent;
     color: white;
     transition: 0s;
   }
