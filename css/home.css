@@ -9,31 +9,31 @@
 
 .instructionsDIV{
   background-color: transparent;
-  height: 10%;
+  height: 8%;
   text-align: center;
+  padding-top: 15px;
 }
 
 .titleDIV{
   background-color: transparent;
-  height: 10%;
+  height: 8%;
   text-align: center;
 }
 
 .cardpictureDIV{
   background-color: transparent;
-  height: 75%;
+  height: 70%;
 }
 
 .interpretationDIV{
   background-color: transparent;
-  height: 10%;
+  height: 5%;
   text-align: center;
   margin-top: 15px;
 }
 
 .pickanothercardDIV{
   background-color: transparent;
-  height: 5%;
   text-align: center;
 }
 
