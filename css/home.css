@@ -24,7 +24,7 @@
 
 .cardpictureDIV{
   background-color: transparent;
-  height: 65%;
+  height: 70%;
 }
 
 .interpretationDIV{
@@ -37,6 +37,10 @@
 .pickanothercardDIV{
   background-color: transparent;
   text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding-bottom: 50px;
 }
 
 img{
@@ -59,8 +63,26 @@ img{
   text-align: center;
   font-size: 80%;
   color: white;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
+  width: 120px;
+  margin: auto;
   cursor: pointer;
+  border: solid white 1px;
+  border-radius: 3px;
+  padding: 5px 0px;
 }
+
+#pickanothercardtext:hover{
+  background-color: white;
+  color: black;
+  transition: .5s;
+}
+
+@media only screen and (max-width: 500px){
+  .pickanothercardDIV{
+    padding-bottom: 0px;
+  }
+  #pickanothercardtext{
+    border: none;
+  }
+}
+

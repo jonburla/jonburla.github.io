@@ -136,7 +136,7 @@ var deckInterpretation = [
     {"cardName":"Satiety", "cardInterpretation":"Harmony, marriage, happiness, alignment"},
     {"cardName":"Princess of Cups", "cardInterpretation":"A messenger, creative beginnings, synchronicity <br> Elemental Influences: Earth / Water"},
     {"cardName":"Prince of Cups", "cardInterpretation":"Romance, charm, ‘Knight in shining armour’, imagination <br> Elemental Influences: Air / Water"},
-    {"cardName":"Queen of Cups", "cardInterpretation":"Emotional security, calm, intuitive, compassionate <br> Elemental Influences: Water / Water"},
+    {"cardName":"Queen of Cups", "cardInterpretation":"Emotional security, calm, intuitive, compassionate<br>Elemental Influences: Water / Water"},
     {"cardName":"Knight of Cups", "cardInterpretation":"Emotional balance and control, generosity <br> Elemental Influences: Fire / Water"},
     
     {"cardName":"Ace of Swords", "cardInterpretation":"Raw power, victory, break-throughs, mental clarity"},
