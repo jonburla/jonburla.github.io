@@ -4,8 +4,9 @@ html, body {
   color: white;
   background: url(../images/stars.jpeg)  no-repeat;
   background-size: 100% 100%; 
+  background-color: black;
 }
 
-h4{
+h3{
   font-style: italic;
 }
