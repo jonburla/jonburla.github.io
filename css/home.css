@@ -83,6 +83,12 @@ img{
   }
   #pickanothercardtext{
     border: none;
+    padding: 0px;
+  }
+  #pickanothercardtext:hover{
+    background-color: black;
+    color: white;
+    transition: 0s;
   }
 }
 
