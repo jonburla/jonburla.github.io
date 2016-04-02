@@ -160,7 +160,7 @@ var deckInterpretation = [
     {"cardName":"Power", "cardInterpretation":"Control, stability, security, possession"},
     {"cardName":"Worry", "cardInterpretation":"Isolation, insecurity, worry, financial loss, poverty"},
     {"cardName":"Success", "cardInterpretation":"Generosity, charity, giving, prosperity, sharing wealth"},
-    {"cardName":"Failure", "cardInterpretation":"delays, undexpected setbacks, limited success or reward, perseverance, harvest to be reaped, profit, reward, investment"},
+    {"cardName":"Failure", "cardInterpretation":"Delays, undexpected setbacks, limited success or reward, perseverance, harvest to be reaped, profit, reward, investment"},
     {"cardName":"Prudence", "cardInterpretation":"Apprenticeship, education, quality, engagement"},
     {"cardName":"Gain", "cardInterpretation":"Gratitude, luxury, self-sufficiency, culmination"},
     {"cardName":"Wealth", "cardInterpretation":"Wealth, inheritance, family, establishment, retirement"},
