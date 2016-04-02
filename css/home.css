@@ -4,13 +4,13 @@
   background: url(../images/stars.jpeg)  no-repeat;
   background-size: 100% 100%; 
   height: 100%;
+  background-color: black
 }
 
 .instructionsDIV{
   background-color: transparent;
   height: 7%;
   text-align: center;
-  padding-top: 15px;
 }
 
 .titleDIV{
