@@ -77,8 +77,8 @@ img{
   transition: .5s;
 }
 
-@media only screen and (max-width: 800px){
-  .pickanothercardDIV{
+@media only screen and (max-width: 500px){
+  /* .pickanothercardDIV{
     padding-bottom: 0px;
   }
   #pickanothercardtext{
@@ -89,6 +89,12 @@ img{
     background-color: transparent;
     color: white;
     transition: 0s;
+  } */
+  .cardpictureDIV{
+  height: 60%;
+  }
+  h2{
+  font-size: 20px;
   }
 }
 
