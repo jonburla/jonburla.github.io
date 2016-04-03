@@ -87,7 +87,7 @@ var deck = ['The Fool', 'The Magus', 'The Priestess', 'The Empress',
 
 var deckInterpretation = [
     {"cardName":"The Fool", "cardInterpretation":"Beginnings, optimism, trust to instincts, innocence, spontaneity, a free spirit"},
-    {"cardName":"The Magus", "cardInterpretation":"Law of attraction, manifestation, power, skill, concentration, action, resourcefulness, activity, power of life, impulse, energy"},
+    {"cardName":"The Magus", "cardInterpretation":"the magician, law of attraction, manifestation, power, skill, concentration, action, resourcefulness, activity, power of life, impulse, energy"},
     {"cardName":"The Priestess","cardInterpretation": "Access to universal life force, intuition, higher knowledge and powers, mystery, subconscious mind"},
     {"cardName":"The Empress", "cardInterpretation":"Creativity, maternity, love, trust, fulfilness, femininity, beauty, nature, abundance"},
     {"cardName":"The Emperor", "cardInterpretation":"Mastery of the will over nature, a sense for law and order, plan and structure, creation, recognition, stability, realism, authority, father-figure, structure, solid foundation"},
