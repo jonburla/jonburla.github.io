@@ -77,7 +77,7 @@ var deck = ['The Fool', 'The Magus', 'The Priestess', 'The Empress',
 'Debauch', 'Indolence', 'Happiness', 'Satiety', 'Princess of Cups',
 'Prince of Cups','Queen of Cups', 'Knight of Cups',
 
-'Ace of Swords','Peace', 'Sorrow', 'Truce', 'Defeat', 'Science', 'Futility', 
+'Ace of Swords','Peace', 'Sorrow', 'Truce', 'Defeat', 'Science', 'Dexterity', 
 'Indecision', 'Analysis', 'Ruin', 'Princess of Swords', 'Prince of Swords',
 'Queen of Swords', 'Knight of Swords',
 
@@ -145,7 +145,7 @@ var deckInterpretation = [
     {"cardName":"Truce", "cardInterpretation":"Contemplation, recuperation, passivity, relaxation, rest <br> Zodiac Influence: Jupiter in Libra"},
     {"cardName":"Defeat", "cardInterpretation":"Intellectual crisis, struggling against fate, realisation of limitations and restrictions, conflict, tension, loss, win at all costs, betrayal <br> Zodiac Influence: Venus in Aquarius"},
     {"cardName":"Science", "cardInterpretation":"Success after anxiety and trouble, search for truth, regretful but necessary transition, rite of passage <br> Zodiac Influence: Mercury in Aquarius"},
-    {"cardName":"Futility", "cardInterpretation":"Betrayal, deception, getting away with something, stealth <br> Zodiac Influence: Moon in Aquarius"},
+    {"cardName":"Dexterity", "cardInterpretation":"Betrayal, deception, getting away with something, stealth, futility <br> Zodiac Influence: Moon in Aquarius"},
     {"cardName":"Indecision", "cardInterpretation":"Interference, isolation, self-imposed restriction, imprisonment <br> Zodiac Influence: Jupiter in Gemini"},
     {"cardName":"Analysis", "cardInterpretation":"Depression, nightmares, intense anxiety, despair <br> Zodiac Influence: Mars in Gemini"},
     {"cardName":"Ruin", "cardInterpretation":"Back-stabbed, defeat, crisis, betrayal, endings, loss <br> Zodiac Influence: Sun in Gemini"},
