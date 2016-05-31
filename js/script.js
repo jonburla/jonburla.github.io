@@ -78,7 +78,7 @@ var deck = ['The Fool', 'The Magus', 'The Priestess', 'The Empress',
 'Prince of Cups','Queen of Cups', 'Knight of Cups',
 
 'Ace of Swords','Peace', 'Sorrow', 'Truce', 'Defeat', 'Science', 'Futility', 
-'Interference', 'Analysis', 'Ruin', 'Princess of Swords', 'Prince of Swords',
+'Indecision', 'Analysis', 'Ruin', 'Princess of Swords', 'Prince of Swords',
 'Queen of Swords', 'Knight of Swords',
 
 'Ace of Disks','Change', 'Works', 'Power', 'Worry', 'Success', 'Delay',
@@ -146,7 +146,7 @@ var deckInterpretation = [
     {"cardName":"Defeat", "cardInterpretation":"Intellectual crisis, struggling against fate, realisation of limitations and restrictions, conflict, tension, loss, win at all costs, betrayal <br> Zodiac Influence: Venus in Aquarius"},
     {"cardName":"Science", "cardInterpretation":"Success after anxiety and trouble, search for truth, regretful but necessary transition, rite of passage <br> Zodiac Influence: Mercury in Aquarius"},
     {"cardName":"Futility", "cardInterpretation":"Betrayal, deception, getting away with something, stealth <br> Zodiac Influence: Moon in Aquarius"},
-    {"cardName":"Interference", "cardInterpretation":"Isolation, self-imposed restriction, imprisonment <br> Zodiac Influence: Jupiter in Gemini"},
+    {"cardName":"Indecision", "cardInterpretation":"Interference, isolation, self-imposed restriction, imprisonment <br> Zodiac Influence: Jupiter in Gemini"},
     {"cardName":"Analysis", "cardInterpretation":"Depression, nightmares, intense anxiety, despair <br> Zodiac Influence: Mars in Gemini"},
     {"cardName":"Ruin", "cardInterpretation":"Back-stabbed, defeat, crisis, betrayal, endings, loss <br> Zodiac Influence: Sun in Gemini"},
     {"cardName":"Princess of Swords", "cardInterpretation":"Talkative, curious, mentally restless, energetic <br> Elemental Influences: Earth / Air"},
