@@ -81,7 +81,7 @@ var deck = ['The Fool', 'The Magus', 'The Priestess', 'The Empress',
 'Indecision', 'Analysis', 'Ruin', 'Princess of Swords', 'Prince of Swords',
 'Queen of Swords', 'Knight of Swords',
 
-'Ace of Disks','Change', 'Works', 'Power', 'Worry', 'Success', 'Delay',
+'Ace of Disks','Change', 'Works', 'Power', 'Worry', 'Success', 'Perseverance',
 'Prudence', 'Gain', 'Wealth', 'Princess of Disks', 'Prince of Disks', 
 'Queen of Disks', 'Knight of Disks'];
 
@@ -160,7 +160,7 @@ var deckInterpretation = [
     {"cardName":"Power", "cardInterpretation":"Control, stability, security, possession <br> Zodiac Influence: Sun in Capricorn"},
     {"cardName":"Worry", "cardInterpretation":"Isolation, insecurity, worry, financial loss, poverty <br> Zodiac Influence: Mercury in Taurus"},
     {"cardName":"Success", "cardInterpretation":"Generosity, charity, giving, prosperity, sharing wealth <br> Zodiac Influence: Moon in Taurus"},
-    {"cardName":"Delay", "cardInterpretation":"Delays, undexpected setbacks, limited success or reward, perseverance, harvest to be reaped, profit, reward, investment <br> Zodiac Influence: Saturn in Taurus"},
+    {"cardName":"Perseverance", "cardInterpretation":"Delays, undexpected setbacks, limited success or reward, perseverance, harvest to be reaped, profit, reward, investment <br> Zodiac Influence: Saturn in Taurus"},
     {"cardName":"Prudence", "cardInterpretation":"Apprenticeship, education, quality, engagement <br> Zodiac Influence: Sun in Virgo"},
     {"cardName":"Gain", "cardInterpretation":"Gratitude, luxury, self-sufficiency, culmination <br> Zodiac Influence: Venus in Virgo"},
     {"cardName":"Wealth", "cardInterpretation":"Wealth, inheritance, family, establishment, retirement <br> Zodiac Influence: Mercury in Virgo"},
