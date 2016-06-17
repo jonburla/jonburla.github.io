@@ -141,7 +141,7 @@ var deckInterpretation = [
     
     {"cardName":"Ace of Swords", "cardInterpretation":"Raw power, victory, break-throughs, mental clarity <br> Zodiac Influences: Libra, Aquarius, Gemini"},
     {"cardName":"Peace", "cardInterpretation":"Indecision, choices, truce, stalemate, blocked emotions <br> Zodiac Influence: Venus in Libra"},
-    {"cardName":"Sorrow", "cardInterpretation":"Painful separation, sorrow heartbreak, grief, rejection <br> Zodiac Influence: Moon in Libra"},
+    {"cardName":"Sorrow", "cardInterpretation":"Painful separation, sorrow heartbreak, grief, rejection <br> Zodiac Influence: Saturn in Libra"},
     {"cardName":"Truce", "cardInterpretation":"Contemplation, recuperation, passivity, relaxation, rest <br> Zodiac Influence: Jupiter in Libra"},
     {"cardName":"Defeat", "cardInterpretation":"Intellectual crisis, struggling against fate, realisation of limitations and restrictions, conflict, tension, loss, win at all costs, betrayal <br> Zodiac Influence: Venus in Aquarius"},
     {"cardName":"Science", "cardInterpretation":"Success after anxiety and trouble, search for truth, regretful but necessary transition, rite of passage <br> Zodiac Influence: Mercury in Aquarius"},
