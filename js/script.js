@@ -118,7 +118,7 @@ var deckInterpretation = [
     {"cardName":"Valor", "cardInterpretation":"Challenge, competition, perseverance <br> Zodiac Influence: Mars in Leo"},
     {"cardName":"Swiftness", "cardInterpretation":"Speed, action, air travel, movement, swift change <br> Zodiac Influence: Mercury in Sagittarius"},
     {"cardName":"Strength", "cardInterpretation":"Courage, persistence, test of faith, resilience <br> Zodiac Influence: Moon in Sagittarius"},
-    {"cardName":"Oppression", "cardInterpretation":"Burden, responsibility, hard work, stress <br> Zodiac Influence: Saturn in Sagittarius"},
+    {"cardName":"Responsibility", "cardInterpretation":"Burden, responsibility, hard work, stress <br> Zodiac Influence: Saturn in Sagittarius"},
     {"cardName":"Princess of Wands", "cardInterpretation":"Enthusiasm, exploration, discovery, free spirit <br> Elemental Influences: Earth / Fire"},
     {"cardName":"Prince of Wands", "cardInterpretation":"Energy, passion, lust, action, adventure, impulsiveness <br> Elemental Influences: Air / Fire"},
     {"cardName":"Queen of Wands", "cardInterpretation":"Exuberance, warmth, vibrancy, determination <br> Elemental Influences: Water / Fire"},
