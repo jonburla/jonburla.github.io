@@ -74,7 +74,7 @@ var deck = ['The Fool', 'The Magus', 'The Priestess', 'The Empress',
 'Prince of Wands','Queen of Wands', 'Knight of Wands',
 
 'Ace of Cups','Love', 'Abundance', 'Meditation', 'Disappointment', 'Pleasure',
-'Debauch', 'Indolence', 'Happiness', 'Satiety', 'Princess of Cups',
+'Creation', 'Indolence', 'Happiness', 'Satiety', 'Princess of Cups',
 'Prince of Cups','Queen of Cups', 'Knight of Cups',
 
 'Ace of Swords','Peace', 'Sorrow', 'Truce', 'Defeat', 'Science', 'Dexterity', 
@@ -130,7 +130,7 @@ var deckInterpretation = [
     {"cardName":"Meditation", "cardInterpretation":"Meditation, contemplation, apathy, re-evaluation <br> Zodiac Influence: Moon in Cancer"},
     {"cardName":"Disappointment", "cardInterpretation":"Loss, regret, despair, bereavement <br> Zodiac Influence: Mars in Scorpio"},
     {"cardName":"Pleasure", "cardInterpretation":"Reunion, nostalgia, childhood memories, innocence <br> Zodiac Influence: Sun in Scorpio"},
-    {"cardName":"Debauch", "cardInterpretation":"Fantasy, illusion, wishful thinking, choices, imagination <br> Zodiac Influence: Venus in Scorpio"},
+    {"cardName":"Creation", "cardInterpretation":"Fantasy, illusion, wishful thinking, choices, imagination <br> Zodiac Influence: Venus in Scorpio"},
     {"cardName":"Indolence", "cardInterpretation":"Escapism, disappointment, abandonment, withdrawal <br> Zodiac Influence: Saturn in Pisces"},
     {"cardName":"Happiness", "cardInterpretation":"Wishes fulfilled, comfort, happiness, satisfaction <br> Zodiac Influence: Jupiter in Pisces"},
     {"cardName":"Satiety", "cardInterpretation":"Harmony, marriage, happiness, alignment <br> Zodiac Influence: Mars in Pisces"},
