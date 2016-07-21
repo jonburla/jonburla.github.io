@@ -77,10 +77,11 @@ var deck = ['The Fool', 'The Magus', 'The Priestess', 'The Empress',
 'Creation', 'Transformation', 'Happiness', 'Satiety', 'Princess of Cups',
 'Prince of Cups','Queen of Cups', 'Knight of Cups',
 
-'Ace of Swords','Peace', 'Sorrow', 'Truce', 'Defeat', 'Science', 'Dexterity', 'Analysis', 'Ruin', 'Princess of Swords', 'Prince of Swords',
+'Ace of Swords','Peace', 'Sorrow', 'Truce', 'Paradox', 'Science', 'Dexterity',
+'Analysis', 'Ruin', 'Princess of Swords', 'Prince of Swords',
 'Queen of Swords', 'Knight of Swords',
 
-'Ace of Disks','Change', 'Works', 'Power', 'Worry', 'Success', 'Perseverance',
+'Ace of Disks','Change', 'Works', 'Power', 'Anxiety', 'Success', 'Perseverance',
 'Prudence', 'Gain', 'Wealth', 'Princess of Disks', 'Prince of Disks', 
 'Queen of Disks', 'Knight of Disks'];
 
@@ -142,11 +143,11 @@ var deckInterpretation = [
     {"cardName":"Peace", "cardInterpretation":"Indecision, choices, truce, stalemate, blocked emotions <br> Zodiac Influence: Moon in Libra"},
     {"cardName":"Sorrow", "cardInterpretation":"Painful separation, sorrow heartbreak, grief, rejection <br> Zodiac Influence: Saturn in Libra"},
     {"cardName":"Truce", "cardInterpretation":"Contemplation, recuperation, passivity, relaxation, rest <br> Zodiac Influence: Jupiter in Libra"},
-    {"cardName":"Defeat", "cardInterpretation":"Intellectual crisis, struggling against fate, realisation of limitations and restrictions, conflict, tension, loss, win at all costs, betrayal <br> Zodiac Influence: Venus in Aquarius"},
+    {"cardName":"Paradox", "cardInterpretation":"Equivocation, inconsistency, invalidity, fallacy, illogicality, delusion, intellectual crisis, struggling against fate, tension, loss<br> Zodiac Influence: Venus in Aquarius"},
     {"cardName":"Science", "cardInterpretation":"Success after anxiety and trouble, search for truth, regretful but necessary transition, rite of passage <br> Zodiac Influence: Mercury in Aquarius"},
     {"cardName":"Dexterity", "cardInterpretation":"Betrayal, deception, getting away with something, stealth, futility <br> Zodiac Influence: Moon in Aquarius"},
     /*{"cardName":"Indecision", "cardInterpretation":"Interference, isolation, self-imposed restriction, imprisonment <br> Zodiac Influence: Jupiter in Gemini"},*/
-    {"cardName":"Analysis", "cardInterpretation":"Depression, nightmares, intense anxiety, despair <br> Zodiac Influence: Mars in Gemini"},
+    {"cardName":"Analysis", "cardInterpretation":"Light: Investiation, dissection, scrutiny <br> Darkness: Fepression, nightmares, intense anxiety, despair <br> Zodiac Influence: Mars in Gemini"},
     {"cardName":"Ruin", "cardInterpretation":"Back-stabbed, defeat, crisis, betrayal, endings, loss <br> Zodiac Influence: Sun in Gemini"},
     {"cardName":"Princess of Swords", "cardInterpretation":"Talkative, curious, mentally restless, energetic <br> Elemental Influences: Earth / Air"},
     {"cardName":"Prince of Swords", "cardInterpretation":"Idealism, intellectuall agility, creativity, richdom of ideas, intelligence, mastery of words <br> Elemental Influences: Air / Air "},
@@ -157,7 +158,7 @@ var deckInterpretation = [
     {"cardName":"Change", "cardInterpretation":"Balance, adaptability, time management, prioritisation <br> Zodiac Influence: Jupiter in Capricorn"},
     {"cardName":"Works", "cardInterpretation":"Teamwork, initial fulfilment, collaboration, learning <br> Zodiac Influence: Mars in Capricorn"},
     {"cardName":"Power", "cardInterpretation":"Control, stability, security, possession <br> Zodiac Influence: Sun in Capricorn"},
-    {"cardName":"Worry", "cardInterpretation":"Isolation, insecurity, worry, financial loss, poverty <br> Zodiac Influence: Mercury in Taurus"},
+    {"cardName":"Anxiety", "cardInterpretation":"Isolation, insecurity, worry, financial loss, poverty <br> Zodiac Influence: Mercury in Taurus"},
     {"cardName":"Success", "cardInterpretation":"Generosity, charity, giving, prosperity, sharing wealth <br> Zodiac Influence: Moon in Taurus"},
     {"cardName":"Perseverance", "cardInterpretation":"Delays, undexpected setbacks, limited success or reward, perseverance, harvest to be reaped, profit, reward, investment <br> Zodiac Influence: Saturn in Taurus"},
     {"cardName":"Prudence", "cardInterpretation":"Apprenticeship, education, quality, engagement <br> Zodiac Influence: Sun in Virgo"},
