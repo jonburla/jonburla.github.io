@@ -147,7 +147,7 @@ var deckInterpretation = [
     {"cardName":"Science", "cardInterpretation":"Success after anxiety and trouble, search for truth, regretful but necessary transition, rite of passage <br> Zodiac Influence: Mercury in Aquarius"},
     {"cardName":"Dexterity", "cardInterpretation":"Betrayal, deception, getting away with something, stealth, futility <br> Zodiac Influence: Moon in Aquarius"},
     /*{"cardName":"Indecision", "cardInterpretation":"Interference, isolation, self-imposed restriction, imprisonment <br> Zodiac Influence: Jupiter in Gemini"},*/
-    {"cardName":"Analysis", "cardInterpretation":"Light: Investiation, dissection, scrutiny <br> Darkness: Fepression, nightmares, intense anxiety, despair <br> Zodiac Influence: Mars in Gemini"},
+    {"cardName":"Analysis", "cardInterpretation":"Light: Investiation, dissection, scrutiny <br> Darkness: Depression, nightmares, intense anxiety, despair <br> Zodiac Influence: Mars in Gemini"},
     {"cardName":"Ruin", "cardInterpretation":"Back-stabbed, defeat, crisis, betrayal, endings, loss <br> Zodiac Influence: Sun in Gemini"},
     {"cardName":"Princess of Swords", "cardInterpretation":"Talkative, curious, mentally restless, energetic <br> Elemental Influences: Earth / Air"},
     {"cardName":"Prince of Swords", "cardInterpretation":"Idealism, intellectuall agility, creativity, richdom of ideas, intelligence, mastery of words <br> Elemental Influences: Air / Air "},
