@@ -73,7 +73,7 @@ var deck = ['The Fool', 'The Magus', 'The Priestess', 'The Empress',
 'Valor', 'Swiftness', 'Strength', 'Responsibility', 'Princess of Wands',
 'Prince of Wands','Queen of Wands', 'Knight of Wands',
 
-'Ace of Cups','Love', 'Abundance', 'Meditation', 'Disappointment', 'Pleasure',
+'Ace of Cups','Love', 'Abundance', 'Meditation', 'Disillusionment', 'Pleasure',
 'Creation', 'Transformation', 'Happiness', 'Satiety', 'Princess of Cups',
 'Prince of Cups','Queen of Cups', 'Knight of Cups',
 
@@ -127,7 +127,7 @@ var deckInterpretation = [
     {"cardName":"Love", "cardInterpretation":"Unified love, partnership, attraction, relationships <br> Zodiac Influence: Venus in Cancer"},
     {"cardName":"Abundance", "cardInterpretation":"Celebration, friendship, creativity, community <br> Zodiac Influence: Mercury in Cancer"},
     {"cardName":"Meditation", "cardInterpretation":"Meditation, contemplation, apathy, re-evaluation <br> Zodiac Influence: Moon in Cancer"},
-    {"cardName":"Disappointment", "cardInterpretation":"Loss, regret, despair, bereavement <br> Zodiac Influence: Mars in Scorpio"},
+    {"cardName":"Disillusionment", "cardInterpretation":"Loss, regret, despair, bereavement <br> Zodiac Influence: Mars in Scorpio"},
     {"cardName":"Pleasure", "cardInterpretation":"Reunion, nostalgia, childhood memories, innocence <br> Zodiac Influence: Sun in Scorpio"},
     {"cardName":"Creation", "cardInterpretation":"Imagination, creativity, dreaming, fantasy, illusion <br> Zodiac Influence: Venus in Scorpio"},
     {"cardName":"Transformation", "cardInterpretation":"Light: Revolution, resolution, moving forward, letting the past go <br> Darkness: Escapism, withdrawal, disappointment, abandonment <br> Zodiac Influence: Saturn in Pisces"},
