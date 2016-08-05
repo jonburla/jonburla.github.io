@@ -95,7 +95,7 @@ var deck = ['The Fool', 'The Magus', 'The Priestess', 'The Empress',
 'Analysis', 'Ruin', 'Princess of Swords', 'Prince of Swords',
 'Queen of Swords', 'Knight of Swords',
 
-'Ace of Swords Reversed','Peace Reversed', 'Sorrow Reversed', 'Truce Reversed', 'Paradox Reversed', 'Science Reversed', 'Betrayal',
+'Ace of Swords Reversed','Peace Reversed', 'Sorrow Reversed', 'Truce Reversed', 'Paradox Reversed', 'Science Reversed', 'Deception',
 'Analysis Reversed', 'Ruin Reversed', 'Princess of Swords Reversed', 'Prince of Swords Reversed',
 'Queen of Swords Reversed', 'Knight of Swords Reversed',
 
