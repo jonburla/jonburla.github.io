@@ -48,6 +48,20 @@ $('document').ready(function(){
 		$('#footer').hide();
 	});
 
+    $('#randomCardDIV').click(function(){
+        var randomCard = deck [Math.floor(Math.random() * deck.length)];
+        console.log(randomCard);
+        document.getElementById("cardTitleDIV").innerHTML = randomCard; 
+        var randomCardImage = "images/cards/"+randomCard+".jpg";
+        $("#randomCardDIV").attr("src",randomCardImage);
+        for (i = 0; i < deck.length; i++) { 
+            if(deckInterpretation[i].cardName === randomCard){
+                $("#randomCardInterpretationDIV").append()
+                .html(deckInterpretation[i].cardInterpretation);
+            }           
+        }
+    });
+
     $('#pickanothercardtext').click(function(){
         var randomCard = deck [Math.floor(Math.random() * deck.length)];
         console.log(randomCard);
