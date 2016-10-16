@@ -92,7 +92,7 @@ var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress',
 'Prince of Cups','Queen of Cups', 'Knight of Cups',
 
 'Ace of Swords','Peace', 'Sorrow', 'Truce', 'Paradox', 'Science', 'Dexterity',
- 'Analysis', 'Ruin', 'Princess of Swords', 'Prince of Swords',
+ 'Analysis', 'Princess of Swords', 'Prince of Swords',
 'Queen of Swords', 'Knight of Swords',
 
 'Ace of Disks','Change', 'Works', 'Power', 'Anxiety', 'Success', 'Perseverance',
@@ -162,7 +162,7 @@ var deckInterpretation = [
     {"cardName":"Dexterity", "cardInterpretation":"Betrayal, deception, getting away with something, stealth, futility <br> Zodiac Influence: Moon in Aquarius"},
     /*{"cardName":"Indecision", "cardInterpretation":"Interference, isolation, self-imposed restriction, imprisonment <br> Zodiac Influence: Jupiter in Gemini"},*/
     {"cardName":"Analysis", "cardInterpretation":"Light: Investiation, dissection, scrutiny <br> Darkness: Depression, nightmares, intense anxiety, despair <br> Zodiac Influence: Mars in Gemini"},
-    {"cardName":"Ruin", "cardInterpretation":"Back-stabbed, defeat, crisis, betrayal, endings, loss <br> Zodiac Influence: Sun in Gemini"},
+    /*{"cardName":"Ruin", "cardInterpretation":"Back-stabbed, defeat, crisis, betrayal, endings, loss <br> Zodiac Influence: Sun in Gemini"},*/
     {"cardName":"Princess of Swords", "cardInterpretation":"Talkative, curious, mentally restless, energetic <br> Elemental Influences: Earth / Air"},
     {"cardName":"Prince of Swords", "cardInterpretation":"Idealism, intellectuall agility, creativity, richdom of ideas, intelligence, mastery of words <br> Elemental Influences: Air / Air "},
     {"cardName":"Queen of Swords", "cardInterpretation":"Quick thinker, organised, perceptive, independent <br> Elemental Influences: Water / Air"},
