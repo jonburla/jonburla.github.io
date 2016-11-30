@@ -106,11 +106,11 @@ var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress',
 'Prince of Cups Reversed','Queen of Cups Reversed', 'Knight of Cups Reversed',
 
 'Ace of Swords','Peace', 'Sorrow', 'Truce', 'Paradox', 'Science', 'Dexterity',
-'Analysis', 'Ruin', 'Princess of Swords', 'Prince of Swords',
+'Analysis', 'Princess of Swords', 'Prince of Swords',
 'Queen of Swords', 'Knight of Swords',
 
-'Ace of Swords Reversed','Peace Reversed', 'Sorrow Reversed', 'Truce Reversed', 'Paradox Reversed', 'Science Reversed', 'Deception',
-'Analysis Reversed', 'Ruin Reversed', 'Princess of Swords Reversed', 'Prince of Swords Reversed',
+'Ace of Swords Reversed','Peace Reversed', 'Sorrow Reversed', 'Truce Reversed', 'Paradox Reversed', 'Science Reversed', 'Dexterity Reversed',
+'Analysis Reversed', 'Princess of Swords Reversed', 'Prince of Swords Reversed',
 'Queen of Swords Reversed', 'Knight of Swords Reversed',
 
 'Ace of Disks','Change', 'Works', 'Power', 'Anxiety', 'Success', 'Perseverance',
@@ -249,7 +249,7 @@ var deckInterpretation = [
     {"cardName":"Truce Reversed", "cardInterpretation":"Contemplation, recuperation, passivity, relaxation, rest <br> Zodiac Influence: Jupiter in Libra"},
     {"cardName":"Paradox Reversed", "cardInterpretation":"Equivocation, inconsistency, invalidity, fallacy, illogicality, delusion, intellectual crisis, struggling against fate, tension, loss<br> Zodiac Influence: Venus in Aquarius"},
     {"cardName":"Science Reversed", "cardInterpretation":"Success after anxiety and trouble, search for truth, regretful but necessary transition, rite of passage <br> Zodiac Influence: Mercury in Aquarius"},
-    {"cardName":"Deception", "cardInterpretation":"Betrayal, deception, getting away with something, stealth, futility <br> Zodiacal Influence: Moon in Aquarius"},
+    {"cardName":"Dexterity Reversed", "cardInterpretation":"Betrayal, deception, getting away with something, stealth, futility <br> Zodiacal Influence: Moon in Aquarius"},
     /*{"cardName":"Indecision Reversed", "cardInterpretation":"Interference, isolation, self-imposed restriction, imprisonment <br> Zodiac Influence: Jupiter in Gemini"},*/
     {"cardName":"Analysis Reversed", "cardInterpretation":"Light: Investiation, dissection, scrutiny <br> Darkness: Depression, nightmares, intense anxiety, despair <br> Zodiac Influence: Mars in Gemini"},
     /*{"cardName":"Ruin Reversed", "cardInterpretation":"Back-stabbed, defeat, crisis, betrayal, endings, loss <br> Zodiac Influence: Sun in Gemini"},*/
