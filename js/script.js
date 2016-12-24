@@ -104,7 +104,7 @@ var deckInterpretation = [
     {"cardName":"The Magician", "cardInterpretation":"Keywords: Law of Attraction, manifestation, power, skill, concentration, action, resourcefulness, activity, power of life, impulse, energy"},
     {"cardName":"The Priestess","cardInterpretation": "Keywords: Access to universal life force, intuition, higher knowledge and powers, mystery, subconscious mind"},
     {"cardName":"The Empress", "cardInterpretation":"Keywords: Creativity, maternity, love, trust, fulfilness, femininity, beauty, nature, abundance"},
-    {"cardName":"The Emperor", "cardInterpretation":"Keywords: Mastery of the will over nature, a sense for law and order, plan and structure, creation, recognition, stability, realism, authority, father-figure, structure, solid foundation"},
+    {"cardName":"The Emperor", "cardInterpretation":"Keywords: Mastery of the will over nature, a sense for law and order, plan and structure, creation, recognition, stability, realism, authority, father-figure, solid foundation"},
     {"cardName":"The Hierophant", "cardInterpretation":"Keywords: Search for hidden truths, trust in inner instincts, teacher, group identification, conformity, tradition, beliefs"},
     {"cardName":"The Lovers", "cardInterpretation":"Keywords: Love, union, relationships, trust, optimism, values alignment, choices"},
     {"cardName":"The Chariot", "cardInterpretation":"Keywords: Control, the will to conquer, courage, victory, assertion, determination, the awakening of powers, the way ahead, searching and finding one's place in life"},
@@ -134,7 +134,7 @@ var deckInterpretation = [
     {"cardName":"Faith", "cardInterpretation":"Keywords: Courage, persistence, test of faith, resilience <br> Zodiac Influence: Moon in Sagittarius"},
     {"cardName":"Responsibility", "cardInterpretation":"Keywords: Burden, responsibility, hard work, stress <br> Zodiac Influence: Saturn in Sagittarius"},
     {"cardName":"Princess of Wands", "cardInterpretation":"Keywords: Enthusiasm, exploration, discovery, free spirit <br> Elemental Influences: Earth / Fire"},
-    {"cardName":"Prince of Wands", "cardInterpretation":"Keywords: Energy, passion, lust, action, adventure, impulsiveness <br> Elemental Influences: Air / Fire"},
+    {"cardName":"Prince of Wands", "cardInterpretation":"Keywords: Energy, passion, lust, action, adventure, impulsiveness, restless <br> Elemental Influences: Air / Fire"},
     {"cardName":"Queen of Wands", "cardInterpretation":"Keywords: Exuberance, warmth, vibrancy, determination <br> Elemental Influences: Water / Fire"},
     {"cardName":"Knight of Wands", "cardInterpretation":"Keywords: Natural-born leader, vision, entrepreneur, honour <br> Elemental Influences: Fire / Fire"},
     
@@ -155,9 +155,9 @@ var deckInterpretation = [
     
     {"cardName":"Ace of Swords", "cardInterpretation":"Keywords: Raw power, victory, break-throughs, mental clarity <br> Zodiac Influences: Libra, Aquarius, Gemini"},
     {"cardName":"Peace", "cardInterpretation":"Keywords: Peace, tranquility, follow-through, calm, internal debate, choices, truce, stalemate, blocked emotions <br> Zodiac Influence: Moon in Libra"},
-    {"cardName":"Sorrow", "cardInterpretation":"Keywords: Understanding, development of an idea, painful separation, heartbreak, grief, rejection <br> Zodiac Influence: Saturn in Libra"},
+    {"cardName":"Sorrow", "cardInterpretation":"Keywords: Understanding, development of an idea at a cost, painful separation, heartbreak, grief, Weltschmerz <br> Zodiac Influence: Saturn in Libra"},
     {"cardName":"Truce", "cardInterpretation":"Keywords: Passive power, stability in an idea, contemplation, recuperation, passivity, relaxation, rest <br> Zodiac Influence: Jupiter in Libra"},
-    {"cardName":"Paradox", "cardInterpretation":"Keywords: Equivocation, inconsistency, invalidity, fallacy, illogicality, delusion, intellectual crisis, struggling against fate, tension, loss<br> Zodiac Influence: Venus in Aquarius"},
+    {"cardName":"Paradox", "cardInterpretation":"Keywords: Equivocation, inconsistency, temporary defeat, invalidity, fallacy, intellectual crisis, struggling against fate, tension, loss<br> Zodiac Influence: Venus in Aquarius"},
     {"cardName":"Science", "cardInterpretation":"Keywords: Success after anxiety and trouble, search for truth, regretful but necessary transition, rite of passage <br> Zodiac Influence: Mercury in Aquarius"},
     {"cardName":"Dexterity", "cardInterpretation":"Keywords: Flexibility, forging one's destiny, deftness, finesse, going it alone, stealth, deception, betrayal, getting away with something <br> Zodiac Influence: Moon in Aquarius"},
     /*{"cardName":"Indecision", "cardInterpretation":"Interference, isolation, self-imposed restriction, imprisonment <br> Zodiac Influence: Jupiter in Gemini"},*/
