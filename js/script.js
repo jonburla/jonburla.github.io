@@ -133,10 +133,10 @@ var deckInterpretation = [
     {"cardName":"Swiftness", "cardInterpretation":"Keywords: Speed, action, air travel, movement, swift change <br> Zodiac Influence: Mercury in Sagittarius"},
     {"cardName":"Faith", "cardInterpretation":"Keywords: Courage, persistence, test of faith, resilience <br> Zodiac Influence: Moon in Sagittarius"},
     {"cardName":"Responsibility", "cardInterpretation":"Keywords: Burden, responsibility, hard work, stress <br> Zodiac Influence: Saturn in Sagittarius"},
-    {"cardName":"Princess of Wands", "cardInterpretation":"Keywords: Enthusiasm, exploration, discovery, free spirit <br> Elemental Influences: Earth / Fire"},
-    {"cardName":"Prince of Wands", "cardInterpretation":"Keywords: Energy, passion, lust, action, adventure, impulsiveness, restless <br> Elemental Influences: Air / Fire"},
-    {"cardName":"Queen of Wands", "cardInterpretation":"Keywords: Exuberance, warmth, vibrancy, determination <br> Elemental Influences: Water / Fire"},
-    {"cardName":"Knight of Wands", "cardInterpretation":"Keywords: Natural-born leader, vision, entrepreneur, honour <br> Elemental Influences: Fire / Fire"},
+    {"cardName":"Princess of Wands", "cardInterpretation":"Personality: Enthusiasm, exploration, discovery, free spirit <br> Elemental Influences: Earth / Fire"},
+    {"cardName":"Prince of Wands", "cardInterpretation":"Personality: Energy, passion, lust, action, adventure, impulsiveness, restless <br> Elemental Influences: Air / Fire"},
+    {"cardName":"Queen of Wands", "cardInterpretation":"Personality: Exuberance, warmth, vibrancy, determination <br> Elemental Influences: Water / Fire"},
+    {"cardName":"Knight of Wands", "cardInterpretation":"Personality: Natural-born leader, vision, entrepreneur, honour <br> Elemental Influences: Fire / Fire"},
     
     {"cardName":"Ace of Cups", "cardInterpretation":"Keywords: Love, compassion, creativity, overwhelming emotion <br> Zodiac Influences: Cancer, Scorpio, Pisces"},
     {"cardName":"Love", "cardInterpretation":"Keywords: Unified love, partnership, attraction, relationships <br> Zodiac Influence: Venus in Cancer"},
@@ -148,10 +148,10 @@ var deckInterpretation = [
     {"cardName":"Transmutation", "cardInterpretation":"Keywords: Revolution, resolution, moving forward, letting the past go, escapism, withdrawal, disappointment, abandonment <br> Zodiac Influence: Saturn in Pisces"},
     {"cardName":"Happiness", "cardInterpretation":"Keywords: Wishes fulfilled, comfort, happiness, satisfaction <br> Zodiac Influence: Jupiter in Pisces"},
     {"cardName":"Satiety", "cardInterpretation":"Keywords: Harmony, alignment of one's ideas reality and emotions, happiness, marriage <br> Zodiac Influence: Mars in Pisces"},
-    {"cardName":"Princess of Cups", "cardInterpretation":"Keywords: A messenger, creative beginnings, synchronicity <br> Elemental Influences: Earth / Water"},
-    {"cardName":"Prince of Cups", "cardInterpretation":"Keywords: Romance, charm, ‘Knight in shining armour’, imagination <br> Elemental Influences: Air / Water"},
-    {"cardName":"Queen of Cups", "cardInterpretation":"Keywords: Emotional security, calm, intuitive, compassionate<br>Elemental Influences: Water / Water"},
-    {"cardName":"Knight of Cups", "cardInterpretation":"Keywords: Emotional balance and control, generosity <br> Elemental Influences: Fire / Water"},
+    {"cardName":"Princess of Cups", "cardInterpretation":"Personality: A messenger, creative beginnings, synchronicity <br> Elemental Influences: Earth / Water"},
+    {"cardName":"Prince of Cups", "cardInterpretation":"Personality: Romance, charm, ‘Knight in shining armour’, imagination <br> Elemental Influences: Air / Water"},
+    {"cardName":"Queen of Cups", "cardInterpretation":"Personality: Emotional security, calm, intuitive, compassionate<br>Elemental Influences: Water / Water"},
+    {"cardName":"Knight of Cups", "cardInterpretation":"Personality: Emotional balance and control, generosity <br> Elemental Influences: Fire / Water"},
     
     {"cardName":"Ace of Swords", "cardInterpretation":"Keywords: Raw power, victory, break-throughs, mental clarity <br> Zodiac Influences: Libra, Aquarius, Gemini"},
     {"cardName":"Peace", "cardInterpretation":"Keywords: Peace, tranquility, follow-through, calm, internal debate, choices, truce, stalemate, blocked emotions <br> Zodiac Influence: Moon in Libra"},
@@ -163,10 +163,10 @@ var deckInterpretation = [
     /*{"cardName":"Indecision", "cardInterpretation":"Interference, isolation, self-imposed restriction, imprisonment <br> Zodiac Influence: Jupiter in Gemini"},*/
     {"cardName":"Analysis", "cardInterpretation":"Keywords: Investiation, dissection, scrutiny, analysis paralysis, depression, nightmares, cruelty, intense anxiety, despair <br> Zodiac Influence: Mars in Gemini"},
     /*{"cardName":"Ruin", "cardInterpretation":"Back-stabbed, defeat, crisis, betrayal, endings, loss <br> Zodiac Influence: Sun in Gemini"},*/
-    {"cardName":"Princess of Swords", "cardInterpretation":"Keywords: Talkative, curious, mentally restless, energetic <br> Elemental Influences: Earth / Air"},
-    {"cardName":"Prince of Swords", "cardInterpretation":"Keywords: Idealism, intellectuall agility, creativity, richdom of ideas, intelligence, mastery of words <br> Elemental Influences: Air / Air "},
-    {"cardName":"Queen of Swords", "cardInterpretation":"Keywords: Quick thinker, organised, perceptive, independent <br> Elemental Influences: Water / Air"},
-    {"cardName":"Knight of Swords", "cardInterpretation":"Keywords: Investigator, clear thinker, master planner, intellectual power, authority figure <br> Elemental Influences: Fire / Air"},
+    {"cardName":"Princess of Swords", "cardInterpretation":"Personality: Talkative, curious, mentally restless, energetic <br> Elemental Influences: Earth / Air"},
+    {"cardName":"Prince of Swords", "cardInterpretation":"Personality: Idealism, intellectuall agility, creativity, richdom of ideas, intelligence, mastery of words <br> Elemental Influences: Air / Air "},
+    {"cardName":"Queen of Swords", "cardInterpretation":"Personality: Quick thinker, organised, perceptive, independent <br> Elemental Influences: Water / Air"},
+    {"cardName":"Knight of Swords", "cardInterpretation":"Personality: Investigator, clear thinker, master planner, intellectual power, authority figure <br> Elemental Influences: Fire / Air"},
 
     {"cardName":"Ace of Disks", "cardInterpretation":"Keywords: Manifestation, new financial opportunity, prosperity <br> Zodiac Influences: Capricorn, Taurus, Virgo"},
     {"cardName":"Change", "cardInterpretation":"Keywords: Balance, adaptability, time management, prioritisation <br> Zodiac Influence: Jupiter in Capricorn"},
@@ -178,10 +178,10 @@ var deckInterpretation = [
     {"cardName":"Prudence", "cardInterpretation":"Keywords: Apprenticeship, education, quality, engagement <br> Zodiac Influence: Sun in Virgo"},
     {"cardName":"Gain", "cardInterpretation":"Keywords: Gratitude, luxury, self-sufficiency, culmination <br> Zodiac Influence: Venus in Virgo"},
     {"cardName":"Wealth", "cardInterpretation":"Keywords: Wealth, inheritance, family, establishment, retirement <br> Zodiac Influence: Mercury in Virgo"},
-    {"cardName":"Princess of Disks", "cardInterpretation":"Keywords: Manifestation, financial opportunity, new job <br> Elemental Influences: Earth / Earth"},
-    {"cardName":"Prince of Disks", "cardInterpretation":"Keywords: Efficiency, routine, conservatism, methodical <br> Elemental Influences: Air / Earth"},
-    {"cardName":"Queen of Disks", "cardInterpretation":"Keywords: Kind, charming, great-hearted, truthful, stable, sensual <br> Elemental Influences: Water / Earth"},
-    {"cardName":"Knight of Disks", "cardInterpretation":"Keywords: Security, control, power, discipline, abundance <br> Elemental Influences: Fire / Earth"}
+    {"cardName":"Princess of Disks", "cardInterpretation":"Personality: Manifestation, financial opportunity, new job <br> Elemental Influences: Earth / Earth"},
+    {"cardName":"Prince of Disks", "cardInterpretation":"Personality: Efficiency, routine, conservatism, methodical <br> Elemental Influences: Air / Earth"},
+    {"cardName":"Queen of Disks", "cardInterpretation":"Personality: Kind, charming, great-hearted, truthful, stable, sensual <br> Elemental Influences: Water / Earth"},
+    {"cardName":"Knight of Disks", "cardInterpretation":"Personality: Security, control, power, discipline, abundance <br> Elemental Influences: Fire / Earth"}
 ];
 
 
