@@ -163,7 +163,7 @@ var deckInterpretation = [
     {"cardName":"Dexterity", "cardInterpretation":"Keywords: Flexibility, forging one's destiny, deftness, finesse, going it alone, stealth, deception, betrayal, getting away with something <br> Zodiac Influence: Moon in Aquarius"},
     {"cardName":"Indecision", "cardInterpretation":"Restlessness, self-imposed restriction, mental imprisonment <br> Zodiac Influence: Jupiter in Gemini"},
     {"cardName":"Analysis", "cardInterpretation":"Keywords: Investiation, dissection, scrutiny, analysis paralysis, depression, nightmares, cruelty, intense anxiety, despair <br> Zodiac Influence: Mars in Gemini"},
-    {"cardName":"Trumpian Logic - So Sad!", "cardInterpretation":"Destruction of the intellect, logic of lunatics, reason divorced from reality, rejection of the life force, but, dawn to follow the darkest hour <br> Zodiac Influence: Sun in Gemini"},
+    {"cardName":"Trumpian Logic - So Sad!", "cardInterpretation":"'Alternative Facts', destruction of the intellect, logic of lunatics, reason divorced from reality, rejection of the life force, but, dawn to follow the darkest hour <br> Zodiac Influence: Sun in Gemini"},
     {"cardName":"Princess of Swords", "cardInterpretation":"Personality: Talkative, curious, mentally restless, energetic <br> Elemental Influences: Earth / Air"},
     {"cardName":"Prince of Swords", "cardInterpretation":"Personality: Idealism, intellectuall agility, creativity, richdom of ideas, intelligence, mastery of words <br> Elemental Influences: Air / Air "},
     {"cardName":"Queen of Swords", "cardInterpretation":"Personality: Quick thinker, organised, perceptive, independent <br> Elemental Influences: Water / Air"},
