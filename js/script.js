@@ -83,7 +83,8 @@ var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress',
 'The Tower', 'The Star', 'The Moon', 'The Sun', 'The Aeon',
 'The Universe'];
 
-/*'Ace of Wands','Dominion', 'Virtue', 'Completion', 'Strife', 'Victory',
+/*
+'Ace of Wands','Dominion', 'Virtue', 'Completion', 'Strife', 'Victory',
 'Valor', 'Swiftness', 'Faith', 'Responsibility', 'Princess of Wands',
 'Prince of Wands','Queen of Wands', 'Knight of Wands',
 
@@ -99,6 +100,7 @@ var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress',
 'Prudence', 'Gain', 'Wealth', 'Princess of Disks', 'Prince of Disks', 
 'Queen of Disks', 'Knight of Disks'];
 */
+
 var deckInterpretation = [
     {"cardName":"The Fool", "cardInterpretation":"Keywords: Beginnings, optimism, trust in inner instincts, innocence, spontaneity, a free spirit"},
     {"cardName":"The Magician", "cardInterpretation":"Keywords: Law of Attraction, manifestation, power, skill, concentration, action, resourcefulness, activity, power of life, solar impulse, energy"},
@@ -124,7 +126,8 @@ var deckInterpretation = [
     {"cardName":"The Aeon", "cardInterpretation":"Keywords: Renewal, transformation, rebirth, inner calling, judgement, absolution, knowledge of coherences, widened perception and the liberation of hidden abilities"},
     {"cardName":"The Universe", "cardInterpretation":"Keywords: Culmination, completion, integration, accomplishment, travel, harmony between spirit and body"}
 ];    
-    /*{"cardName":"Ace of Wands", "cardInterpretation":"Keywords: Inspiration, power, creation, beginnings, potential <br> Zodiac Influences: Aries, Leo, Sagittarius"},
+    /*
+    {"cardName":"Ace of Wands", "cardInterpretation":"Keywords: Inspiration, power, creation, beginnings, potential <br> Zodiac Influences: Aries, Leo, Sagittarius"},
     {"cardName":"Dominion", "cardInterpretation":"Keywords: Future planning, progress, decisions, discovery <br> Zodiac Influence: Mars in Aries"},
     {"cardName":"Virtue", "cardInterpretation":"Keywords: Preparation, foresight, enterprise, expansion <br> Zodiac Influence: Sun in Aries"},
     {"cardName":"Completion", "cardInterpretation":"Keywords: Celebration, harmony, marriage, home, community <br> Zodiac Influence: Venus in Aries"},
@@ -184,7 +187,7 @@ var deckInterpretation = [
     {"cardName":"Queen of Disks", "cardInterpretation":"Personality: Kind, charming, great-hearted, truthful, stable, sensual <br> Elemental Influences: Water / Earth"},
     {"cardName":"Knight of Disks", "cardInterpretation":"Personality: Security, control, power, discipline, abundance <br> Elemental Influences: Fire / Earth"} 
 ];
-
+*/
 
 
 
