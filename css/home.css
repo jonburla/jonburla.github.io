@@ -77,7 +77,7 @@ img{
   transition: .5s;
 }
 
-@media only screen and (max-width: 500px){
+@media only screen and (max-width: 300px){
   /* .pickanothercardDIV{
     padding-bottom: 0px;
   }
@@ -91,7 +91,7 @@ img{
     transition: 0s;
   } 
   .cardpictureDIV{
-  height: 60%;
+  height: 20%;
   }
   h2{
   font-size: 20px;
@@ -112,10 +112,4 @@ h2{
 
 h4{
   font-size: 16px;
-}
-
-@media only screen and (max-width: 1000px){
-  .cardpictureDIV{
-  height: 85%;
-  }
 }
