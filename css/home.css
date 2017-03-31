@@ -24,7 +24,7 @@
 
 .cardpictureDIV{
   background-color: transparent;
-  height: 75%;
+  height: 85%;
 }
 
 .interpretationDIV{
@@ -91,7 +91,7 @@ img{
     transition: 0s;
   } 
   .cardpictureDIV{
-  height: 70%;
+  height: 20%;
   }
   h2{
   font-size: 20px;
