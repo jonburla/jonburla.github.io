@@ -5,17 +5,17 @@
     	<meta http-equiv="X-UA-Compatible" content="IE=edge">
     	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-    	<title>Card Gallery</title>
+    	<title>Pick a Card</title>
 
 	    <link href="css/bootstrap.css" rel="stylesheet">
-		<link href="css/card_gallery.css" type="text/css" rel="stylesheet" />
+		<link href="css/home.css" type="text/css" rel="stylesheet" />
 	</head>
 
 	<body>
 		<div class="container-fluid contentDIV" >
 	     	<div class="row">
 
-			    <nav class="navbar navbar-default">
+				<nav class="navbar navbar-default">
 			  		<div class="container-fluid">
 			    		<div class="navbar-header">
 			      			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
@@ -29,7 +29,7 @@
 					    <!-- Collect the nav links, forms, and other content for toggling -->
 					    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					     	<ul class="nav navbar-nav navbar-right">
-					        	<li><a href="majors.html">Major Arcana Only</a></li>
+					     		<li><a href="majors.html">Major Arcana Only</a></li>
 					        	<li><a href="card_gallery.html">Card Gallery</a></li>
 					        	<li><a href="faq.html">FAQ</a></li>
 					        	<li><a href="about.html">About</a></li>
@@ -37,7 +37,29 @@
 					    </div>	<!-- /.navbar-collapse -->
 					</div>	<!-- /.container-fluid -->
 				</nav>
-				To come 
+
+				<section class="col-xs-12 instructionsDIV"> 
+	       			<h4>Ask a question, then select your card below</h4>
+	       		</section>
+
+	       		<section class="col-xs-12 titleDIV"> 
+	       			<h2 id="cardTitleDIV"> </h2>
+	       		</section>
+
+	       		<section class="col-xs-12 cardpictureDIV">
+	       			<img id="backcoverDIV" src="images/backcover.jpg"/>
+	       			<img id="randomCardDIV" src=" "/>
+	       		</section>
+
+	       		<section class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-3 col-lg-4 col-lg-offset-4 interpretationDIV"> 	
+	      			<p id="randomCardInterpretationDIV"> </p>
+	       		</section>
+
+	       		<section class="col-xs-12 pickanothercardDIV"> 
+	       			<!--<a href="index.html"> <p id="pickanothercardtext"> Pick Another Card</p></a>-->
+	       			<p id="pickanothercardtext"> Pick Another Card</p>
+	       		</section>
+
 	    	</div>
 		</div>
 
@@ -45,6 +67,7 @@
 		
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 		<script src="js/bootstrap.js"></script>
-		<script src="js/script.js"></script>
+		<script src="js/scriptmajors.js"></script>
 	</body>
 </html>
+<!-- -->
