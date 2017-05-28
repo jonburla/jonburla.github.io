@@ -79,7 +79,7 @@ $('document').ready(function(){
 
 var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress', 
 'The Emperor', 'The Hierophant', 'The Lovers', 'The Chariot', 'Adjustment',
-'The Hermit', 'Fortune', 'Persuasion', 'Lust', 'The Hanged Man', 'Death', 'Art',
+'The Hermit', 'Fortune', 'Persuasion', 'Lust', 'Death', 'Art',
 'The Tower', 'The Star', 'The Moon', 'The Sun', 'The Aeon',
 'The Universe',
 
@@ -113,7 +113,7 @@ var deckInterpretation = [
     {"cardName":"Fortune", "cardInterpretation":"Keywords: Good luck, karma, unexpected changings, fortune, realization of luck, life cycles, destiny, a turning point"},
     {"cardName":"Persuasion", "cardInterpretation":"Keywords: Power, vitality, unconditional devotion, energy, passion, charisma, joy of life, courage, patience, control, compassion"},
     {"cardName":"Lust", "cardInterpretation":"Keywords: Joy of Strength Exercised, power, vitality, unconditional devotion, energy, passion, charisma, joy of life, courage, patience, control, compassion"},
-    {"cardName":"The Hanged Man", "cardInterpretation":"Keywords: Overcoming the ego, changing life, a new perspective, patience, letting go, sacrifice for the higher good, acceptace of fate"},
+    /*{"cardName":"The Hanged Man", "cardInterpretation":"Keywords: Overcoming the ego, changing life, a new perspective, patience, letting go, sacrifice for the higher good, acceptace of fate"},*/
     {"cardName":"Death", "cardInterpretation":"Keywords: Endings, beginnings, change, transformation and metamorphosis, transition"},
     {"cardName":"Art", "cardInterpretation":"Keywords: Balance and harmony, combining opposities in moderation, magic, creation, alchemy, purpose, meaning, temperance"},
     /*{"cardName":"The Beast", "cardInterpretation":"Keywords: Personal Power, intellect, never accepting dogma, independence, bondage, addiction, wilfulness, sexuality, materialism"},*/
