@@ -92,7 +92,7 @@ var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress',
 'Prince of Cups','Queen of Cups', 'Knight of Cups',
 
 'Ace of Swords','Peace', 'Truce', 'Paradox', 'Science', 'Dexterity', 'Interference',
-'Analysis', 'Trupian Logic', 'Princess of Swords', 'Prince of Swords',
+'Analysis', 'Trumpian Logic', 'Princess of Swords', 'Prince of Swords',
 'Queen of Swords', 'Knight of Swords',
 
 'Ace of Disks','Change', 'Works', 'Power', 'Anxiety', 'Success', 'Perseverance',
