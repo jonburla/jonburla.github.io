@@ -91,12 +91,12 @@ var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress',
 'Creation', 'Transmutation', 'Happiness', 'Satiety', 'Princess of Cups',
 'Prince of Cups','Queen of Cups', 'Knight of Cups',
 
-'Ace of Swords','Peace', 'Truce', 'Paradox', 'Science', 'Dexterity', 'Interference',
+'Ace of Swords','Peace', 'Truce', 'Paradox', 'Science', 'Ingenuity', 'Interference',
 'Analysis', 'Trumpian Logic', 'Princess of Swords', 'Prince of Swords',
 'Queen of Swords', 'Knight of Swords',
 
-'Ace of Disks','Change', 'Works', 'Power', 'Anxiety', 'Success', 'Perseverance',
-'Prudence', 'Gain', 'Wealth', 'Princess of Disks', 'Prince of Disks', 
+'Ace of Disks','Change', 'Works', 'Power', 'Anxiety', 'Success', 'Patience',
+'Apprenticeship', 'Gain', 'Wealth', 'Princess of Disks', 'Prince of Disks', 
 'Queen of Disks', 'Knight of Disks'];
 
 var deckInterpretation = [
@@ -160,7 +160,7 @@ var deckInterpretation = [
     {"cardName":"Truce", "cardInterpretation":"Keywords: Passive power, stability in an idea, contemplation, recuperation, passivity, relaxation, rest <br> Zodiac Influence: Jupiter in Libra"},
     {"cardName":"Paradox", "cardInterpretation":"Keywords: Equivocation, inconsistency, temporary defeat, invalidity, fallacy, intellectual crisis, struggling against fate, tension, loss<br> Zodiac Influence: Venus in Aquarius"},
     {"cardName":"Science", "cardInterpretation":"Keywords: Success after anxiety and trouble, search for truth, regretful but necessary transition, rite of passage <br> Zodiac Influence: Mercury in Aquarius"},
-    {"cardName":"Dexterity", "cardInterpretation":"Keywords: Flexibility, forging one's destiny, deftness, finesse, going it alone, stealth, deception, betrayal, getting away with something <br> Zodiac Influence: Moon in Aquarius"},
+    {"cardName":"Ingenuity", "cardInterpretation":"Keywords: Dexterity, flexibility, forging one's destiny, deftness, finesse, going it alone, stealth, deception, betrayal, getting away with something <br> Zodiac Influence: Moon in Aquarius"},
     {"cardName":"Interference", "cardInterpretation":"Restlessness, indecision, self-imposed restriction, mental imprisonment <br> Zodiac Influence: Jupiter in Gemini"},
     {"cardName":"Analysis", "cardInterpretation":"Keywords: Investiation, dissection, scrutiny, analysis paralysis, depression, nightmares, cruelty, intense anxiety, despair <br> Zodiac Influence: Mars in Gemini"},
     {"cardName":"Trumpian Logic", "cardInterpretation":"'Alternative Facts', destruction of the intellect, logic of lunatics, reason divorced from reality, rejection of the life force, but, new dawn to follow this darkest hour of illogicality and destruction<br> Zodiac Influence: Sun in Gemini"},
@@ -175,8 +175,8 @@ var deckInterpretation = [
     {"cardName":"Power", "cardInterpretation":"Keywords: Control, stability, security, possession <br> Zodiac Influence: Sun in Capricorn"},
     {"cardName":"Anxiety", "cardInterpretation":"Keywords: Isolation, insecurity, worry, financial loss, poverty <br> Zodiac Influence: Mercury in Taurus"},
     {"cardName":"Success", "cardInterpretation":"Keywords: Generosity, charity, giving, prosperity, sharing wealth <br> Zodiac Influence: Moon in Taurus"},
-    {"cardName":"Perseverance", "cardInterpretation":"Keywords: Harvest to be reaped, profit, investment of energy and time, delays, undexpected setbacks, limited success or reward <br> Zodiac Influence: Saturn in Taurus"},
-    {"cardName":"Prudence", "cardInterpretation":"Keywords: Apprenticeship, education, quality, engagement <br> Zodiac Influence: Sun in Virgo"},
+    {"cardName":"Patience", "cardInterpretation":"Keywords: Persevereance, determination, harvest to be reaped, profit, investment of energy and time, delays, undexpected setbacks, limited success or reward <br> Zodiac Influence: Saturn in Taurus"},
+    {"cardName":"Apprenticeship", "cardInterpretation":"Keywords: Prudence, education, quality, engagement <br> Zodiac Influence: Sun in Virgo"},
     {"cardName":"Gain", "cardInterpretation":"Keywords: Gratitude, luxury, self-sufficiency, culmination <br> Zodiac Influence: Venus in Virgo"},
     {"cardName":"Wealth", "cardInterpretation":"Keywords: Wealth, inheritance, family, establishment, retirement <br> Zodiac Influence: Mercury in Virgo"},
     {"cardName":"Princess of Disks", "cardInterpretation":"Personality: Manifestation, financial opportunity, new job <br> Elemental Influences: Earth / Earth"},
