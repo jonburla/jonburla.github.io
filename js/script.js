@@ -84,7 +84,7 @@ var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress',
 'The Universe',
 
 'Ace of Wands','Dominion', 'Virtue', 'Completion', 'Strife', 'Victory',
-'Valor', 'Swiftness', 'Faith', 'Responsibility', 'Princess of Wands',
+'Fortitude', 'Swiftness', 'Faith', 'Responsibility', 'Princess of Wands',
 'Prince of Wands','Queen of Wands', 'Knight of Wands',
 
 'Ace of Cups','Love', 'Abundance', 'Meditation', 'Disillusionment', 'Pleasure',
@@ -130,7 +130,7 @@ var deckInterpretation = [
     {"cardName":"Completion", "cardInterpretation":"Keywords: Celebration, harmony, marriage, home, community <br> Zodiac Influence: Venus in Aries"},
     {"cardName":"Strife", "cardInterpretation":"Keywords: Disagreement, competition, tension, conflict <br> Zodiac Influence: Saturn in Leo"},
     {"cardName":"Victory", "cardInterpretation":"Keywords: Public recognition, progress, self-confidence <br> Zodiac Influence: Jupiter in Leo"},
-    {"cardName":"Valor", "cardInterpretation":"Keywords: Challenge, competition, perseverance <br> Zodiac Influence: Mars in Leo"},
+    {"cardName":"Fortitude", "cardInterpretation":"Keywords: Bravery, valor, challenge, competition, perseverance <br> Zodiac Influence: Mars in Leo"},
     {"cardName":"Swiftness", "cardInterpretation":"Keywords: Speed, action, air travel, movement, swift change <br> Zodiac Influence: Mercury in Sagittarius"},
     {"cardName":"Faith", "cardInterpretation":"Keywords: Courage, persistence, test of faith, resilience <br> Zodiac Influence: Moon in Sagittarius"},
     {"cardName":"Responsibility", "cardInterpretation":"Keywords: Burden, responsibility, hard work, stress <br> Zodiac Influence: Saturn in Sagittarius"},
