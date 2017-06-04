@@ -95,7 +95,7 @@ var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress',
 'Analysis', 'Trumpian Logic', 'Princess of Swords', 'Prince of Swords',
 'Queen of Swords', 'Knight of Swords',
 
-'Ace of Disks','Change', 'Works', 'Power', 'Anxiety', 'Success', 'Patience',
+'Ace of Disks','Change', 'Works', 'Power', 'Anxiety', 'Success', 'Perseverance',
 'Apprenticeship', 'Gain', 'Wealth', 'Princess of Disks', 'Prince of Disks', 
 'Queen of Disks', 'Knight of Disks'];
 
@@ -175,7 +175,7 @@ var deckInterpretation = [
     {"cardName":"Power", "cardInterpretation":"Keywords: Control, stability, security, possession <br> Zodiac Influence: Sun in Capricorn"},
     {"cardName":"Anxiety", "cardInterpretation":"Keywords: Isolation, insecurity, worry, financial loss, poverty <br> Zodiac Influence: Mercury in Taurus"},
     {"cardName":"Success", "cardInterpretation":"Keywords: Generosity, charity, giving, prosperity, sharing wealth <br> Zodiac Influence: Moon in Taurus"},
-    {"cardName":"Patience", "cardInterpretation":"Keywords: Persevereance, determination, harvest to be reaped, profit, investment of energy and time, delays, undexpected setbacks, limited success or reward <br> Zodiac Influence: Saturn in Taurus"},
+    {"cardName":"Perseverance", "cardInterpretation":"Keywords: Persevereance, determination, harvest to be reaped, profit, investment of energy and time, delays, undexpected setbacks, limited success or reward <br> Zodiac Influence: Saturn in Taurus"},
     {"cardName":"Apprenticeship", "cardInterpretation":"Keywords: Prudence, education, quality, engagement <br> Zodiac Influence: Sun in Virgo"},
     {"cardName":"Gain", "cardInterpretation":"Keywords: Gratitude, luxury, self-sufficiency, culmination <br> Zodiac Influence: Venus in Virgo"},
     {"cardName":"Wealth", "cardInterpretation":"Keywords: Wealth, inheritance, family, establishment, retirement <br> Zodiac Influence: Mercury in Virgo"},
