@@ -79,7 +79,7 @@ $('document').ready(function(){
 
 var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress', 
 'The Emperor', 'The Hierophant', 'The Lovers', 'The Chariot', 'Adjustment',
-'The Hermit', 'Fortune', 'Persuasion', 'Lust', 'Death', 'Art',
+'The Hermit', 'Fortune', 'Lust', 'Death', 'Art',
 'The Tower', 'The Star', 'The Moon', 'The Sun', 'The Aeon',
 'The Universe',
 
@@ -92,7 +92,7 @@ var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress',
 'Prince of Cups','Queen of Cups', 'Knight of Cups',
 
 'Ace of Swords','Peace', 'Truce', 'Paradox', 'Science', 'Ingenuity', 'Interference',
-'Analysis', 'Trumpian Logic', 'Princess of Swords', 'Prince of Swords',
+'Analysis', 'Princess of Swords', 'Prince of Swords',
 'Queen of Swords', 'Knight of Swords',
 
 'Ace of Disks','Change', 'Works', 'Power', 'Anxiety', 'Success', 'Perseverance',
@@ -111,7 +111,7 @@ var deckInterpretation = [
     {"cardName":"Adjustment", "cardInterpretation":"Keywords: Justice, fairness, truth, will for knowlegde, harmony between reality and instinct, objectivity, law"},
     {"cardName":"The Hermit", "cardInterpretation":"Keywords: Wisdom, realization, mental maturity, the inner light, soul-searching, introspection, retiring from life, being alone, inner guidance"},
     {"cardName":"Fortune", "cardInterpretation":"Keywords: Good luck, karma, unexpected changings, fortune, realization of luck, life cycles, destiny, a turning point"},
-    {"cardName":"Persuasion", "cardInterpretation":"Keywords: Power, vitality, unconditional devotion, energy, passion, charisma, joy of life, courage, patience, control, compassion"},
+    /*{"cardName":"Persuasion", "cardInterpretation":"Keywords: Power, vitality, unconditional devotion, energy, passion, charisma, joy of life, courage, patience, control, compassion"},*/
     {"cardName":"Lust", "cardInterpretation":"Keywords: Joy of Strength Exercised, power, vitality, unconditional devotion, energy, passion, charisma, joy of life, courage, patience, control, compassion"},
     /*{"cardName":"The Hanged Man", "cardInterpretation":"Keywords: Overcoming the ego, changing life, a new perspective, patience, letting go, sacrifice for the higher good, acceptace of fate"},*/
     {"cardName":"Death", "cardInterpretation":"Keywords: Endings, beginnings, change, transformation and metamorphosis, transition"},
@@ -163,7 +163,7 @@ var deckInterpretation = [
     {"cardName":"Ingenuity", "cardInterpretation":"Keywords: Dexterity, flexibility, forging one's destiny, deftness, finesse, going it alone, stealth, deception, betrayal, getting away with something <br> Zodiac Influence: Moon in Aquarius"},
     {"cardName":"Interference", "cardInterpretation":"Restlessness, indecision, self-imposed restriction, mental imprisonment <br> Zodiac Influence: Jupiter in Gemini"},
     {"cardName":"Analysis", "cardInterpretation":"Keywords: Investiation, dissection, scrutiny, analysis paralysis, depression, nightmares, cruelty, intense anxiety, despair <br> Zodiac Influence: Mars in Gemini"},
-    {"cardName":"Trumpian Logic", "cardInterpretation":"'Alternative Facts', destruction of the intellect, logic of lunatics, reason divorced from reality, rejection of the life force, but, new dawn to follow this darkest hour of illogicality and destruction<br> Zodiac Influence: Sun in Gemini"},
+    /*{"cardName":"Trumpian Logic", "cardInterpretation":"'Alternative Facts', destruction of the intellect, logic of lunatics, reason divorced from reality, rejection of the life force, but, new dawn to follow this darkest hour of illogicality and destruction<br> Zodiac Influence: Sun in Gemini"},*/
     {"cardName":"Princess of Swords", "cardInterpretation":"Personality: Talkative, curious, mentally restless, energetic <br> Elemental Influences: Earth / Air"},
     {"cardName":"Prince of Swords", "cardInterpretation":"Personality: Idealism, intellectuall agility, creativity, richdom of ideas, intelligence, mastery of words <br> Elemental Influences: Air / Air "},
     {"cardName":"Queen of Swords", "cardInterpretation":"Personality: Quick thinker, organised, perceptive, independent <br> Elemental Influences: Water / Air"},
