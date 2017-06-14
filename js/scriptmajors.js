@@ -80,7 +80,7 @@ $('document').ready(function(){
 var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress', 
 'The Emperor', 'The Hierophant', 'The Lovers', 'The Chariot', 'Adjustment',
 'The Hermit', 'Fortune', 'Lust', 'Death', 'Art',
-'The Tower', 'The Star', 'The Moon', 'The Sun', 'The Aeon',
+'The Tower', 'The Star', 'The Moon', 'The Sun', 'The New Aeon',
 'The Universe'];
 
 /*
@@ -123,7 +123,7 @@ var deckInterpretation = [
     {"cardName":"The Star", "cardInterpretation":"Keywords: Hope, spirituality, optimism, trust, renewal, inspiration, serenity"},
     {"cardName":"The Moon", "cardInterpretation":"Keywords: Subconscious, intuitivity, wisdom, maturity, confrontation with the dark side, illusion, fear, anxiety, insecurity"},
     {"cardName":"The Sun", "cardInterpretation":"Keywords: Vitality, generosity, warmth, selfconfidence, fun, success, positivity, love of life"},
-    {"cardName":"The Aeon", "cardInterpretation":"Keywords: Renewal, transformation, rebirth, inner calling, judgement, absolution, knowledge of coherences, widened perception and the liberation of hidden abilities"},
+    {"cardName":"The New Aeon", "cardInterpretation":"Keywords: Renewal, transformation, rebirth, inner calling, judgement, absolution, knowledge of coherences, widened perception and the liberation of hidden abilities"},
     {"cardName":"The Universe", "cardInterpretation":"Keywords: Culmination, completion, integration, accomplishment, travel, harmony between spirit and body"}
 ];    
     /*
