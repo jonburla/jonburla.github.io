@@ -80,7 +80,7 @@ $('document').ready(function(){
 var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress', 
 'The Emperor', 'The Hierophant', 'The Lovers', 'The Chariot', 'Adjustment',
 'The Hermit', 'Fortune', 'Lust', 'Death', 'Art',
-'The Tower', 'The Star', 'The Moon', 'The Sun', 'The Aeon',
+'The Tower', 'The Star', 'The Moon', 'The Sun', 'The New Aeon',
 'The Universe',
 
 'Ace of Wands','Dominion', 'Virtue', 'Completion', 'Victory',
@@ -91,11 +91,11 @@ var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress',
 'Creation', 'Happiness', 'Satiety', 'Princess of Cups',
 'Prince of Cups','Queen of Cups', 'Knight of Cups',
 
-'Ace of Swords','Peace', 'Truce', 'Science', 'Ingenuity', 'Interference',
-'Analysis', 'Princess of Swords', 'Prince of Swords',
+'Ace of Swords','Peace', 'Truce', 'Science', 'Divine Intuivity',
+'Divine Interference','Analysis', 'Princess of Swords', 'Prince of Swords',
 'Queen of Swords', 'Knight of Swords',
 
-'Ace of Disks','Change', 'Works', 'Power', 'Success',
+'Ace of Disks','Change', 'Deep Work', 'Power', 'Success',
 'Apprenticeship', 'Gain', 'Wealth', 'Princess of Disks', 'Prince of Disks', 
 'Queen of Disks', 'Knight of Disks'];
 
@@ -121,7 +121,7 @@ var deckInterpretation = [
     {"cardName":"The Star", "cardInterpretation":"Keywords: Hope, spirituality, optimism, trust, renewal, inspiration, serenity"},
     {"cardName":"The Moon", "cardInterpretation":"Keywords: Subconscious, intuitivity, wisdom, maturity, confrontation with the dark side, illusion, fear, anxiety, insecurity"},
     {"cardName":"The Sun", "cardInterpretation":"Keywords: Vitality, generosity, warmth, selfconfidence, fun, success, positivity, love of life"},
-    {"cardName":"The Aeon", "cardInterpretation":"Keywords: Renewal, transformation, rebirth, inner calling, judgement, absolution, knowledge of coherences, widened perception and the liberation of hidden abilities"},
+    {"cardName":"The New Aeon", "cardInterpretation":"Keywords: Renewal, transformation, rebirth, inner calling, judgement, absolution, knowledge of coherences, widened perception and the liberation of hidden abilities"},
     {"cardName":"The Universe", "cardInterpretation":"Keywords: Culmination, completion, integration, accomplishment, travel, harmony between spirit and body"},    
     
     {"cardName":"Ace of Wands", "cardInterpretation":"Keywords: Inspiration, power, creation, beginnings, potential <br> Zodiac Influences: Aries, Leo, Sagittarius"},
@@ -160,8 +160,8 @@ var deckInterpretation = [
     {"cardName":"Truce", "cardInterpretation":"Keywords: Passive power, stability in an idea, contemplation, recuperation, passivity, relaxation, rest <br> Zodiac Influence: Jupiter in Libra"},
     /*{"cardName":"Paradox", "cardInterpretation":"Keywords: Equivocation, inconsistency, temporary defeat, invalidity, fallacy, intellectual crisis, struggling against fate, tension, loss<br> Zodiac Influence: Venus in Aquarius"},*/
     {"cardName":"Science", "cardInterpretation":"Keywords: Success after anxiety and trouble, search for truth, regretful but necessary transition, rite of passage <br> Zodiac Influence: Mercury in Aquarius"},
-    {"cardName":"Ingenuity", "cardInterpretation":"Keywords: Dexterity, flexibility, forging one's destiny, deftness, finesse, going it alone, stealth, deception, betrayal, getting away with something <br> Zodiac Influence: Moon in Aquarius"},
-    {"cardName":"Interference", "cardInterpretation":"Restlessness, indecision, self-imposed restriction, mental imprisonment <br> Zodiac Influence: Jupiter in Gemini"},
+    {"cardName":"Divine Intuivity", "cardInterpretation":"Keywords: Dexterity, flexibility, forging one's destiny, deftness, finesse, going it alone, stealth, deception, betrayal, getting away with something <br> Zodiac Influence: Moon in Aquarius"},
+    {"cardName":"Divine Interference", "cardInterpretation":"Restlessness, indecision, self-imposed restriction, mental imprisonment <br> Zodiac Influence: Jupiter in Gemini"},
     {"cardName":"Analysis", "cardInterpretation":"Keywords: Investiation, dissection, scrutiny, analysis paralysis, depression, nightmares, cruelty, intense anxiety, despair <br> Zodiac Influence: Mars in Gemini"},
     /*{"cardName":"Trumpian Logic", "cardInterpretation":"'Alternative Facts', destruction of the intellect, logic of lunatics, reason divorced from reality, rejection of the life force, but, new dawn to follow this darkest hour of illogicality and destruction<br> Zodiac Influence: Sun in Gemini"},*/
     {"cardName":"Princess of Swords", "cardInterpretation":"Personality: Talkative, curious, mentally restless, energetic <br> Elemental Influences: Earth / Air"},
@@ -171,7 +171,7 @@ var deckInterpretation = [
 
     {"cardName":"Ace of Disks", "cardInterpretation":"Keywords: Manifestation, new financial opportunity, prosperity <br> Zodiac Influences: Capricorn, Taurus, Virgo"},
     {"cardName":"Change", "cardInterpretation":"Keywords: Balance, adaptability, time management, prioritisation <br> Zodiac Influence: Jupiter in Capricorn"},
-    {"cardName":"Works", "cardInterpretation":"Keywords: Teamwork, initial fulfilment, collaboration, learning <br> Zodiac Influence: Mars in Capricorn"},
+    {"cardName":"Deep Work", "cardInterpretation":"Keywords: Teamwork, initial fulfilment, collaboration, learning <br> Zodiac Influence: Mars in Capricorn"},
     {"cardName":"Power", "cardInterpretation":"Keywords: Control, stability, security, possession <br> Zodiac Influence: Sun in Capricorn"},
     /*{"cardName":"Anxiety", "cardInterpretation":"Keywords: Isolation, insecurity, worry, financial loss, poverty <br> Zodiac Influence: Mercury in Taurus"},*/
     {"cardName":"Success", "cardInterpretation":"Keywords: Generosity, charity, giving, prosperity, sharing wealth <br> Zodiac Influence: Moon in Taurus"},
