@@ -100,7 +100,7 @@ var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress',
 'Creation', 'Transmutation', 'Happiness', 'Satiety', 'Princess of Cups',
 'Prince of Cups','Queen of Cups', 'Knight of Cups',
 
-'Ace of Cups Reversed','Love Reversed', 'Abundance Reversed', 'Meditation Reversed', 'Disillusionment Reversed', 'Pleasure Reversed',
+'Ace of Cups Reversed','Love Reversed', 'Abundance Reversed', 'Meditation Reversed', 'Disillusionment Resolving', 'Pleasure Reversed',
 'Illusion', 'Transmutation Reversed', 'Happiness Reversed', 'Satiety Reversed', 'Princess of Cups Reversed',
 'Prince of Cups Reversed','Queen of Cups Reversed', 'Knight of Cups Reversed',
 
