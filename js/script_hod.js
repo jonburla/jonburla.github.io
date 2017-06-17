@@ -112,11 +112,11 @@ var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress',
 'Science Reversed', 'Dexterity', 'Analysis Reversed', 'Trumpian Logic Reversed', 'Princess of Swords Reversed',
 'Prince of Swords Reversed', 'Queen of Swords Reversed', 'Knight of Swords Reversed',
 
-'Ace of Disks','Change', ' Deep Work', 'Power', 'Anxiety', 'Success', 'Perseverance',
+'Ace of Disks','Change', 'Deep Work', 'Power', 'Anxiety', 'Success', 'Perseverance',
 'Apprenticeship', 'Gain', 'Wealth', 'Princess of Disks', 'Prince of Disks', 
 'Queen of Disks', 'Knight of Disks',
 
-'Ace of Disks Reversed','Change Stagnated', 'Works Reversed', 'Power Reversed', 'Anxiety Resolving', 'Success Reversed', 'Failure',
+'Ace of Disks Reversed','Change Stagnated', 'Deep Work Reversed', 'Power Reversed', 'Anxiety Resolving', 'Success Reversed', 'Failure',
 'Prudence Reversed', 'Gain Reversed', 'Wealth Reversed', 'Princess of Disks Reversed', 'Prince of Disks Reversed', 
 'Queen of Disks Reversed', 'Knight of Disks Reversed'];
 
