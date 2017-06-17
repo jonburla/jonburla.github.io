@@ -85,7 +85,7 @@ var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress',
 
 'The Fool Reversed', 'The Magician Reversed', 'The Priestess Reversed', 'The Empress Reversed', 
 'The Emperor Reversed', 'The Hierophant Reversed', 'The Lovers Reversed', 'The Chariot Reversed', 'Adjustment Needed',
-'The Hermit Reversed', 'Fortune Reversed', 'Lust Reversed', 'Death Reversed', 'Art Reversed', 'The Tower Reversed',
+'The Hermit Reversed', 'Fortune Reversed', 'Lust Reversed', 'Death Needed', 'Art Reversed', 'The Tower Reversed',
 'The Star Reversed', 'The Moon Reversed', 'The Sun Reversed', 'The New Aeon Reversed','The Universe Reversed',
 
 'Ace of Wands','Dominion', 'Virtue', 'Completion', 'Strife', 'Victory',
@@ -109,7 +109,7 @@ var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress',
 'Queen of Swords', 'Knight of Swords',
 
 'Ace of Swords Reversed','Peace Reversed', 'Sorrow Reversed', 'Truce Reversed', 'Paradox Resolving',
-'Science Reversed', 'Dexterity', 'Analysis Reversed', 'Trumpian Logic Reversed', 'Princess of Swords Reversed',
+'Science Reversed', 'Dexterity', 'Interference', 'Analysis Paralysis', 'Trumpian Logic Reversed', 'Princess of Swords Reversed',
 'Prince of Swords Reversed', 'Queen of Swords Reversed', 'Knight of Swords Reversed',
 
 'Ace of Disks','Change', 'Deep Work', 'Power', 'Anxiety', 'Success', 'Perseverance',
@@ -117,7 +117,7 @@ var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress',
 'Queen of Disks', 'Knight of Disks',
 
 'Ace of Disks Reversed','Change Stagnated', 'Deep Work Reversed', 'Power Reversed', 'Anxiety Resolving', 'Success Reversed', 'Failure',
-'Prudence Reversed', 'Gain Reversed', 'Wealth Reversed', 'Princess of Disks Reversed', 'Prince of Disks Reversed', 
+'Apprenticeship Reversed', 'Gain Reversed', 'Wealth Reversed', 'Princess of Disks Reversed', 'Prince of Disks Reversed', 
 'Queen of Disks Reversed', 'Knight of Disks Reversed'];
 
 var deckInterpretation = [
@@ -250,7 +250,7 @@ var deckInterpretation = [
     {"cardName":"Science Reversed", "cardInterpretation":"Keywords: Success after anxiety and trouble, search for truth, regretful but necessary transition, rite of passage <br> Zodiac Influence: Mercury in Aquarius"},
     {"cardName":"Dexterity", "cardInterpretation":"Keywords: Dexterity, flexibility, forging one's destiny, deftness, finesse, going it alone, stealth, deception, betrayal, getting away with something <br> Zodiac Influence: Moon in Aquarius"},
     {"cardName":"Interference", "cardInterpretation":"Zodiac Influence: Jupiter in Gemini"},
-    {"cardName":"Analysis Reversed", "cardInterpretation":"Keywords: Investiation, dissection, scrutiny, analysis paralysis, depression, nightmares, cruelty, intense anxiety, despair <br> Zodiac Influence: Mars in Gemini"},
+    {"cardName":"Analysis Paralysis", "cardInterpretation":"Keywords: Investiation, dissection, scrutiny, analysis paralysis, depression, nightmares, cruelty, intense anxiety, despair <br> Zodiac Influence: Mars in Gemini"},
     {"cardName":"Trumpian Logic Reversed", "cardInterpretation":"'Alternative Facts', destruction of the intellect, logic of lunatics, reason divorced from reality, rejection of the life force, but, new dawn to follow this darkest hour of illogicality and destruction<br> Zodiac Influence: Sun in Gemini"},
     {"cardName":"Princess of Swords Reversed", "cardInterpretation":"Personality: Talkative, curious, mentally restless, energetic <br> Elemental Influences: Earth / Air"},
     {"cardName":"Prince of Swords Reversed", "cardInterpretation":"Personality: Idealism, intellectuall agility, creativity, richdom of ideas, intelligence, mastery of words <br> Elemental Influences: Air / Air "},
