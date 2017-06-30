@@ -85,7 +85,7 @@ var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress',
 
 'The Fool Untapped', 'The Magician Untapped', 'The Priestess Untapped', 'The Empress Untapped', 
 'The Emperor Untapped', 'The Hierophant Untapped', 'The Lovers Untapped', 'The Chariot Untapped', 'Adjustment Untapped',
-'The Hermit Untapped', 'Fortune Untapped', 'Lust Untapped', 'Death Untapped', 'Art Untapped', 'The Higher Self Untapped', 'The Tower Untapped',
+'The Hermit Untapped', 'Fortune Untapped', 'Lust Untapped', 'Death Untapped', 'Art Untapped', 'The Devil', 'The Tower Untapped',
 'The Star Untapped', 'The Moon Untapped', 'The Sun Untapped', 'The New Aeon Untapped','The Universe Untapped',
 
 'Ace of Wands','Dominion', 'Virtue', 'Completion', 'Strife', 'Victory',
@@ -136,7 +136,6 @@ var deckInterpretation = [
     /*{"cardName":"The Hanged Man", "cardInterpretation":"Keywords: Overcoming the ego, changing life, a new perspective, patience, letting go, sacrifice for the higher good, acceptace of fate"},*/
     {"cardName":"Death", "cardInterpretation":"Keywords: Endings, beginnings, change, transformation and metamorphosis, transition"},
     {"cardName":"Art", "cardInterpretation":"Keywords: Balance and harmony, combining opposities in moderation, magic, creation, alchemy, purpose, meaning, temperance"},
-    /*{"cardName":"The Devil", "cardInterpretation":"Keywords: Personal Power, intellect, never accepting dogma, independence, bondage, addiction, wilfulness, sexuality, materialism"},*/
     {"cardName":"The Higher Self", "cardInterpretation":"Keywords: Channeling, Clairvoyance, Divine Communication, Prophetic, Telepathic, Psychic Discernment, Extrasensory <br> Zodiac Influence: Jupiter in Gemini"},
     {"cardName":"The Tower", "cardInterpretation":"Keywords: Revelation, sudden change, upheaval, disaster, sudden realization of the truth, the will to change old ways"},
     {"cardName":"The Star", "cardInterpretation":"Keywords: Hope, spirituality, optimism, trust, renewal, inspiration, serenity"},
@@ -160,8 +159,7 @@ var deckInterpretation = [
     /*{"cardName":"The Hanged Man Untapped", "cardInterpretation":"Keywords: Overcoming the ego, changing life, a new perspective, patience, letting go, sacrifice for the higher good, acceptace of fate"},*/
     {"cardName":"Death Untapped", "cardInterpretation":"Keywords: Endings, beginnings, change, transformation and metamorphosis, transition"},
     {"cardName":"Art Untapped", "cardInterpretation":"Keywords: Balance and harmony, combining opposities in moderation, magic, creation, alchemy, purpose, meaning, temperance"},
-    /*{"cardName":"The Devil Untapped", "cardInterpretation":"Keywords: Personal Power, intellect, never accepting dogma, independence, bondage, addiction, wilfulness, sexuality, materialism"},*/
-    {"cardName":"The Higher Self Untapped", "cardInterpretation":"Keywords: Channeling, Clairvoyance, Divine Communication, Prophetic, Telepathic, Psychic Discernment, Extrasensory <br> Zodiac Influence: Jupiter in Gemini"},    
+    {"cardName":"The Devil", "cardInterpretation":"Bondage, addiction, wilfulness, sexuality, materialism"},
     {"cardName":"The Tower Untapped", "cardInterpretation":"Keywords: Revelation, sudden change, upheaval, disaster, sudden realization of the truth, the will to change old ways"},
     {"cardName":"The Star Untapped", "cardInterpretation":"Keywords: Hope, spirituality, optimism, trust, renewal, inspiration, serenity"},
     {"cardName":"The Moon Untapped", "cardInterpretation":"Keywords: Subconscious, intuitivity, wisdom, maturity, confrontation with the dark side, illusion, fear, anxiety, insecurity"},
