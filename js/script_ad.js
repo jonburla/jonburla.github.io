@@ -159,7 +159,7 @@ var deckInterpretation = [
     /*{"cardName":"The Hanged Man Untapped", "cardInterpretation":"Keywords: Overcoming the ego, changing life, a new perspective, patience, letting go, sacrifice for the higher good, acceptace of fate"},*/
     {"cardName":"Death Untapped", "cardInterpretation":"Keywords: Endings, beginnings, change, transformation and metamorphosis, transition"},
     {"cardName":"Art Untapped", "cardInterpretation":"Keywords: Balance and harmony, combining opposities in moderation, magic, creation, alchemy, purpose, meaning, temperance"},
-    {"cardName":"The Devil", "cardInterpretation":"Bondage, addiction, wilfulness, sexuality, materialism"},
+    {"cardName":"The Devil", "cardInterpretation":"Bondage, addiction, wilfulness, sexuality, materialism, nevrer accepting dogma"},
     {"cardName":"The Tower Untapped", "cardInterpretation":"Keywords: Revelation, sudden change, upheaval, disaster, sudden realization of the truth, the will to change old ways"},
     {"cardName":"The Star Untapped", "cardInterpretation":"Keywords: Hope, spirituality, optimism, trust, renewal, inspiration, serenity"},
     {"cardName":"The Moon Untapped", "cardInterpretation":"Keywords: Subconscious, intuitivity, wisdom, maturity, confrontation with the dark side, illusion, fear, anxiety, insecurity"},
