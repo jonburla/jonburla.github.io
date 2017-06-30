@@ -91,8 +91,8 @@ var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress',
 'Creation', 'Happiness', 'Satiety', 'Princess of Cups',
 'Prince of Cups','Queen of Cups', 'Knight of Cups',
 
-'Ace of Swords','Peace', 'Truce', 'Science', 'Divine Ingenuity',
-'Divine Interference','Analysis', 'Princess of Swords', 'Prince of Swords',
+'Ace of Swords','Peace', 'Truce', 'Science', 'Ingenuity',
+'Universal Interference','Analysis', 'Princess of Swords', 'Prince of Swords',
 'Queen of Swords', 'Knight of Swords',
 
 'Ace of Disks','Change', 'Deep Work', 'Power', 'Success',
