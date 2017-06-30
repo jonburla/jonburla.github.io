@@ -79,13 +79,13 @@ $('document').ready(function(){
 
 var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress', 
 'The Emperor', 'The Hierophant', 'The Lovers', 'The Chariot', 'Adjustment',
-'The Hermit', 'Fortune', 'Lust', 'Death', 'Art',
+'The Hermit', 'Fortune', 'Lust', 'Death', 'Art', 'The Higher Self',
 'The Tower', 'The Star', 'The Moon', 'The Sun', 'The New Aeon',
 'The Universe',
 
 'The Fool Untapped', 'The Magician Untapped', 'The Priestess Untapped', 'The Empress Untapped', 
 'The Emperor Untapped', 'The Hierophant Untapped', 'The Lovers Untapped', 'The Chariot Untapped', 'Adjustment Untapped',
-'The Hermit Untapped', 'Fortune Untapped', 'Lust Untapped', 'Death Untapped', 'Art Untapped', 'The Tower Untapped',
+'The Hermit Untapped', 'Fortune Untapped', 'Lust Untapped', 'Death Untapped', 'Art Untapped', 'The Higher Self Untapped', 'The Tower Untapped',
 'The Star Untapped', 'The Moon Untapped', 'The Sun Untapped', 'The New Aeon Untapped','The Universe Untapped',
 
 'Ace of Wands','Dominion', 'Virtue', 'Completion', 'Strife', 'Victory',
@@ -137,6 +137,7 @@ var deckInterpretation = [
     {"cardName":"Death", "cardInterpretation":"Keywords: Endings, beginnings, change, transformation and metamorphosis, transition"},
     {"cardName":"Art", "cardInterpretation":"Keywords: Balance and harmony, combining opposities in moderation, magic, creation, alchemy, purpose, meaning, temperance"},
     /*{"cardName":"The Devil", "cardInterpretation":"Keywords: Personal Power, intellect, never accepting dogma, independence, bondage, addiction, wilfulness, sexuality, materialism"},*/
+    {"cardName":"The Higher Self", "cardInterpretation":"Keywords: Channeling, Clairvoyance, Divine Communication, Prophetic, Telepathic, Psychic Discernment, Extrasensory <br> Zodiac Influence: Jupiter in Gemini"},
     {"cardName":"The Tower", "cardInterpretation":"Keywords: Revelation, sudden change, upheaval, disaster, sudden realization of the truth, the will to change old ways"},
     {"cardName":"The Star", "cardInterpretation":"Keywords: Hope, spirituality, optimism, trust, renewal, inspiration, serenity"},
     {"cardName":"The Moon", "cardInterpretation":"Keywords: Subconscious, intuitivity, wisdom, maturity, confrontation with the dark side, illusion, fear, anxiety, insecurity"},
@@ -160,6 +161,7 @@ var deckInterpretation = [
     {"cardName":"Death Untapped", "cardInterpretation":"Keywords: Endings, beginnings, change, transformation and metamorphosis, transition"},
     {"cardName":"Art Untapped", "cardInterpretation":"Keywords: Balance and harmony, combining opposities in moderation, magic, creation, alchemy, purpose, meaning, temperance"},
     /*{"cardName":"The Devil Untapped", "cardInterpretation":"Keywords: Personal Power, intellect, never accepting dogma, independence, bondage, addiction, wilfulness, sexuality, materialism"},*/
+    {"cardName":"The Higher Self Untapped", "cardInterpretation":"Keywords: Channeling, Clairvoyance, Divine Communication, Prophetic, Telepathic, Psychic Discernment, Extrasensory <br> Zodiac Influence: Jupiter in Gemini"},    
     {"cardName":"The Tower Untapped", "cardInterpretation":"Keywords: Revelation, sudden change, upheaval, disaster, sudden realization of the truth, the will to change old ways"},
     {"cardName":"The Star Untapped", "cardInterpretation":"Keywords: Hope, spirituality, optimism, trust, renewal, inspiration, serenity"},
     {"cardName":"The Moon Untapped", "cardInterpretation":"Keywords: Subconscious, intuitivity, wisdom, maturity, confrontation with the dark side, illusion, fear, anxiety, insecurity"},
@@ -234,7 +236,7 @@ var deckInterpretation = [
     {"cardName":"Paradox", "cardInterpretation":"Keywords: Equivocation, inconsistency, temporary defeat, invalidity, fallacy, intellectual crisis, struggling against fate, tension, loss<br> Zodiac Influence: Venus in Aquarius"},
     {"cardName":"Science", "cardInterpretation":"Keywords: Success after anxiety and trouble, search for truth, regretful but necessary transition, rite of passage <br> Zodiac Influence: Mercury in Aquarius"},
     {"cardName":"Ingenuity", "cardInterpretation":"Keywords: Dexterity, flexibility, forging one's destiny, deftness, finesse, going it alone, stealth, deception, betrayal, getting away with something <br> Zodiac Influence: Moon in Aquarius"},
-    {"cardName":"Universal Interference", "cardInterpretation":"Zodiac Influence: Jupiter in Gemini"},
+    {"cardName":"Universal Interference", "cardInterpretation":"Keywords: Channeling, Clairvoyance, Divine Communication, Prophetic, Telepathic, Psychic Discernment, Extrasensory <br> Zodiac Influence: Jupiter in Gemini"},
     {"cardName":"Analysis", "cardInterpretation":"Keywords: Investiation, dissection, scrutiny, analysis paralysis, depression, nightmares, cruelty, intense anxiety, despair <br> Zodiac Influence: Mars in Gemini"},
     {"cardName":"Trumpian Logic", "cardInterpretation":"'Alternative Facts', destruction of the intellect, logic of lunatics, reason divorced from reality, rejection of the life force, but, new dawn to follow this darkest hour of illogicality and destruction<br> Zodiac Influence: Sun in Gemini"},
     {"cardName":"Princess of Swords", "cardInterpretation":"Personality: Talkative, curious, mentally restless, energetic <br> Elemental Influences: Earth / Air"},
@@ -249,7 +251,7 @@ var deckInterpretation = [
     {"cardName":"Paradox Untapped", "cardInterpretation":"Keywords: Equivocation, inconsistency, temporary defeat, invalidity, fallacy, intellectual crisis, struggling against fate, tension, loss<br> Zodiac Influence: Venus in Aquarius"},
     {"cardName":"Science Untapped", "cardInterpretation":"Keywords: Success after anxiety and trouble, search for truth, regretful but necessary transition, rite of passage <br> Zodiac Influence: Mercury in Aquarius"},
     {"cardName":"Ingenuity Untapped", "cardInterpretation":"Keywords: Dexterity, flexibility, forging one's destiny, deftness, finesse, going it alone, stealth, deception, betrayal, getting away with something <br> Zodiac Influence: Moon in Aquarius"},
-    {"cardName":"Universal Interference Untapped", "cardInterpretation":"Zodiac Influence: Jupiter in Gemini"},
+    {"cardName":"Universal Interference Untapped", "cardInterpretation":"Keywords: Isolation, Shortened Force, Self-Imposed Restriction <br> Zodiac Influence: Jupiter in Gemini"},
     {"cardName":"Analysis Untapped", "cardInterpretation":"Keywords: Investiation, dissection, scrutiny, analysis paralysis, depression, nightmares, cruelty, intense anxiety, despair <br> Zodiac Influence: Mars in Gemini"},
     {"cardName":"Trumpian Logic Untapped", "cardInterpretation":"'Alternative Facts', destruction of the intellect, logic of lunatics, reason divorced from reality, rejection of the life force, but, new dawn to follow this darkest hour of illogicality and destruction<br> Zodiac Influence: Sun in Gemini"},
     {"cardName":"Princess of Swords Untapped", "cardInterpretation":"Personality: Talkative, curious, mentally restless, energetic <br> Elemental Influences: Earth / Air"},
