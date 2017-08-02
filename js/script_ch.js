@@ -84,7 +84,7 @@ var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress',
 'The Universe',
 
 'Ace of Wands','Dominion', 'Virtue', 'Completion', 'Victory',
-'Swiftness', 'Faith', 'Obligation', 'Princess of Wands',
+'Swiftness', 'Faith', 'Princess of Wands',
 'Prince of Wands','Queen of Wands', 'Knight of Wands',
 
 'Ace of Cups','Love', 'Abundance', 'Meditation', 'Pleasure', 'Transmutation',
