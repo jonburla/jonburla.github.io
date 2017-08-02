@@ -79,14 +79,14 @@ $('document').ready(function(){
 
 var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress', 
 'The Emperor', 'The Hierophant', 'The Lovers', 'The Chariot', 'Adjustment',
-'The Hermit', 'Fortune', 'Lust', 'Death', 'Art', 'The Higher Self',
+'The Hermit', 'Fortune', 'Lust', 'Bitachon', 'Death', 'Art', 'The Higher Self',
 'The Tower', 'The Star', 'The Moon', 'The Sun', 'The New Aeon',
 'The Universe',
 
 'The Fool Untapped', 'The Magician Untapped', 'The Priestess Untapped', 'The Empress Untapped', 
 'The Emperor Untapped', 'The Hierophant Untapped', 'The Lovers Untapped', 'The Chariot Untapped', 'Adjustment Untapped',
-'The Hermit Untapped', 'Fortune Untapped', 'Lust Untapped', 'Death Untapped', 'Art Untapped', 'The Higher Self Untapped', 'The Tower Untapped',
-'The Star Untapped', 'The Moon Untapped', 'The Sun Untapped', 'The New Aeon Untapped','The Universe Untapped',
+'The Hermit Untapped', 'Fortune Untapped', 'Lust Untapped', 'Bitachon Untapped', 'Death Untapped', 'Art Untapped', 'The Higher Self Untapped',
+'The Tower Untapped', 'The Star Untapped', 'The Moon Untapped', 'The Sun Untapped', 'The New Aeon Untapped','The Universe Untapped',
 
 'Ace of Wands','Dominion', 'Virtue', 'Completion', 'Strife', 'Victory',
 'Fortitude', 'Swiftness', 'Faith', 'Obligation', 'Princess of Wands',
@@ -109,16 +109,16 @@ var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress',
 'Queen of Swords', 'Knight of Swords',
 
 'Ace of Swords Untapped','Peace Untapped', 'Sorrow Untapped', 'Truce Untapped', 'Paradox Untapped',
-'Science Untapped', 'Ingenuity Untapped', 'Universal Interference Untapped', 'Analysis Untapped', 'Trumpian Logic Untapped', 'Princess of Swords Untapped',
-'Prince of Swords Untapped', 'Queen of Swords Untapped', 'Knight of Swords Untapped',
+'Science Untapped', 'Ingenuity Untapped', 'Universal Interference Untapped', 'Analysis Untapped', 'Trumpian Logic Untapped',
+'Princess of Swords Untapped', 'Prince of Swords Untapped', 'Queen of Swords Untapped', 'Knight of Swords Untapped',
 
 'Ace of Disks','Change', 'Deep Work', 'Power', 'Anxiety', 'Success', 'Perseverance',
 'Apprenticeship', 'Gain', 'Wealth', 'Princess of Disks', 'Prince of Disks', 
 'Queen of Disks', 'Knight of Disks',
 
-'Ace of Disks Untapped','Change Untapped', 'Deep Work Untapped', 'Power Untapped', 'Anxiety Untapped', 'Success Untapped', 'Perseverance Untapped',
-'Apprenticeship Untapped', 'Gain Untapped', 'Wealth Untapped', 'Princess of Disks Untapped', 'Prince of Disks Untapped', 
-'Queen of Disks Untapped', 'Knight of Disks Untapped'];
+'Ace of Disks Untapped','Change Untapped', 'Deep Work Untapped', 'Power Untapped', 'Anxiety Untapped', 'Success Untapped', 
+'Perseverance Untapped', 'Apprenticeship Untapped', 'Gain Untapped', 'Wealth Untapped', 'Princess of Disks Untapped',
+'Prince of Disks Untapped', 'Queen of Disks Untapped', 'Knight of Disks Untapped'];
 
 var deckInterpretation = [
     {"cardName":"The Fool", "cardInterpretation":"Keywords: Beginnings, optimism, trust in inner instincts, innocence, spontaneity, a free spirit"},
@@ -133,10 +133,10 @@ var deckInterpretation = [
     {"cardName":"The Hermit", "cardInterpretation":"Keywords: Wisdom, realization, mental maturity, the inner light, soul-searching, introspection, retiring from life, being alone, inner guidance"},
     {"cardName":"Fortune", "cardInterpretation":"Keywords: Good luck, karma, unexpected changings, fortune, realization of luck, life cycles, destiny, a turning point"},
     {"cardName":"Lust", "cardInterpretation":"Keywords: Joy of Strength Exercised, power, vitality, unconditional devotion, energy, passion, charisma, joy of life, courage, patience, control, compassion"},
-    /*{"cardName":"The Hanged Man", "cardInterpretation":"Keywords: Overcoming the ego, changing life, a new perspective, patience, letting go, sacrifice for the higher good, acceptace of fate"},*/
+    {"cardName":"Bitachon", "cardInterpretation":"Keywords: Faith And TRUST In The Goodness Of God [Art], the understanding that God loves me more than I love myself and that God knows what is best for me better than I do [Art]"},
     {"cardName":"Death", "cardInterpretation":"Keywords: Endings, beginnings, change, transformation and metamorphosis, transition"},
     {"cardName":"Art", "cardInterpretation":"Keywords: Balance and harmony, combining opposities in moderation, magic, creation, alchemy, purpose, meaning, temperance"},
-    {"cardName":"The Higher Self", "cardInterpretation":"Keywords: Channeling, Clairvoyance, Divine Communication, Prophetic, Telepathic, Psychic Discernment, Extrasensory <br> Zodiac Influence: Jupiter in Gemini"},
+    {"cardName":"The Higher Self", "cardInterpretation":"Keywords: Channeling, Clairvoyance, Divine Communication, Prophetic, Telepathic, Psychic Discernment, Extrasensory"},
     {"cardName":"The Tower", "cardInterpretation":"Keywords: Revelation, sudden change, upheaval, disaster, sudden realization of the truth, the will to change old ways"},
     {"cardName":"The Star", "cardInterpretation":"Keywords: Hope, spirituality, optimism, trust, renewal, inspiration, serenity"},
     {"cardName":"The Moon", "cardInterpretation":"Keywords: Subconscious, intuitivity, wisdom, maturity, confrontation with the dark side, illusion, fear, anxiety, insecurity"},
@@ -156,7 +156,7 @@ var deckInterpretation = [
     {"cardName":"The Hermit Untapped", "cardInterpretation":"Keywords: Wisdom, realization, mental maturity, the inner light, soul-searching, introspection, retiring from life, being alone, inner guidance"},
     {"cardName":"Fortune Untapped", "cardInterpretation":"Keywords: Good luck, karma, unexpected changings, fortune, realization of luck, life cycles, destiny, a turning point"},
     {"cardName":"Lust Untapped", "cardInterpretation":"Keywords: Joy of Strength Exercised, power, vitality, unconditional devotion, energy, passion, charisma, joy of life, courage, patience, control, compassion"},
-    /*{"cardName":"The Hanged Man Untapped", "cardInterpretation":"Keywords: Overcoming the ego, changing life, a new perspective, patience, letting go, sacrifice for the higher good, acceptace of fate"},*/
+    {"cardName":"Bitachon Untapped", "cardInterpretation":"Keywords: Overcoming the ego, changing life, a new perspective, patience, letting go, sacrifice for the higher good, acceptace of fate"},
     {"cardName":"Death Untapped", "cardInterpretation":"Keywords: Endings, beginnings, change, transformation and metamorphosis, transition"},
     {"cardName":"Art Untapped", "cardInterpretation":"Keywords: Balance and harmony, combining opposities in moderation, magic, creation, alchemy, purpose, meaning, temperance"},
     {"cardName":"The Higher Self Untapped", "cardInterpretation":"Bondage, addiction, wilfulness, sexuality, materialism, nevrer accepting dogma"},
@@ -204,7 +204,7 @@ var deckInterpretation = [
     {"cardName":"Disillusionment", "cardInterpretation":"Keywords: Loss, regret, despair, bereavement <br> Zodiac Influence: Mars in Scorpio"},
     {"cardName":"Pleasure", "cardInterpretation":"Keywords: Reunion, nostalgia, childhood memories, innocence <br> Zodiac Influence: Sun in Scorpio"},
     {"cardName":"Creation", "cardInterpretation":"Keywords: Imagination, creativity, dreaming, fantasy, illusion <br> Zodiac Influence: Venus in Scorpio"},
-    {"cardName":"Transmutation", "cardInterpretation":"Keywords: Revolution, resolution, moving forward, letting the past go, escapism, withdrawal, disappointment, abandonment <br> Zodiac Influence: Saturn in Pisces"},
+    {"cardName":"Transmutation", "cardInterpretation":"Keywords: Revolution, resolution, moving forward, letting the past go <br> Zodiac Influence: Saturn in Pisces"}, 
     {"cardName":"Happiness", "cardInterpretation":"Keywords: Wishes fulfilled, comfort, happiness, satisfaction <br> Zodiac Influence: Jupiter in Pisces"},
     {"cardName":"Satiety", "cardInterpretation":"Keywords: Harmony, alignment of one's ideas reality and emotions, happiness, marriage <br> Zodiac Influence: Mars in Pisces"},
     {"cardName":"Princess of Cups", "cardInterpretation":"Personality: A messenger, creative beginnings, synchronicity <br> Elemental Influences: Earth / Water"},
@@ -219,7 +219,7 @@ var deckInterpretation = [
     {"cardName":"Disillusionment Untapped", "cardInterpretation":"Keywords: Loss, regret, despair, bereavement <br> Zodiac Influence: Mars in Scorpio"},
     {"cardName":"Pleasure Untapped", "cardInterpretation":"Keywords: Reunion, nostalgia, childhood memories, innocence <br> Zodiac Influence: Sun in Scorpio"},
     {"cardName":"Creation Untapped", "cardInterpretation":"Keywords: Imagination, creativity, dreaming, fantasy, illusion <br> Zodiac Influence: Venus in Scorpio"},
-    {"cardName":"Transmutation Untapped", "cardInterpretation":"Keywords: Revolution, resolution, moving forward, letting the past go, escapism, withdrawal, disappointment, abandonment <br> Zodiac Influence: Saturn in Pisces"},
+    {"cardName":"Transmutation Untapped", "cardInterpretation":"Keywords: Escapism, withdrawal, disappointment, abandonment <br> Zodiac Influence: Saturn in Pisces"},
     {"cardName":"Happiness Untapped", "cardInterpretation":"Keywords: Wishes fulfilled, comfort, happiness, satisfaction <br> Zodiac Influence: Jupiter in Pisces"},
     {"cardName":"Satiety Untapped", "cardInterpretation":"Keywords: Harmony, alignment of one's ideas reality and emotions, happiness, marriage <br> Zodiac Influence: Mars in Pisces"},
     {"cardName":"Princess of Cups Untapped", "cardInterpretation":"Personality: A messenger, creative beginnings, synchronicity <br> Elemental Influences: Earth / Water"},
