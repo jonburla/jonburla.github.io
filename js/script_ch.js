@@ -78,7 +78,7 @@ $('document').ready(function(){
 });
 
 var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress', 
-'The Emperor', 'The Hierophant', 'The Lovers', 'The Chariot', 'Adjustment',
+'Abraham', 'The Hierophant', 'The Lovers', 'The Chariot', 'Adjustment',
 'The Hermit', 'Fortune', 'Lust', 'Bitachon', 'Death', 'Art', 'The Higher Self',
 'The Tower', 'The Star', 'The Moon', 'The Sun', 'The New Aeon',
 'The Universe',
@@ -104,7 +104,7 @@ var deckInterpretation = [
     {"cardName":"The Magician", "cardInterpretation":"Keywords: Law of Attraction, manifestation, power, skill, concentration, action, resourcefulness, activity, power of life, solar impulse, energy"},
     {"cardName":"The Priestess","cardInterpretation": "Keywords: Access to universal life force, intuition, higher knowledge and powers, mystery, subconscious mind"},
     {"cardName":"The Empress", "cardInterpretation":"Keywords: Creativity, maternity, love, trust, fulfilness, femininity, beauty, nature, abundance"},
-    {"cardName":"The Emperor", "cardInterpretation":"Keywords: Mastery of the will over nature, a sense for law and order, plan and structure, creation, recognition, stability, realism, authority, father-figure, solid foundation"},
+    {"cardName":"Abraham", "cardInterpretation":"Keywords: Mastery of the will over nature, a sense for law and order, plan and structure, creation, recognition, stability, realism, authority, father-figure, solid foundation"},
     {"cardName":"The Hierophant", "cardInterpretation":"Keywords: Search for hidden truths, trust in inner instincts, teacher, group identification, conformity, tradition, beliefs"},
     {"cardName":"The Lovers", "cardInterpretation":"Keywords: Love, union, relationships, trust, optimism, values alignment, choices"},
     {"cardName":"The Chariot", "cardInterpretation":"Keywords: Control, the will to conquer, courage, victory, assertion, determination, the awakening of powers, the way ahead, searching and finding one's place in life"},
