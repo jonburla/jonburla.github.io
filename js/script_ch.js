@@ -78,7 +78,7 @@ $('document').ready(function(){
 });
 
 var deck = ['The Fool', 'The Magician', 'The Shekhinah', 'The Empress', 
-'Abraham', 'Isaac', 'The Lovers', 'Moshe Rabbenu', 'Adjustment',
+'Abraham', 'Isaac', 'The Lovers', 'Moshe Rabbenu', 'Aaron',
 'The Hermit', 'Fortune', 'Lust', 'Bitachon', 'Death', 'Arete', 'The Higher Self',
 'The Tower', 'The Star', 'The Moon', 'The Sun', 'Geulah',
 'Hashem',
@@ -108,7 +108,7 @@ var deckInterpretation = [
     {"cardName":"Isaac", "cardInterpretation":"Keywords: Search for hidden truths, trust in inner instincts, teacher, group identification, conformity, tradition, beliefs"},
     {"cardName":"The Lovers", "cardInterpretation":"Keywords: Love, union, relationships, trust, optimism, values alignment, choices"},
     {"cardName":"Moshe Rabbenu", "cardInterpretation":"Keywords: Control, the will to conquer, courage, victory, assertion, determination, the awakening of powers, the way ahead, searching and finding one's place in life"},
-    {"cardName":"Adjustment", "cardInterpretation":"Keywords: Justice, fairness, truth, will for knowlegde, harmony between reality and instinct, objectivity, law"},
+    {"cardName":"Aaron", "cardInterpretation":"Keywords: Justice, fairness, truth, will for knowlegde, harmony between reality and instinct, objectivity, law"},
     {"cardName":"The Hermit", "cardInterpretation":"Keywords: Wisdom, realization, mental maturity, the inner light, soul-searching, introspection, retiring from life, being alone, inner guidance"},
     {"cardName":"Fortune", "cardInterpretation":"Keywords: Good luck, karma, unexpected changings, fortune, realization of luck, life cycles, destiny, a turning point"},
     {"cardName":"Lust", "cardInterpretation":"Keywords: Joy of Strength Exercised, power, vitality, unconditional devotion, energy, passion, charisma, joy of life, courage, patience, control, compassion"},
