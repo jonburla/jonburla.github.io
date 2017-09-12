@@ -77,14 +77,14 @@ $('document').ready(function(){
     });
 });
 
-var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress', 
-'Abraham', 'Isaac', 'The Lovers', 'The Chariot', 'Adjustment',
+var deck = ['The Fool', 'The Magician', 'The Shekhinah', 'The Empress', 
+'Abraham', 'Isaac', 'The Lovers', 'Moshe Rabbenu', 'Adjustment',
 'The Hermit', 'Fortune', 'Lust', 'Bitachon', 'Death', 'Arete', 'The Higher Self',
-'The Tower', 'The Star', 'The Moon', 'The Sun', 'The New Aeon',
-'The Universe',
+'The Tower', 'The Star', 'The Moon', 'The Sun', 'Geulah',
+'Hashem',
 
 'Ace of Wands','Dominion', 'Virtue', 'Completion', 'Victory',
-'Swiftness', 'Faith', 'Princess of Wands',
+'Swiftness', 'Emmunah', 'Princess of Wands',
 'Prince of Wands','Queen of Wands', 'Knight of Wands',
 
 'Ace of Cups','Love', 'Abundance', 'Meditation', 'Pleasure', 'Transmutation',
@@ -102,12 +102,12 @@ var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress',
 var deckInterpretation = [
     {"cardName":"The Fool", "cardInterpretation":"Keywords: Beginnings, optimism, trust in inner instincts, innocence, spontaneity, a free spirit"},
     {"cardName":"The Magician", "cardInterpretation":"Keywords: Law of Attraction, manifestation, power, skill, concentration, action, resourcefulness, activity, power of life, solar impulse, energy"},
-    {"cardName":"The Priestess","cardInterpretation": "Keywords: Access to universal life force, intuition, higher knowledge and powers, mystery, subconscious mind"},
+    {"cardName":"The Shekhinah","cardInterpretation": "Keywords: Access to universal life force, intuition, higher knowledge and powers, mystery, subconscious mind"},
     {"cardName":"The Empress", "cardInterpretation":"Keywords: Creativity, maternity, love, trust, fulfilness, femininity, beauty, nature, abundance"},
     {"cardName":"Abraham", "cardInterpretation":"Keywords: Mastery of the will over nature, a sense for law and order, plan and structure, creation, recognition, stability, realism, authority, father-figure, solid foundation"},
     {"cardName":"Isaac", "cardInterpretation":"Keywords: Search for hidden truths, trust in inner instincts, teacher, group identification, conformity, tradition, beliefs"},
     {"cardName":"The Lovers", "cardInterpretation":"Keywords: Love, union, relationships, trust, optimism, values alignment, choices"},
-    {"cardName":"The Chariot", "cardInterpretation":"Keywords: Control, the will to conquer, courage, victory, assertion, determination, the awakening of powers, the way ahead, searching and finding one's place in life"},
+    {"cardName":"Moshe Rabbenu", "cardInterpretation":"Keywords: Control, the will to conquer, courage, victory, assertion, determination, the awakening of powers, the way ahead, searching and finding one's place in life"},
     {"cardName":"Adjustment", "cardInterpretation":"Keywords: Justice, fairness, truth, will for knowlegde, harmony between reality and instinct, objectivity, law"},
     {"cardName":"The Hermit", "cardInterpretation":"Keywords: Wisdom, realization, mental maturity, the inner light, soul-searching, introspection, retiring from life, being alone, inner guidance"},
     {"cardName":"Fortune", "cardInterpretation":"Keywords: Good luck, karma, unexpected changings, fortune, realization of luck, life cycles, destiny, a turning point"},
@@ -120,8 +120,8 @@ var deckInterpretation = [
     {"cardName":"The Star", "cardInterpretation":"Keywords: Hope, spirituality, optimism, trust, renewal, inspiration, serenity"},
     {"cardName":"The Moon", "cardInterpretation":"Keywords: Subconscious, intuitivity, wisdom, maturity, confrontation with the dark side, illusion, fear, anxiety, insecurity"},
     {"cardName":"The Sun", "cardInterpretation":"Keywords: Vitality, generosity, warmth, selfconfidence, fun, success, positivity, love of life"},
-    {"cardName":"The New Aeon", "cardInterpretation":"Keywords: Renewal, transformation, rebirth, inner calling, judgement, absolution, knowledge of coherences, widened perception and the liberation of hidden abilities"},
-    {"cardName":"The Universe", "cardInterpretation":"Keywords: Culmination, completion, integration, accomplishment, travel, harmony between spirit and body"},    
+    {"cardName":"Geulah", "cardInterpretation":"Keywords: Renewal, transformation, rebirth, inner calling, judgement, absolution, knowledge of coherences, widened perception and the liberation of hidden abilities"},
+    {"cardName":"Hashem", "cardInterpretation":"Keywords: Culmination, completion, integration, accomplishment, travel, harmony between spirit and body"},    
     
     {"cardName":"Ace of Wands", "cardInterpretation":"Keywords: Inspiration, power, creation, beginnings, potential <br> Zodiac Influences: Aries, Leo, Sagittarius"},
     {"cardName":"Dominion", "cardInterpretation":"Keywords: Future planning, progress, decisions, discovery <br> Zodiac Influence: Mars in Aries"},
@@ -131,7 +131,7 @@ var deckInterpretation = [
     {"cardName":"Victory", "cardInterpretation":"Keywords: Public recognition, progress, self-confidence <br> Zodiac Influence: Jupiter in Leo"},
     /*{"cardName":"Fortitude", "cardInterpretation":"Keywords: Bravery, valor, challenge, competition, perseverance <br> Zodiac Influence: Mars in Leo"},*/
     {"cardName":"Swiftness", "cardInterpretation":"Keywords: Speed, action, air travel, movement, swift change <br> Zodiac Influence: Mercury in Sagittarius"},
-    {"cardName":"Faith", "cardInterpretation":"Keywords: Courage, persistence, test of faith, resilience <br> Zodiac Influence: Moon in Sagittarius"},
+    {"cardName":"Emmunah", "cardInterpretation":"Keywords: Faith, courage, persistence, test of faith, resilience <br> Zodiac Influence: Moon in Sagittarius"},
     /*{"cardName":"Obligation", "cardInterpretation":"Keywords: Commitment, responsibility, hard work, a blessing of Duty and Love [Swiftness] <br> Zodiac Influence: Saturn in Sagittarius"},*/
     {"cardName":"Princess of Wands", "cardInterpretation":"Personality: Enthusiasm, exploration, discovery, free spirit <br> Elemental Influences: Earth / Fire"},
     {"cardName":"Prince of Wands", "cardInterpretation":"Personality: Energy, passion, lust, action, adventure, impulsiveness, restless <br> Elemental Influences: Air / Fire"},
