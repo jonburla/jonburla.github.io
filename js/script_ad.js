@@ -113,11 +113,11 @@ var deck = ['The Fool', 'The Magician', 'The Priestess', 'The Empress',
 'Princess of Swords Untapped', 'Prince of Swords Untapped', 'Queen of Swords Untapped', 'Knight of Swords Untapped',
 
 'Ace of Disks','Change', 'Deep Work', 'Power', 'Anxiety', 'Success', 'Perseverance',
-'Apprenticeship', 'Gain', 'Wealth', 'Princess of Disks', 'Prince of Disks', 
+'Prudence', 'Gain', 'Wealth', 'Princess of Disks', 'Prince of Disks', 
 'Queen of Disks', 'Knight of Disks',
 
 'Ace of Disks Untapped','Change Untapped', 'Deep Work Untapped', 'Power Untapped', 'Anxiety Untapped', 'Success Untapped', 
-'Perseverance Untapped', 'Apprenticeship Untapped', 'Gain Untapped', 'Wealth Untapped', 'Princess of Disks Untapped',
+'Perseverance Untapped', 'Prudence Untapped', 'Gain Untapped', 'Wealth Untapped', 'Princess of Disks Untapped',
 'Prince of Disks Untapped', 'Queen of Disks Untapped', 'Knight of Disks Untapped'];
 
 var deckInterpretation = [
@@ -264,7 +264,7 @@ var deckInterpretation = [
     {"cardName":"Anxiety", "cardInterpretation":"Keywords: Isolation, insecurity, worry, financial loss, poverty <br> Zodiac Influence: Mercury in Taurus"},
     {"cardName":"Success", "cardInterpretation":"Keywords: Generosity, charity, giving, prosperity, sharing wealth <br> Zodiac Influence: Moon in Taurus"},
     {"cardName":"Perseverance", "cardInterpretation":"Keywords: Persevereance, determination, harvest to be reaped, profit, investment of energy and time, delays, undexpected setbacks, limited success or reward <br> Zodiac Influence: Saturn in Taurus"},
-    {"cardName":"Apprenticeship", "cardInterpretation":"Keywords: Prudence, education, quality, engagement <br> Zodiac Influence: Sun in Virgo"},
+    {"cardName":"Prudence", "cardInterpretation":"Keywords: Prudence, education, quality, engagement <br> Zodiac Influence: Sun in Virgo"},
     {"cardName":"Gain", "cardInterpretation":"Keywords: Gratitude, luxury, self-sufficiency, culmination <br> Zodiac Influence: Venus in Virgo"},
     {"cardName":"Wealth", "cardInterpretation":"Keywords: Wealth, inheritance, family, establishment, retirement <br> Zodiac Influence: Mercury in Virgo"},
     {"cardName":"Princess of Disks", "cardInterpretation":"Personality: Manifestation, financial opportunity, new job <br> Elemental Influences: Earth / Earth"},
@@ -279,7 +279,7 @@ var deckInterpretation = [
     {"cardName":"Anxiety Untapped", "cardInterpretation":"Keywords: Isolation, insecurity, worry, financial loss, poverty <br> Zodiac Influence: Mercury in Taurus"},
     {"cardName":"Success Untapped", "cardInterpretation":"Keywords: Generosity, charity, giving, prosperity, sharing wealth <br> Zodiac Influence: Moon in Taurus"},
     {"cardName":"Persevereance Untapped", "cardInterpretation":"Keywords: Persevereance, determination, harvest to be reaped, profit, investment of energy and time, delays, undexpected setbacks, limited success or reward <br> Zodiac Influence: Saturn in Taurus"},
-    {"cardName":"Apprenticeship Untapped", "cardInterpretation":"Keywords: Prudence, education, quality, engagement <br> Zodiac Influence: Sun in Virgo"},
+    {"cardName":"Prudence Untapped", "cardInterpretation":"Keywords: Prudence, education, quality, engagement <br> Zodiac Influence: Sun in Virgo"},
     {"cardName":"Gain Untapped", "cardInterpretation":"Keywords: Gratitude, luxury, self-sufficiency, culmination <br> Zodiac Influence: Venus in Virgo"},
     {"cardName":"Wealth Untapped", "cardInterpretation":"Keywords: Wealth, inheritance, family, establishment, retirement <br> Zodiac Influence: Mercury in Virgo"},
     {"cardName":"Princess of Disks Untapped", "cardInterpretation":"Personality: Manifestation, financial opportunity, new job <br> Elemental Influences: Earth / Earth"},
