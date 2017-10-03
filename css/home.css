@@ -19,7 +19,8 @@
   height: 10%;
   text-align: center;
   margin-top: -20px;
-  color: darkblue;
+  color: black;
+  
 }
 
 .cardpictureDIV{
@@ -31,8 +32,8 @@
   background-color: transparent;
   height: 5%;
   text-align: center;
-  text-decoration-style: bold;
-  color: green;
+  color: white;
+  font-weight: bold;
   margin-top: 8px;
 }
 
@@ -101,15 +102,12 @@ img{
 
 h2, h4 {
   font-family: 'Verdana';
-  font-style: normal;
   font-variant: normal;
-  font-weight: 500;
-}
-
-h2{
-  font-size: 25px;
+  
 }
 
 h4{
   font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
 }
