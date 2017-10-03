@@ -51,7 +51,6 @@ img{
   margin: 0 auto;
   border-radius: 4%;
   border-color: black;
-  border-style: solid;
   border-width: 1px;
 }
 
@@ -91,7 +90,6 @@ img{
     transition: 0s;
   } 
   .cardpictureDIV{
-  height: 65%;
   }
   h2{
   font-size: 20px;
@@ -99,7 +97,7 @@ img{
 }
 
 h2, h4 {
-  font-family: 'Bookman Old Style';
+  font-family: 'Verdana';
   font-size: 14px;
   font-style: normal;
   font-variant: normal;
