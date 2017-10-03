@@ -9,17 +9,17 @@
 
 .instructionsDIV{
   background-color: transparent;
-  height: 8%;
+  height: 15%;
   text-align: center;
-  padding-top: 15px;
   margin-top: -20px;
 }
 
 .titleDIV{
   background-color: transparent;
-  height: 8%;
+  height: 10%;
   text-align: center;
   margin-top: -20px;
+  color: darkblue;
 }
 
 .cardpictureDIV{
@@ -31,6 +31,8 @@
   background-color: transparent;
   height: 5%;
   text-align: center;
+  text-decoration-style: bold;
+  color: green;
   margin-top: 8px;
 }
 
