@@ -74,6 +74,11 @@ img{
   transition: .5s;
 }
 
+h4{
+  font-size: 14px;
+  font-weight: 500;
+}
+
 @media only screen and (max-width: 500px){
   /* .pickanothercardDIV{
     padding-bottom: 0px;
@@ -87,9 +92,18 @@ img{
     color: white;
     transition: 0s;
   } 
+
   .cardpictureDIV{
     height: 65%;
   }
+
+.instructionsDIV{
+    height: 15%;
+  }
+.titleDIV{
+    height: 15%;
+  }
+
   h2{
   font-size: 20px;
   }
@@ -102,8 +116,5 @@ h2, h4 {
   font-family: 'Verdana';  
 }
 
-h4{
-  
-  font-weight: 500;
-}
+
 
