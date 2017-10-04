@@ -9,19 +9,19 @@
 
 .instructionsDIV{
   background-color: transparent;
-  height: 10%;
+  height: 7%;
   text-align: center;
 }
 
 .titleDIV{
   background-color: transparent;
-  height: 10%;
+  height: 7%;
   text-align: center;
 }
 
 .cardpictureDIV{
   background-color: transparent;
-  height: 65%;
+  height: 75%;
   text-align: center;
 }
 
@@ -93,6 +93,17 @@ h4{
     color: white;
     transition: 0s;
   } 
+
+  .instructionsDIV{
+    background-color: transparent;
+    height: 10%;
+    text-align: center;
+  }
+
+  .titleDIV{
+    background-color: transparent;
+    height: 10%;
+    text-align: center;
 
   .cardpictureDIV{
     height: 65%;
