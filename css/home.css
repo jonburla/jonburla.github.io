@@ -87,6 +87,7 @@ h4{
     border: none;
     padding: 0px;
   }*/
+
   #pickanothercardtext:hover{
     background-color: transparent;
     color: white;
@@ -97,10 +98,94 @@ h4{
     height: 65%;
   }
 
+  h2{
+  font-size: 20px;
+  }
+
+  h4{
+  font-size: 11px;
+  }
+}
+
+@media only screen and (max-width: 430px){
+  /* .pickanothercardDIV{
+    padding-bottom: 0px;
+  }
+  #pickanothercardtext{
+    border: none;
+    padding: 0px;
+  }*/
+
+  #pickanothercardtext:hover{
+    background-color: transparent;
+    color: white;
+    transition: 0s;
+  } 
+
+  .cardpictureDIV{
+    height: 55%;
+  }
 
   h2{
   font-size: 20px;
   }
+  
+  h4{
+  font-size: 11px;
+  }
+}
+
+@media only screen and (max-width: 400px){
+  /* .pickanothercardDIV{
+    padding-bottom: 0px;
+  }
+  #pickanothercardtext{
+    border: none;
+    padding: 0px;
+  }*/
+
+  #pickanothercardtext:hover{
+    background-color: transparent;
+    color: white;
+    transition: 0s;
+  } 
+
+  .cardpictureDIV{
+    height: 50%;
+  }
+
+  h2{
+  font-size: 20px;
+  }
+  
+  h4{
+  font-size: 11px;
+  }
+}
+
+@media only screen and (max-width: 330px){
+  /* .pickanothercardDIV{
+    padding-bottom: 0px;
+  }
+  #pickanothercardtext{
+    border: none;
+    padding: 0px;
+  }*/
+
+  #pickanothercardtext:hover{
+    background-color: transparent;
+    color: white;
+    transition: 0s;
+  } 
+
+  .cardpictureDIV{
+    height: 45%;
+  }
+
+  h2{
+  font-size: 20px;
+  }
+  
   h4{
   font-size: 11px;
   }
