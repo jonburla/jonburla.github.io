@@ -79,7 +79,7 @@ h4{
   font-weight: 500;
 }
 
-@media only screen and (max-width: 460px){
+@media only screen and (max-width: 430px){
   /* .pickanothercardDIV{
     padding-bottom: 0px;
   }
@@ -104,7 +104,7 @@ h4{
     background-color: transparent;
     height: 10%;
     text-align: center;
-
+}
   .cardpictureDIV{
     height: 65%;
   }
