@@ -79,34 +79,6 @@ h4{
   font-weight: 500;
 }
 
-@media only screen and (max-width: 450px){
-  /* .pickanothercardDIV{
-    padding-bottom: 0px;
-  }
-  #pickanothercardtext{
-    border: none;
-    padding: 0px;
-  }*/
-
-  #pickanothercardtext:hover{
-    background-color: transparent;
-    color: white;
-    transition: 0s;
-  } 
-
-  .cardpictureDIV{
-    height: 65%;
-  }
-
-  h2{
-  font-size: 20px;
-  }
-
-  h4{
-  font-size: 11px;
-  }
-}
-
 @media only screen and (max-width: 420px){
   /* .pickanothercardDIV{
     padding-bottom: 0px;
@@ -123,7 +95,7 @@ h4{
   } 
 
   .cardpictureDIV{
-    height: 55%;
+    height: 65%;
   }
 
   h2{
@@ -179,7 +151,7 @@ h4{
   } 
 
   .cardpictureDIV{
-    height: 75%;
+    height: 45%;
   }
 
   h2{
