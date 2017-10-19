@@ -78,7 +78,7 @@ $('document').ready(function(){
 });
 
 var deck = ['The Initiate', 'The Magician', 'The Shekhinah', 'Imma', 
-'Abraham', 'Isaac', 'Jacob', 'Moshe', 'Aaron', 'Joseph', 'David',
+'Abraham', 'Isaac', 'Yacov', 'Moshe', 'Aaron', 'Yosef', 'David',
 'Nefesh', 'Bitachon', 'Shift', 'Ruach', 'Neshama','Chaya',
 'Yechida', 'The Moon', 'The Sun', 'Geulah', 'Hashem'];
 
@@ -89,10 +89,10 @@ var deckInterpretation = [
     {"cardName":"Imma", "cardInterpretation":"Keywords: Creativity, maternity, love, trust, fulfilness, femininity, beauty, nature, abundance"},
     {"cardName":"Abraham", "cardInterpretation":"Keywords: Mastery of the will over nature, a sense for law and order, plan and structure, creation, recognition, stability, realism, authority, father-figure, solid foundation"},
     {"cardName":"Isaac", "cardInterpretation":"Keywords: Search for hidden truths, trust in inner instincts, teacher, group identification, conformity, tradition, beliefs"},
-    {"cardName":"Jacob", "cardInterpretation":"Keywords: Love, union, relationships, trust, optimism, values alignment, choices"},
+    {"cardName":"Yacov", "cardInterpretation":"Keywords: Love, union, relationships, trust, optimism, values alignment, choices"},
     {"cardName":"Moshe", "cardInterpretation":"Keywords: Control, the will to conquer, courage, victory, assertion, determination, the awakening of powers, the way ahead, searching and finding one's place in life"},
     {"cardName":"Aaron", "cardInterpretation":"Keywords: Justice, fairness, truth, will for knowlegde, harmony between reality and instinct, objectivity, law"},
-    {"cardName":"Joseph", "cardInterpretation":"Keywords: Wisdom, realization, mental maturity, the inner light, soul-searching, introspection, retiring from life, being alone, inner guidance"},
+    {"cardName":"Yosef", "cardInterpretation":"Keywords: Wisdom, realization, mental maturity, the inner light, soul-searching, introspection, retiring from life, being alone, inner guidance"},
     {"cardName":"David", "cardInterpretation":"Keywords: Good luck, karma, unexpected changings, fortune, realization of luck, life cycles, destiny, a turning point"},
     {"cardName":"Nefesh", "cardInterpretation":"Keywords: Joy of Strength Exercised, power, vitality, unconditional devotion, energy, passion, charisma, joy of life, courage, patience, control, compassion"},
     {"cardName":"Bitachon", "cardInterpretation":"Keywords: Faith And TRUST In The Goodness Of God [Art], the understanding that God loves me more than I love myself and that God knows what is best for me better than I do [Art]"},
