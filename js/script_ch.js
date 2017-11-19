@@ -86,7 +86,7 @@ var deck = ['The Initiate', 'The Magician', 'The Shekhinah',
 'Swiftness', 'Emmunah', 'Princess of Atziluth',
 'Prince of Atziluth','Queen of Atziluth', 'Knight of Atziluth',
 
-'Ace of Briah','Love', 'Abundance', 'Meditation', 'Pleasure', 
+'Ace of Briah','Love', 'Abundance', 'Luxury', 'Pleasure', 
 'Transmutation','Happiness', 'Satiety', 'Princess of Briah',
 'Prince of Briah','Queen of Briah', 'Knight of Briah',
 
@@ -137,7 +137,7 @@ var deckInterpretation = [
     {"cardName":"Ace of Briah", "cardInterpretation":"Keywords: Love, compassion, creativity, overwhelming emotion <br> Zodiac Influences: Cancer, Scorpio, Pisces"},
     {"cardName":"Love", "cardInterpretation":"Keywords: Unified love, partnership, attraction, relationships <br> Zodiac Influence: Venus in Cancer"},
     {"cardName":"Abundance", "cardInterpretation":"Keywords: Celebration, friendship, creativity, community <br> Zodiac Influence: Mercury in Cancer"},
-    {"cardName":"Meditation", "cardInterpretation":"Keywords: Meditation, contemplation, apathy, re-evaluation <br> Zodiac Influence: Moon in Cancer"},
+    {"cardName":"Luxury", "cardInterpretation":"Keywords: Meditation, contemplation, apathy, re-evaluation <br> Zodiac Influence: Moon in Cancer"},
     {"cardName":"Pleasure", "cardInterpretation":"Keywords: Reunion, nostalgia, childhood memories, innocence <br> Zodiac Influence: Sun in Scorpio"},
     {"cardName":"Transmutation", "cardInterpretation":"Keywords: Revolution, resolution, moving forward, letting the past go <br> Zodiac Influence: Saturn in Pisces"},
     {"cardName":"Happiness", "cardInterpretation":"Keywords: Wishes fulfilled, comfort, happiness, satisfaction <br> Zodiac Influence: Jupiter in Pisces"},
