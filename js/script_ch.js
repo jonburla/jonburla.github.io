@@ -78,7 +78,7 @@ $('document').ready(function(){
 });
 
 var deck = ['The Initiate', 'The Magician', 'The Shekhinah', 
-'Imma', 'Avraham', 'Isaac', 'Yacov', 'Moshe', 'Aaron', 'Yosef',
+'Imma', 'Avraham', 'Yitzchak', 'Yacov', 'Moshe', 'Aaron', 'Yosef',
 'David','Nefesh', 'Bitachon', 'Shift', 'Ruach', 'Neshama',
 'Chaya', 'Yechida', 'The Moon', 'The Sun', 'Geulah', 'Hashem',
 
@@ -104,7 +104,7 @@ var deckInterpretation = [
     {"cardName":"The Shekhinah","cardInterpretation": "Keywords: Access to universal life force, intuition, higher knowledge and powers, mystery, subconscious mind"},
     {"cardName":"Imma", "cardInterpretation":"Keywords: Creativity, maternity, love, trust, fulfilness, femininity, beauty, nature, abundance"},
     {"cardName":"Avraham", "cardInterpretation":"Keywords: Mastery of the will over nature, a sense for law and order, plan and structure, creation, recognition, stability, realism, authority, father-figure, solid foundation"},
-    {"cardName":"Isaac", "cardInterpretation":"Keywords: Search for hidden truths, trust in inner instincts, teacher, group identification, conformity, tradition, beliefs"},
+    {"cardName":"Yitzchak", "cardInterpretation":"Keywords: Search for hidden truths, trust in inner instincts, teacher, group identification, conformity, tradition, beliefs"},
     {"cardName":"Yacov", "cardInterpretation":"Keywords: Love, union, relationships, trust, optimism, values alignment, choices"},
     {"cardName":"Moshe", "cardInterpretation":"Keywords: Control, the will to conquer, courage, victory, assertion, determination, the awakening of powers, the way ahead, searching and finding one's place in life"},
     {"cardName":"Aaron", "cardInterpretation":"Keywords: Justice, fairness, truth, will for knowlegde, harmony between reality and instinct, objectivity, law"},
