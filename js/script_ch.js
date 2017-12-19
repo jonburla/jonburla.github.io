@@ -77,7 +77,7 @@ $('document').ready(function(){
     });
 });
 
-var deck = ['The Initiate', 'The Magician', 'The Shekhinah', 
+var deck = ['The Initiate', 'The Prophet', 'The Shekhinah', 
 'Sarah', 'Avraham', 'Yitzchak', 'Yacov', 'Moshe', 'Aaron', 'Yosef',
 'David','Nefesh', 'Bitachon', 'Shift', 'Ruach', 'Neshama',
 'Chaya', 'Yechida', 'The Moon', 'The Sun', 'Geulah', 'Hashem',
@@ -100,7 +100,7 @@ var deck = ['The Initiate', 'The Magician', 'The Shekhinah',
 
 var deckInterpretation = [
     {"cardName":"The Initiate", "cardInterpretation":"Keywords: Beginnings, optimism, trust in inner instincts, innocence, spontaneity, a free spirit"},
-    {"cardName":"The Magician", "cardInterpretation":"Keywords: Law of Attraction, manifestation, power, skill, concentration, action, resourcefulness, activity, power of life, solar impulse, energy"},
+    {"cardName":"The Prophet", "cardInterpretation":"Keywords: Law of Attraction, manifestation, power, skill, concentration, action, resourcefulness, activity, power of life, solar impulse, energy"},
     {"cardName":"The Shekhinah","cardInterpretation": "Keywords: Access to universal life force, intuition, higher knowledge and powers, mystery, subconscious mind"},
     {"cardName":"Sarah", "cardInterpretation":"Keywords: Creativity, maternity, love, trust, fulfilness, femininity, beauty, nature, abundance"},
     {"cardName":"Avraham", "cardInterpretation":"Keywords: Mastery of the will over nature, a sense for law and order, plan and structure, creation, recognition, stability, realism, authority, father-figure, solid foundation"},
