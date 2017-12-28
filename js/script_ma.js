@@ -77,10 +77,10 @@ $('document').ready(function(){
     });
 });
 
-var deck = ['The Initiate', 'The Prophet', 'The Shekhinah', 'Sarah', 
-'Avraham', 'Yitzchak', 'Yacov', 'Moshe', 'Aaron', 'Yosef', 'David',
-'Persuasion', 'Bitachon', 'Shift', 'Ruach', 'Neshama','Chaya',
-'Yechida', 'The Moon', 'The Sun', 'Geulah', 'Hashem'];
+var deck = ['The Initiate', 'The Prophet', 'The Shekhinah', 
+'Sarah', 'Avraham', 'Yitzchak', 'Yacov', 'Moshe', 'Aaron', 'Yosef',
+'David','Persuasion', 'Bitachon', 'Shift', 'Ruach', 'Neshama',
+'Chaya', 'Yechida', 'The Moon', 'The Sun', 'Geulah', 'Hashem'];
 
 var deckInterpretation = [
     {"cardName":"The Initiate", "cardInterpretation":"Keywords: Beginnings, optimism, trust in inner instincts, innocence, spontaneity, a free spirit"},
