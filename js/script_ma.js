@@ -77,9 +77,9 @@ $('document').ready(function(){
     });
 });
 
-var deck = ['The Initiate', 'The Prophet', 'The Shekhinah', 'Imma', 
-'Abraham', 'Yitzchak', 'Yacov', 'Moshe', 'Aaron', 'Yosef', 'David',
-'Nefesh', 'Bitachon', 'Shift', 'Ruach', 'Neshama','Chaya',
+var deck = ['The Initiate', 'The Prophet', 'The Shekhinah', 'Sarah', 
+'Avraham', 'Yitzchak', 'Yacov', 'Moshe', 'Aaron', 'Yosef', 'David',
+'Persuasion', 'Bitachon', 'Shift', 'Ruach', 'Neshama','Chaya',
 'Yechida', 'The Moon', 'The Sun', 'Geulah', 'Hashem'];
 
 var deckInterpretation = [
@@ -94,7 +94,7 @@ var deckInterpretation = [
     {"cardName":"Aaron", "cardInterpretation":"Keywords: Justice, fairness, truth, will for knowlegde, harmony between reality and instinct, objectivity, law"},
     {"cardName":"Yosef", "cardInterpretation":"Keywords: Wisdom, realization, mental maturity, the inner light, soul-searching, introspection, retiring from life, being alone, inner guidance"},
     {"cardName":"David", "cardInterpretation":"Keywords: Good luck, karma, unexpected changings, fortune, realization of luck, life cycles, destiny, a turning point"},
-    {"cardName":"Nefesh", "cardInterpretation":"Keywords: Joy of Strength Exercised, power, vitality, unconditional devotion, energy, passion, charisma, joy of life, courage, patience, control, compassion"},
+    {"cardName":"Persuasion", "cardInterpretation":"Keywords: Joy of Strength Exercised, power, vitality, unconditional devotion, energy, passion, charisma, joy of life, courage, patience, control, compassion"},
     {"cardName":"Bitachon", "cardInterpretation":"Keywords: Faith And TRUST In The Goodness Of God, the understanding that God loves me more than I love myself and that God knows what is best for me better than I do"},
     {"cardName":"Shift", "cardInterpretation":"Keywords: Shift in conciousness, endings, beginnings, change, transformation and metamorphosis, transition"},
     {"cardName":"Ruach", "cardInterpretation":"Keywords: Balance and harmony, combining opposities in moderation, magic, creation, alchemy, purpose, meaning, temperance"},
