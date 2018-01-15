@@ -78,7 +78,7 @@ $('document').ready(function(){
 });
 
 var deck = ['The Initiate', 'The Prophet', 'The Shekhinah', 
-'Sarah', 'Avraham', 'Yitzchak', 'Yacov', 'Moshe', 'Aaron', 'Yosef',
+'Sarah', 'Avraham', 'Yitzchak', 'Yacov', 'Moshe', 'VIII. Aaron', 'Yosef',
 'David','Persuasion', 'Bitachon', 'Shift', 'Ruach', 'Neshama',
 'Chaya', 'Yechida', 'The Moon', 'The Sun', 'Geulah', 'Hashem'];
 
@@ -91,7 +91,7 @@ var deckInterpretation = [
     {"cardName":"Yitzchak", "cardInterpretation":"Keywords: Search for hidden truths, trust in inner instincts, teacher, group identification, conformity, tradition, beliefs"},
     {"cardName":"Yacov", "cardInterpretation":"Keywords: Love, union, relationships, trust, optimism, values alignment, choices"},
     {"cardName":"Moshe", "cardInterpretation":"Keywords: Control, the will to conquer, courage, victory, assertion, determination, the awakening of powers, the way ahead, searching and finding one's place in life"},
-    {"cardName":"Aaron", "cardInterpretation":"Keywords: Adjustment, search for justice and fairness, a will for knowledge, search for harmony between the material and the spirutual, objectivity, discernment, law"},
+    {"cardName":"VIII. Aaron", "cardInterpretation":"Keywords: Adjustment, search for justice and fairness, a will for knowledge, search for harmony between the material and the spirutual, objectivity, discernment, law"},
     {"cardName":"Yosef", "cardInterpretation":"Keywords: Wisdom, realization, mental maturity, the inner light, soul-searching, introspection, retiring from life, being alone, inner guidance"},
     {"cardName":"David", "cardInterpretation":"Keywords: Good luck, karma, unexpected changings, fortune, realization of luck, life cycles, destiny, a turning point"},
     {"cardName":"Persuasion", "cardInterpretation":"Keywords: Joy of strength exercised, vitality, unconditional devotion and energy, passion, charisma, courage, patience, control, compassion"},
