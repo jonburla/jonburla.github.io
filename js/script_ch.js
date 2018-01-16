@@ -125,7 +125,7 @@ var deckInterpretation = [
     {"cardName":"Kether in Atziluth", "cardInterpretation":"Keywords: Inspiration, power, creation, beginnings, potential <br> Zodiac Influences: Aries, Leo, Sagittarius"},
     {"cardName":"Dominion", "cardInterpretation":"Keywords: Future planning, progress, decisions, discovery <br> Zodiac Influence: Mars in Aries"},
     {"cardName":"Virtue", "cardInterpretation":"Keywords: Preparation, foresight, enterprise, expansion, growth, development, opportunity <br> Zodiac Influence: Sun in Aries"},
-    {"cardName":"Completion", "cardInterpretation":"Keywords: Celebration, harmony, marriage, home, community <br> Zodiac Influence: Venus in Aries"},
+    {"cardName":"Completion", "cardInterpretation":"Keywords: Celebration, harmony, marriage, home, community, structure, rest after labor <br> Zodiac Influence: Venus in Aries"},
     {"cardName":"Victory", "cardInterpretation":"Keywords: Public recognition, progress, self-confidence <br> Zodiac Influence: Jupiter in Leo"},
     {"cardName":"Swiftness", "cardInterpretation":"Keywords: Speed, action, air travel, movement, swift change <br> Zodiac Influence: Mercury in Sagittarius"},
     {"cardName":"Emmunah", "cardInterpretation":"Keywords: Faith, courage, persistence, test of faith, resilience <br> Zodiac Influence: Moon in Sagittarius"},
