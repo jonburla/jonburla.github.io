@@ -145,8 +145,8 @@ var deckInterpretation = [
     {"cardName":"Satiety", "cardInterpretation":"Keywords: Harmony, alignment of one's ideas reality and emotions, happiness, marriage <br> Zodiac Influence: Mars in Pisces"},
     {"cardName":"Princess of Briah", "cardInterpretation":"Personality: A messenger, creative beginnings, synchronicity <br> Elemental Influences: Earth / Water"},
     {"cardName":"Prince of Briah", "cardInterpretation":"Personality: Romance, charm, ‘Knight in shining armour’, imagination <br> Elemental Influences: Air / Water"},
-    {"cardName":"Queen of Briah", "cardInterpretation":"Personality: Emotional security, calm, intuitive, compassionate<br>Elemental Influences: Water / Water"},
-    {"cardName":"Knight of Briah", "cardInterpretation":"Personality: Emotional balance and control, generosity, healing, spiritual leader <br> Elemental Influences: Fire / Water"},
+    {"cardName":"Queen of Briah", "cardInterpretation":"Personality: Emotional security and depth, calm, intuitive, compassionate, sensitivity, drifting between reality and dream,  <br>Elemental Influences: Water / Water"},
+    {"cardName":"Knight of Briah", "cardInterpretation":"Personality: Emotional balance and control, generosity, healing, spiritual leader, self-redemption, grace, poetry, solicitousness <br> Elemental Influences: Fire / Water"},
     
     {"cardName":"Kether in Yetzirah", "cardInterpretation":"Keywords: Raw power, victory, break-throughs, mental clarity <br> Zodiac Influences: Libra, Aquarius, Gemini"},
     {"cardName":"Peace", "cardInterpretation":"High Vibraton Keywords: Peace, Tranquility, Calm, Follow-Through <br> Keywords: Internal Debate, Choices, Stalemate, Blocked Emotions <br> Zodiac Influence: Moon in Libra"},
@@ -156,8 +156,8 @@ var deckInterpretation = [
     {"cardName":"Analysis", "cardInterpretation":"Keywords: Investiation, discernment, dissection, scrutiny <br> Zodiac Influence: Mars in Gemini"},
     {"cardName":"Princess of Yetzirah", "cardInterpretation":"Personality: Talkative, curious, couragious, serious, energetic, impulsive <br> Elemental Influences: Earth / Air"},
     {"cardName":"Prince of Yetzirah", "cardInterpretation":"Personality: Idealism, intellectuall agility, creativity, richdom of ideas, intelligence, mastery of words <br> Elemental Influences: Air / Air "},
-    {"cardName":"Queen of Yetzirah", "cardInterpretation":"Personality: Quick thinker, organised, perceptive, independent <br> Elemental Influences: Water / Air"},
-    {"cardName":"Knight of Yetzirah", "cardInterpretation":"Personality: Investigator, clear thinker, master planner, intellectual power, authority figure <br> Elemental Influences: Fire / Air"},
+    {"cardName":"Queen of Yetzirah", "cardInterpretation":"Personality: Freedom of mind and soul, independence, wisdom, imagination, self-confidence, perceptive, graceful, quick thinker, organised <br> Elemental Influences: Water / Air"},
+    {"cardName":"Knight of Yetzirah", "cardInterpretation":"Personality: Intellect, science, enlightenment, sharpness of mind, logic, investigator, clear thinker, master planner, authority figure <br> Elemental Influences: Fire / Air"},
 
     {"cardName":"Kether in Assiah", "cardInterpretation":"Keywords: Manifestation, new financial opportunity, prosperity <br> Zodiac Influences: Capricorn, Taurus, Virgo"},
     {"cardName":"Change", "cardInterpretation":"Keywords: Growing, proceeding, flexibility, the start of a project, balance, adaptability, time management, prioritisation <br> Zodiac Influence: Jupiter in Capricorn"},
