@@ -157,7 +157,7 @@ var deckInterpretation = [
     {"cardName":"Princess of Yetzirah", "cardInterpretation":"Personality: Talkative, curious, couragious, serious, energetic, impulsive <br> Elemental Influences: Earth / Air"},
     {"cardName":"Prince of Yetzirah", "cardInterpretation":"Personality: Idealism, intellectuall agility, creativity, richdom of ideas, intelligence, mastery of words <br> Elemental Influences: Air / Air "},
     {"cardName":"Queen of Yetzirah", "cardInterpretation":"Personality: Freedom of mind and soul, independence, wisdom, imagination, self-confidence, perceptive, graceful, quick thinker, organised <br> Elemental Influences: Water / Air"},
-    {"cardName":"Knight of Yetzirah", "cardInterpretation":"Personality: Intellect, science, enlightenment, sharpness of mind, logic, investigator, clear thinker, master planner, authority figure <br> Elemental Influences: Fire / Air"},
+    {"cardName":"Knight of Yetzirah", "cardInterpretation":"Personality: Intelligent judgement, mental realizations, sharpness of mind, science, enlightenment, logic, investigator, clear thinker, master planner <br> Elemental Influences: Fire / Air"},
 
     {"cardName":"Kether in Assiah", "cardInterpretation":"Keywords: Manifestation, new financial opportunity, prosperity <br> Zodiac Influences: Capricorn, Taurus, Virgo"},
     {"cardName":"Change", "cardInterpretation":"Keywords: Growing, proceeding, flexibility, the start of a project, balance, adaptability, time management, prioritisation <br> Zodiac Influence: Jupiter in Capricorn"},
