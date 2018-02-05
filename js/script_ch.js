@@ -124,7 +124,7 @@ var deckInterpretation = [
     {"cardName":"XXI. Hashem", "cardInterpretation":"Keywords: The Universe, Infinity, Perfection, Culmination, completion, integration, accomplishment, travel, harmony between spirit and body <br> Tree of Life Pathway: יסוד - מלכות"},
     
     {"cardName":"Kether in Atziluth", "cardInterpretation":"Keywords: Illumination, inspiration, power, creation, beginnings, potential, spiritual hunger, energy <br> Zodiac Influences: Aries, Leo, Sagittarius"},
-    {"cardName":"Dominion", "cardInterpretation":"Keywords: Future planning, progress, decisions, discovery <br> Zodiac Influence: Mars in Aries"},
+    {"cardName":"Dominion", "cardInterpretation":"Keywords: Application of the True Will, Future planning, progress, courage, determination, the will to conquer, decisions, discovery <br> Zodiac Influence: Mars in Aries"},
     {"cardName":"Virtue", "cardInterpretation":"Keywords: Preparation, foresight, enterprise, expansion, growth, development, opportunity, accomplishment, confidence, harmony of powers <br> Zodiac Influence: Sun in Aries"},
     {"cardName":"Completion", "cardInterpretation":"Keywords: Celebration, harmony, marriage, home, community, structure, rest after labor <br> Zodiac Influence: Venus in Aries"},
     {"cardName":"Victory", "cardInterpretation":"Keywords: Public recognition, progress, self-confidence <br> Zodiac Influence: Jupiter in Leo"},
