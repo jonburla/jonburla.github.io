@@ -111,7 +111,7 @@ var deckInterpretation = [
     {"cardName":"VIII. Aaron", "cardInterpretation":"Keywords: Adjustment, search for justice and fairness, a will for knowledge, search for harmony between the material and the spirutual, objectivity, discernment, law <br> Tree of Life Pathway: גבורה - תפארת"},
     {"cardName":"IX. Yosef", "cardInterpretation":"Keywords: Foundation, wisdom, realization, mental maturity, the inner light, soul-searching, introspection, retiring from life, inner guidance <br> Tree of Life Pathway: חסד - תפארת"},
     {"cardName":"X. David", "cardInterpretation":"Keywords: Good luck, karma, unexpected changings, fortune, realization of luck, life cycles, destiny, a turning point <br> Tree of Life Pathway: חסד - נצח‎"},
-    {"cardName":"XI. Persuasion", "cardInterpretation":"Keywords: Joy of strength exercised, vitality, unconditional devotion and energy, passion, charisma, courage, patience, control, compassion <br> Tree of Life Pathway: חסד - גבורה"},
+    {"cardName":"XI. Persuasion", "cardInterpretation":"Keywords: Joy of strength exercised, vitality, unconditional devotion and energy, passion, charisma, courage, patience, control, compassion, enthusiasm for life <br> Tree of Life Pathway: חסד - גבורה"},
     {"cardName":"XII. Bitachon", "cardInterpretation":"Keywords: Faith And TRUST In The Goodness Of God, the understanding that God loves me more than I love myself and that God knows what is best for me better than I do <br> Tree of Life Pathway: גבורה - הוד"},
     {"cardName":"XIII. Shift", "cardInterpretation":"Keywords: Shift in conciousness, endings, beginnings, change, transformation and metamorphosis, transition <br> Tree of Life Pathway: תפארת - נצח‎"},
     {"cardName":"XIV. Ruach", "cardInterpretation":"Keywords: Balance and harmony, combining opposities in moderation, magic, creation, alchemy, purpose, meaning, temperance <br> Tree of Life Pathway: תפארת - יסוד"},
@@ -137,7 +137,7 @@ var deckInterpretation = [
     
     {"cardName":"Kether in Briah", "cardInterpretation":"Keywords: Love, compassion, creativity, overwhelming emotion, intuition, psychic connection <br> Zodiac Influences: Cancer, Scorpio, Pisces"},
     {"cardName":"Love", "cardInterpretation":"Keywords: Unified love, partnership, attraction, relationships <br> Zodiac Influence: Venus in Cancer"},
-    {"cardName":"Abundance", "cardInterpretation":"Keywords: Celebration, friendship, creativity, community <br> Zodiac Influence: Mercury in Cancer"},
+    {"cardName":"Abundance", "cardInterpretation":"Keywords: Celebration, friendship, creativity, community, healing, sensuality, conception, passive success <br> Zodiac Influence: Mercury in Cancer"},
     {"cardName":"Luxury", "cardInterpretation":"Keywords: Emotional richdom, stability of feelings, love without risk, maternity, protection, meditation <br> Zodiac Influence: Moon in Cancer"},
     {"cardName":"Pleasure", "cardInterpretation":"Keywords: Reunion, nostalgia, childhood memories, innocence <br> Zodiac Influence: Sun in Scorpio"},
     {"cardName":"Transmutation", "cardInterpretation":"Keywords: Revolution, resolution, moving forward, letting the past go <br> Zodiac Influence: Saturn in Pisces"},
