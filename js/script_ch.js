@@ -128,7 +128,7 @@ var deckInterpretation = [
     {"cardName":"Virtue", "cardInterpretation":"Keywords: Preparation, foresight, enterprise, expansion, growth, development, opportunity, accomplishment, confidence, harmony of powers <br> Zodiac Influence: Sun in Aries"},
     {"cardName":"Completion", "cardInterpretation":"Keywords: Celebration, harmony, marriage, home, community, structure, rest after labor <br> Zodiac Influence: Venus in Aries"},
     {"cardName":"Victory", "cardInterpretation":"Keywords: Public recognition, progress, self-confidence <br> Zodiac Influence: Jupiter in Leo"},
-    {"cardName":"Swiftness", "cardInterpretation":"Keywords: Speed, action, air travel, movement, swift change, rapid rush, ideas, creativity, motion, spiritual expanison <br> Zodiac Influence: Mercury in Sagittarius"},
+    {"cardName":"Swiftness", "cardInterpretation":"Keywords: Speed, action, air travel, movement, swift change, rapid rush, ideas, creativity, motion, spiritual expanison, activities and energy speeding up <br> Zodiac Influence: Mercury in Sagittarius"},
     {"cardName":"Emmunah", "cardInterpretation":"Keywords: Faith, courage, persistence, test of faith, resilience <br> Zodiac Influence: Moon in Sagittarius"},
     {"cardName":"Princess of Atziluth", "cardInterpretation":"Personality: Enthusiasm, exploration, discovery, free spirit <br> Elemental Influences: Earth / Fire"},
     {"cardName":"Prince of Atziluth", "cardInterpretation":"Personality: Energy, passion, lust, action, adventure, impulsiveness, restless <br> Elemental Influences: Air / Fire"},
