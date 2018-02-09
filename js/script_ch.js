@@ -133,7 +133,7 @@ var deckInterpretation = [
     {"cardName":"Princess of Atziluth", "cardInterpretation":"Personality: Enthusiasm, exploration, discovery, free spirit <br> Elemental Influences: Earth / Fire"},
     {"cardName":"Prince of Atziluth", "cardInterpretation":"Personality: Energy, passion, lust, action, adventure, impulsiveness, restless <br> Elemental Influences: Air / Fire"},
     {"cardName":"Queen of Atziluth", "cardInterpretation":"Personality: Exuberance, warmth, vibrancy, determination <br> Elemental Influences: Water / Fire"},
-    {"cardName":"Knight of Atziluth", "cardInterpretation":"Personality: Natural-born leader, vision, entrepreneur, honour, expansion of spiritual individuality, strong-willed <br> Elemental Influences: Fire / Fire"},
+    {"cardName":"Knight of Atziluth", "cardInterpretation":"Personality: Natural-born leader, vision, entrepreneur, honour, expansion of spiritual individuality, strong-willed, foresight <br> Elemental Influences: Fire / Fire"},
     
     {"cardName":"Kether in Briah", "cardInterpretation":"Keywords: Love, compassion, creativity, overwhelming emotion, intuition, psychic connection <br> Zodiac Influences: Cancer, Scorpio, Pisces"},
     {"cardName":"Love", "cardInterpretation":"Keywords: Unified love, partnership, attraction, relationships <br> Zodiac Influence: Venus in Cancer"},
