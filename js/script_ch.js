@@ -129,7 +129,7 @@ var deckInterpretation = [
     {"cardName":"Completion", "cardInterpretation":"Keywords: Celebration, harmony, marriage, home, community, structure, rest after labor <br> Zodiac Influence: Venus in Aries"},
     {"cardName":"Victory", "cardInterpretation":"Keywords: Public recognition, progress, self-confidence <br> Zodiac Influence: Jupiter in Leo"},
     {"cardName":"Swiftness", "cardInterpretation":"Keywords: Speed, action, air travel, movement, swift change, rapid rush, ideas, creativity, motion, spiritual expanison, activities and energy speeding up <br> Zodiac Influence: Mercury in Sagittarius"},
-    {"cardName":"Emmunah", "cardInterpretation":"Keywords: Faith, courage, persistence, test of faith, resilience <br> Zodiac Influence: Moon in Sagittarius"},
+    {"cardName":"Emmunah", "cardInterpretation":"Keywords: Faith, courage, persistence, test of faith, resilience, spiritual truth, realization, combination of the consciousness with the unconsciousness <br> Zodiac Influence: Moon in Sagittarius"},
     {"cardName":"Princess of Atziluth", "cardInterpretation":"Personality: Enthusiasm, exploration, discovery, free spirit <br> Elemental Influences: Earth / Fire"},
     {"cardName":"Prince of Atziluth", "cardInterpretation":"Personality: Energy, passion, lust, action, adventure, impulsiveness, restless <br> Elemental Influences: Air / Fire"},
     {"cardName":"Queen of Atziluth", "cardInterpretation":"Personality: Exuberance, warmth, vibrancy, determination <br> Elemental Influences: Water / Fire"},
