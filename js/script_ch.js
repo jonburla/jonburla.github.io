@@ -83,7 +83,7 @@ var deck = ['0. The Initiate', 'I. The Prophet', 'II. The Shekhinah',
 'XIII. Shift', 'XIV. Ruach', 'XV. Neshama','XVI. Chaya', 'XVII. Yechida',
 'XVIII. The Moon', 'XIX. The Sun', 'XX. Geulah', 'XXI. Hashem',
 
-'Kether in Atziluth','Dominion', 'Virtue', 'Completion', 'Strife', 'Victory',
+'Kether in Atziluth','Dominion', 'Virtue', 'Completion', 'Strive', 'Victory',
 'Fortitude', 'Swiftness', 'Emmunah', 'Princess of Atziluth',
 'Prince of Atziluth','Queen of Atziluth', 'Knight of Atziluth',
 
@@ -127,7 +127,7 @@ var deckInterpretation = [
     {"cardName":"Dominion", "cardInterpretation":"Keywords: Application of the True Will, Future planning, progress, courage, determination, the will to conquer, decisions, discovery <br> Zodiac Influence: Mars in Aries"},
     {"cardName":"Virtue", "cardInterpretation":"Keywords: Preparation, foresight, enterprise, expansion, growth, development, opportunity, accomplishment, confidence, harmony of powers <br> Zodiac Influence: Sun in Aries"},
     {"cardName":"Completion", "cardInterpretation":"Keywords: Celebration, harmony, marriage, home, community, structure, rest after labor <br> Zodiac Influence: Venus in Aries"},
-    {"cardName":"Strife", "cardInterpretation":"Keywords: Refreshment, renewal, boldness, challenge, the will to break out, contest, struggle, conflict, rashness <br> Zodiac Influence: Saturn in Leo"},
+    {"cardName":"Strive", "cardInterpretation":"Keywords: Refreshment, renewal, boldness, challenge, the will to break out, contest, struggle, conflict, rashness <br> Zodiac Influence: Saturn in Leo"},
     {"cardName":"Victory", "cardInterpretation":"Keywords: Public recognition, glory, progress, self-confidence, success through engery and industry <br> Zodiac Influence: Jupiter in Leo"},
     {"cardName":"Fortitude", "cardInterpretation":"Keywords: Initiation, rebirth, courage, fighting spirit, overcoming opposition, bravery, valor, challenge, competition <br> Zodiac Influence: Mars in Leo"},
     {"cardName":"Swiftness", "cardInterpretation":"Keywords: Speed, action, air travel, movement, swift change, rapid rush, ideas, creativity, motion, spiritual expanison, activities and energy speeding up <br> Zodiac Influence: Mercury in Sagittarius"},
@@ -172,7 +172,7 @@ var deckInterpretation = [
     {"cardName":"Princess of Assiah", "cardInterpretation":"Personality: Manifestation, financial opportunity, new job, creation, growth, birth, faith, sensitivity, concentration <br> Elemental Influences: Earth / Earth"},
     {"cardName":"Prince of Assiah", "cardInterpretation":"Personality: Efficiency, routine, conservatism, methodical <br> Elemental Influences: Air / Earth"},
     {"cardName":"Queen of Assiah", "cardInterpretation":"Personality: Kind, charming, great-hearted, truthful, stable, sensual <br> Elemental Influences: Water / Earth"},
-    {"cardName":"Knight of Assiah", "cardInterpretation":"Personality: Security, control, power, discipline, abundance <br> Elemental Influences: Fire / Earth"} 
+    {"cardName":"Knight of Assiah", "cardInterpretation":"Personality: Security, control, power, discipline, abundance, strive for material success and wealth, clever in material matters, patient, industrious <br> Elemental Influences: Fire / Earth"} 
 ];
 
 
