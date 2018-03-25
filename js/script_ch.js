@@ -155,7 +155,7 @@ var deckInterpretation = [
     {"cardName":"Truce", "cardInterpretation":"Keywords: Passive power, stability in an idea, contemplation, recuperation, passivity, relaxation, rest <br> Zodiac Influence: Jupiter in Libra"},
     {"cardName":"Science", "cardInterpretation":"Keywords: Success, search for and discovery of truth, progress, humanitarianism, rite of passage, all-embracing thinking, research <br> Zodiac Influence: Mercury in Aquarius"},
     /*{"cardName":"Divine Providence", "cardInterpretation":"Keywords: Channeling, Clairvoyance, Divine Communication, Prophetic, Telepathic, Psychic Discernment, Extrasensory <br> Zodiac Influence: Jupiter in Gemini"},*/
-    {"cardName":"Analysis", "cardInterpretation":"Keywords: Investiation, discernment, dissection, scrutiny <br> Zodiac Influence: Mars in Gemini"},
+    {"cardName":"Analysis", "cardInterpretation":"Keywords: Investigation, discernment, dissection, scrutiny <br> Zodiac Influence: Mars in Gemini"},
     {"cardName":"Princess of Yetzirah", "cardInterpretation":"Personality: Talkative, curious, couragious, serious, energetic, impulsive <br> Elemental Influences: Earth / Air"},
     {"cardName":"Prince of Yetzirah", "cardInterpretation":"Personality: Idealism, intellectuall agility, creativity, richdom of ideas, intelligence, mastery of words <br> Elemental Influences: Air / Air "},
     {"cardName":"Queen of Yetzirah", "cardInterpretation":"Personality: Freedom of mind and soul, independence, wisdom, imagination, self-confidence, perceptive, graceful, quick thinker, organised <br> Elemental Influences: Water / Air"},
