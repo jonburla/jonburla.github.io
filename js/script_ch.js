@@ -131,7 +131,7 @@ var deckInterpretation = [
     {"cardName":"Victory", "cardInterpretation":"Keywords: Public recognition, glory, progress, self-confidence, success through engery and industry <br> Zodiac Influence: Jupiter in Leo"},
     {"cardName":"Fortitude", "cardInterpretation":"Keywords: Initiation, rebirth, courage, fighting spirit, overcoming opposition, bravery, valor, challenge, competition <br> Zodiac Influence: Mars in Leo"},
     {"cardName":"Swiftness", "cardInterpretation":"Keywords: Speed, action, air travel, movement, swift change, rapid rush, ideas, creativity, motion, spiritual expanison, activities and energy speeding up <br> Zodiac Influence: Mercury in Sagittarius"},
-    {"cardName":"Emmunah", "cardInterpretation":"Keywords: Faith, courage, persistence, test of faith, resilience, spiritual truth, realization, combination of the consciousness with the unconsciousness <br> Zodiac Influence: Moon in Sagittarius"},
+    {"cardName":"Emmunah", "cardInterpretation":"Keywords: Faith, courage, persistence, spiritual truth, test of faith, resilience, realization, combination of the consciousness with the unconsciousness <br> Zodiac Influence: Moon in Sagittarius"},
     {"cardName":"Princess of Atziluth", "cardInterpretation":"Personality: Enthusiasm, exploration, discovery, free spirit, passion, joy of life, courage, beauty <br> Elemental Influences: Earth / Fire"},
     {"cardName":"Prince of Atziluth", "cardInterpretation":"Personality: Energy, passion, lust, action, adventure, impulsiveness, restless <br> Elemental Influences: Air / Fire"},
     {"cardName":"Queen of Atziluth", "cardInterpretation":"Personality: Exuberance, warmth, vibrancy, determination <br> Elemental Influences: Water / Fire"},
@@ -144,7 +144,7 @@ var deckInterpretation = [
     {"cardName":"Pleasure", "cardInterpretation":"Keywords: Reunion, nostalgia, childhood memories, innocence <br> Zodiac Influence: Sun in Scorpio"},
     /*{"cardName":"Transmutation", "cardInterpretation":"Keywords: Revolution, resolution, moving forward, letting the past go <br> Zodiac Influence: Saturn in Pisces"},*/
     {"cardName":"Happiness", "cardInterpretation":"Keywords: Wishes fulfilled, comfort, happiness, satisfaction <br> Zodiac Influence: Jupiter in Pisces"},
-    {"cardName":"Satiety", "cardInterpretation":"Keywords: Harmony, alignment of one's ideas reality and emotions, happiness, marriage <br> Zodiac Influence: Mars in Pisces"},
+    {"cardName":"Satiety", "cardInterpretation":"Keywords: Harmony, alignment of one's ideas reality and emotions, happiness, marriage, search for inner completion and fulfilment, generosity <br> Zodiac Influence: Mars in Pisces"},
     {"cardName":"Princess of Briah", "cardInterpretation":"Personality: A messenger, creative beginnings, synchronicity <br> Elemental Influences: Earth / Water"},
     {"cardName":"Prince of Briah", "cardInterpretation":"Personality: Romance, charm, ‘Knight in shining armour’, imagination <br> Elemental Influences: Air / Water"},
     {"cardName":"Queen of Briah", "cardInterpretation":"Personality: Emotional security and depth, calm, intuitive, compassionate, sensitivity, drifting between reality and dream,  <br>Elemental Influences: Water / Water"},
