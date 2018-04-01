@@ -83,15 +83,15 @@ var deck = ['0. The Initiate', 'I. The Prophet', 'II. The Shekhinah',
 'XIII. Shift', 'XIV. Ruach', 'XV. Neshama','XVI. Chaya', 'XVII. Yechida',
 'XVIII. The Moon', 'XIX. The Sun', 'XX. Geulah', 'XXI. Hashem',
 
-'Kether in Atziluth','Dominion', 'Virtue', 'Completion', 'Strive', 'Victory',
-'Fortitude', 'Swiftness', 'Emmunah', 'Princess of Atziluth',
+'Kether in Atziluth','Dominion', 'Virtue', 'Completion', 'Victory',
+'Swiftness', 'Emmunah', 'Princess of Atziluth',
 'Prince of Atziluth','Queen of Atziluth', 'Knight of Atziluth',
 
-'Kether in Briah','Love', 'Abundance', 'Luxury', 'Pleasure', 
+'Kether in Briah','Love', 'Abundance', 'Luxury', 'Pleasure', 'Transmutation',
 'Happiness', 'Satiety', 'Princess of Briah',
 'Prince of Briah','Queen of Briah', 'Knight of Briah',
 
-'Kether in Yetzirah','Peace', 'Truce', 'Science',
+'Kether in Yetzirah','Peace', 'Truce', 'Science', 'Divine Providence',
 'Analysis', 'Princess of Yetzirah','Prince of Yetzirah',
 'Queen of Yetzirah', 'Knight of Yetzirah',
 
@@ -127,9 +127,9 @@ var deckInterpretation = [
     {"cardName":"Dominion", "cardInterpretation":"Keywords: Application of the True Will, Future planning, progress, courage, determination, the will to conquer, decisions, discovery <br> Zodiac Influence: Mars in Aries"},
     {"cardName":"Virtue", "cardInterpretation":"Keywords: Preparation, foresight, enterprise, expansion, growth, development, opportunity, accomplishment, confidence, harmony of powers <br> Zodiac Influence: Sun in Aries"},
     {"cardName":"Completion", "cardInterpretation":"Keywords: Celebration, harmony, marriage, home, community, structure, rest after labor <br> Zodiac Influence: Venus in Aries"},
-    {"cardName":"Strive", "cardInterpretation":"Keywords: Refreshment, renewal, boldness, challenge, the will to break out, contest, struggle, conflict, rashness <br> Zodiac Influence: Saturn in Leo"},
+    /*{"cardName":"Strive", "cardInterpretation":"Keywords: Refreshment, renewal, boldness, challenge, the will to break out, contest, struggle, conflict, rashness <br> Zodiac Influence: Saturn in Leo"},*/
     {"cardName":"Victory", "cardInterpretation":"Keywords: Public recognition, glory, progress, self-confidence, success through engery and industry <br> Zodiac Influence: Jupiter in Leo"},
-    {"cardName":"Fortitude", "cardInterpretation":"Keywords: Initiation, rebirth, courage, fighting spirit, overcoming opposition, bravery, valor, challenge, competition <br> Zodiac Influence: Mars in Leo"},
+    /*{"cardName":"Fortitude", "cardInterpretation":"Keywords: Initiation, rebirth, courage, fighting spirit, overcoming opposition, bravery, valor, challenge, competition <br> Zodiac Influence: Mars in Leo"},*/
     {"cardName":"Swiftness", "cardInterpretation":"Keywords: Speed, action, air travel, movement, swift change, rapid rush, ideas, creativity, motion, spiritual expanison, activities and energy speeding up <br> Zodiac Influence: Mercury in Sagittarius"},
     {"cardName":"Emmunah", "cardInterpretation":"Keywords: Faith, courage, persistence, spiritual truth, test of faith, resilience, realization, combination of the consciousness with the unconsciousness <br> Zodiac Influence: Moon in Sagittarius"},
     {"cardName":"Princess of Atziluth", "cardInterpretation":"Personality: Enthusiasm, exploration, discovery, free spirit, passion, joy of life, courage, beauty <br> Elemental Influences: Earth / Fire"},
@@ -142,7 +142,7 @@ var deckInterpretation = [
     {"cardName":"Abundance", "cardInterpretation":"Keywords: Celebration, friendship, creativity, community, healing, sensuality, conception, passive success <br> Zodiac Influence: Mercury in Cancer"},
     {"cardName":"Luxury", "cardInterpretation":"Keywords: Emotional richdom, stability of feelings, love without risk, maternity, protection, meditation <br> Zodiac Influence: Moon in Cancer"},
     {"cardName":"Pleasure", "cardInterpretation":"Keywords: Reunion, nostalgia, childhood memories, innocence <br> Zodiac Influence: Sun in Scorpio"},
-    /*{"cardName":"Transmutation", "cardInterpretation":"Keywords: Revolution, resolution, moving forward, letting the past go <br> Zodiac Influence: Saturn in Pisces"},*/
+    {"cardName":"Transmutation", "cardInterpretation":"Keywords: Revolution, resolution, moving forward, letting the past go <br> Zodiac Influence: Saturn in Pisces"},
     {"cardName":"Happiness", "cardInterpretation":"Keywords: Wishes fulfilled, comfort, happiness, satisfaction <br> Zodiac Influence: Jupiter in Pisces"},
     {"cardName":"Satiety", "cardInterpretation":"Keywords: Harmony, alignment of one's ideas reality and emotions, happiness, marriage, search for inner completion and fulfilment, generosity <br> Zodiac Influence: Mars in Pisces"},
     {"cardName":"Princess of Briah", "cardInterpretation":"Personality: A messenger, creative beginnings, synchronicity <br> Elemental Influences: Earth / Water"},
@@ -154,7 +154,7 @@ var deckInterpretation = [
     {"cardName":"Peace", "cardInterpretation":"High Vibraton Keywords: Peace, Tranquility, Calm, Follow-Through <br> Keywords: Internal Debate, Choices, Stalemate, Blocked Emotions <br> Zodiac Influence: Moon in Libra"},
     {"cardName":"Truce", "cardInterpretation":"Keywords: Passive power, stability in an idea, contemplation, recuperation, passivity, relaxation, rest <br> Zodiac Influence: Jupiter in Libra"},
     {"cardName":"Science", "cardInterpretation":"Keywords: Success, search for and discovery of truth, progress, humanitarianism, rite of passage, all-embracing thinking, research <br> Zodiac Influence: Mercury in Aquarius"},
-    /*{"cardName":"Divine Providence", "cardInterpretation":"Keywords: Channeling, Clairvoyance, Divine Communication, Prophetic, Telepathic, Psychic Discernment, Extrasensory <br> Zodiac Influence: Jupiter in Gemini"},*/
+    {"cardName":"Divine Providence", "cardInterpretation":"Keywords: Channeling, Clairvoyance, Divine Communication, Prophetic, Telepathic, Psychic Discernment, Extrasensory <br> Zodiac Influence: Jupiter in Gemini"},
     {"cardName":"Analysis", "cardInterpretation":"Keywords: Investigation, discernment, dissection, scrutiny <br> Zodiac Influence: Mars in Gemini"},
     {"cardName":"Princess of Yetzirah", "cardInterpretation":"Personality: Talkative, curious, couragious, serious, energetic, impulsive <br> Elemental Influences: Earth / Air"},
     {"cardName":"Prince of Yetzirah", "cardInterpretation":"Personality: Idealism, intellectuall agility, creativity, richdom of ideas, intelligence, mastery of words <br> Elemental Influences: Air / Air "},
