@@ -80,18 +80,18 @@ $('document').ready(function(){
 var deck = ['0. The Initiate', 'I. The Prophet', 'II. The Shekhinah', 
 'III. Sarah', 'IV. Avraham', 'V. Yitzchak', 'VI. Yacov', 'VII. Moshe',
 'VIII. Aaron', 'IX. Yosef', 'X. David','XI. Persuasion', 'XII. Bitachon',
-'XIII. Shift', 'XIV. Ruach', 'XV. Neshama','XVI. Chaya', 'XVII. Yechida',
-'XVIII. The Moon', 'XIX. The Sun', 'XX. Geulah', 'XXI. Hashem',
+'XIII. Shift', 'XIV. Ruach', 'XV. Neshama','XVI. Chaya', 'XVII. The Star',
+'XVIII. The Moon', 'XIX. The Sun', 'XX. Geulah', 'XXI. Yechida',
 
 'Kether in Atziluth','Dominion', 'Virtue', 'Completion', 'Victory',
 'Swiftness', 'Emmunah', 'Princess of Atziluth',
 'Prince of Atziluth','Queen of Atziluth', 'Knight of Atziluth',
 
-'Kether in Briah','Love', 'Abundance', 'Luxury', 'Pleasure', 'Transmutation',
+'Kether in Briah','Love', 'Abundance', 'Luxury', 'Pleasure',
 'Happiness', 'Satiety', 'Princess of Briah',
 'Prince of Briah','Queen of Briah', 'Knight of Briah',
 
-'Kether in Yetzirah','Peace', 'Truce', 'Science', 'Divine Providence',
+'Kether in Yetzirah','Peace', 'Truce', 'Science',
 'Analysis', 'Princess of Yetzirah','Prince of Yetzirah',
 'Queen of Yetzirah', 'Knight of Yetzirah',
 
@@ -117,11 +117,11 @@ var deckInterpretation = [
     {"cardName":"XIV. Ruach", "cardInterpretation":"Keywords: Balance and harmony, combining opposities in moderation, magic, creation, alchemy, purpose, meaning, temperance <br> ס: Tree of Life Pathway: תפארת - יסוד"},
     {"cardName":"XV. Neshama", "cardInterpretation":"Keywords: Channeling, clairvoyance, divine communication, prophetic, telepathic, psychic discernment, embodying the concept of continous creation in every moment <br> ע: Tree of Life Pathway: תפארת - הוד"},
     {"cardName":"XVI. Chaya", "cardInterpretation":"Keywords: An Encounter With Revelation, sudden change, upheaval, sudden realization of the truth, the will to change old ways <br> פ: Tree of Life Pathway: נצח‎ - הוד"},
-    {"cardName":"XVII. Yechida", "cardInterpretation":"Keywords: Hope, spirituality, optimism, trust, renewal, inspiration, serenity, unity, gratitude <br> ה: Tree of Life Pathway: חכמה - תפארת"},
+    {"cardName":"XVII. The Star", "cardInterpretation":"Keywords: Hope, spirituality, optimism, trust, renewal, inspiration, serenity, unity, gratitude <br> ה: Tree of Life Pathway: חכמה - תפארת"},
     {"cardName":"XVIII. The Moon", "cardInterpretation":"Keywords: Talent, career, creativity, emotional satisfaction, intuition, celebrity, influence, honor, subconscious <br> ק: Tree of Life Pathway: נצח‎ - מלכות"},
     {"cardName":"XIX. The Sun", "cardInterpretation":"Keywords: Vitality, generosity, warmth, selfconfidence, fun, success, positivity, love of life <br> ר: Tree of Life Pathway: הוד - יסוד"},
     {"cardName":"XX. Geulah", "cardInterpretation":"Keywords: Renewal, transformation, rebirth, inner calling, judgement, absolution, knowledge of coherences, widened perception and the liberation of hidden abilities <br> ש: Tree of Life Pathway: הוד - מלכות"},
-    {"cardName":"XXI. Hashem", "cardInterpretation":"Keywords: The Universe, enterity and completition, perfection, being home in one's self, inner independence, the 'mental paradise', accomplishment, travel, harmony between spirit and body <br> ת: Tree of Life Pathway: יסוד - מלכות"},
+    {"cardName":"XXI. Yechida", "cardInterpretation":"Keywords: The Universe, enterity and completition, perfection, being home in one's self, inner independence, the 'mental paradise', accomplishment, travel, harmony between spirit and body <br> ת: Tree of Life Pathway: יסוד - מלכות"},
     
     {"cardName":"Kether in Atziluth", "cardInterpretation":"Keywords: Illumination, inspiration, power, creation, beginnings, potential, spiritual hunger, energy, the wish to create <br> Zodiac Influences: Aries, Leo, Sagittarius"},
     {"cardName":"Dominion", "cardInterpretation":"Keywords: Application of the True Will, Future planning, progress, courage, determination, the will to conquer, decisions, discovery <br> Zodiac Influence: Mars in Aries"},
@@ -142,7 +142,7 @@ var deckInterpretation = [
     {"cardName":"Abundance", "cardInterpretation":"Keywords: Celebration, friendship, creativity, community, healing, sensuality, conception, passive success <br> Zodiac Influence: Mercury in Cancer"},
     {"cardName":"Luxury", "cardInterpretation":"Keywords: Emotional richdom, stability of feelings, love without risk, maternity, protection, meditation <br> Zodiac Influence: Moon in Cancer"},
     {"cardName":"Pleasure", "cardInterpretation":"Keywords: Reunion, nostalgia, childhood memories, innocence <br> Zodiac Influence: Sun in Scorpio"},
-    {"cardName":"Transmutation", "cardInterpretation":"Keywords: Revolution, resolution, moving forward, letting the past go <br> Zodiac Influence: Saturn in Pisces"},
+    /*{"cardName":"Transmutation", "cardInterpretation":"Keywords: Revolution, resolution, moving forward, letting the past go <br> Zodiac Influence: Saturn in Pisces"},*/
     {"cardName":"Happiness", "cardInterpretation":"Keywords: Wishes fulfilled, comfort, happiness, satisfaction <br> Zodiac Influence: Jupiter in Pisces"},
     {"cardName":"Satiety", "cardInterpretation":"Keywords: Harmony, alignment of one's ideas reality and emotions, happiness, marriage, search for inner completion and fulfilment, generosity <br> Zodiac Influence: Mars in Pisces"},
     {"cardName":"Princess of Briah", "cardInterpretation":"Personality: A messenger, creative beginnings, synchronicity <br> Elemental Influences: Earth / Water"},
@@ -154,7 +154,7 @@ var deckInterpretation = [
     {"cardName":"Peace", "cardInterpretation":"High Vibraton Keywords: Peace, Tranquility, Calm, Follow-Through <br> Keywords: Internal Debate, Choices, Stalemate, Blocked Emotions <br> Zodiac Influence: Moon in Libra"},
     {"cardName":"Truce", "cardInterpretation":"Keywords: Passive power, stability in an idea, contemplation, recuperation, passivity, relaxation, rest <br> Zodiac Influence: Jupiter in Libra"},
     {"cardName":"Science", "cardInterpretation":"Keywords: Success, search for and discovery of truth, progress, humanitarianism, rite of passage, all-embracing thinking, research <br> Zodiac Influence: Mercury in Aquarius"},
-    {"cardName":"Divine Providence", "cardInterpretation":"Keywords: Channeling, Clairvoyance, Divine Communication, Prophetic, Telepathic, Psychic Discernment, Extrasensory <br> Zodiac Influence: Jupiter in Gemini"},
+    /*{"cardName":"Divine Providence", "cardInterpretation":"Keywords: Channeling, Clairvoyance, Divine Communication, Prophetic, Telepathic, Psychic Discernment, Extrasensory <br> Zodiac Influence: Jupiter in Gemini"},*/
     {"cardName":"Analysis", "cardInterpretation":"Keywords: Investigation, discernment, dissection, scrutiny <br> Zodiac Influence: Mars in Gemini"},
     {"cardName":"Princess of Yetzirah", "cardInterpretation":"Personality: Talkative, curious, couragious, serious, energetic, impulsive <br> Elemental Influences: Earth / Air"},
     {"cardName":"Prince of Yetzirah", "cardInterpretation":"Personality: Idealism, intellectuall agility, creativity, richdom of ideas, intelligence, mastery of words <br> Elemental Influences: Air / Air "},

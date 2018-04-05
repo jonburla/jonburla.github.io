@@ -80,8 +80,8 @@ $('document').ready(function(){
 var deck = ['0. The Initiate', 'I. The Prophet', 'II. The Shekhinah', 
 'III. Sarah', 'IV. Avraham', 'V. Yitzchak', 'VI. Yacov', 'VII. Moshe',
 'VIII. Aaron', 'IX. Yosef', 'X. David','XI. Persuasion', 'XII. Bitachon',
-'XIII. Shift', 'XIV. Ruach', 'XV. Neshama','XVI. Chaya', 'XVII. Yechida',
-'XVIII. The Moon', 'XIX. The Sun', 'XX. Geulah', 'XXI. Hashem'];
+'XIII. Shift', 'XIV. Ruach', 'XV. Neshama','XVI. Chaya', 'XVII. The Star',
+'XVIII. The Moon', 'XIX. The Sun', 'XX. Geulah', 'XXI. Yechida'];
 
 var deckInterpretation = [
     {"cardName":"0. The Initiate", "cardInterpretation":"Keywords: Beginnings, optimism, trust in inner instincts, innocence, spontaneity, a free spirit <br> א: Tree of Life Pathway: כתר - חכמה"},
@@ -101,11 +101,11 @@ var deckInterpretation = [
     {"cardName":"XIV. Ruach", "cardInterpretation":"Keywords: Balance and harmony, combining opposities in moderation, magic, creation, alchemy, purpose, meaning, temperance <br> ס: Tree of Life Pathway: תפארת - יסוד"},
     {"cardName":"XV. Neshama", "cardInterpretation":"Keywords: Channeling, clairvoyance, divine communication, prophetic, telepathic, psychic discernment, embodying the concept of continous creation in every moment <br> ע: Tree of Life Pathway: תפארת - הוד"},
     {"cardName":"XVI. Chaya", "cardInterpretation":"Keywords: An Encounter With Revelation, sudden change, upheaval, sudden realization of the truth, the will to change old ways <br> פ: Tree of Life Pathway: נצח‎ - הוד"},
-    {"cardName":"XVII. Yechida", "cardInterpretation":"Keywords: Hope, spirituality, optimism, trust, renewal, inspiration, serenity, unity, gratitude <br> ה: Tree of Life Pathway: חכמה - תפארת"},
+    {"cardName":"XVII. The Star", "cardInterpretation":"Keywords: Hope, spirituality, optimism, trust, renewal, inspiration, serenity, unity, gratitude <br> ה: Tree of Life Pathway: חכמה - תפארת"},
     {"cardName":"XVIII. The Moon", "cardInterpretation":"Keywords: Talent, career, creativity, emotional satisfaction, intuition, celebrity, influence, honor, subconscious <br> ק: Tree of Life Pathway: נצח‎ - מלכות"},
     {"cardName":"XIX. The Sun", "cardInterpretation":"Keywords: Vitality, generosity, warmth, selfconfidence, fun, success, positivity, love of life <br> ר: Tree of Life Pathway: הוד - יסוד"},
     {"cardName":"XX. Geulah", "cardInterpretation":"Keywords: Renewal, transformation, rebirth, inner calling, judgement, absolution, knowledge of coherences, widened perception and the liberation of hidden abilities <br> ש: Tree of Life Pathway: הוד - מלכות"},
-    {"cardName":"XXI. Hashem", "cardInterpretation":"Keywords: The Universe, enterity and completition, perfection, being home in one's self, inner independence, the 'mental paradise', accomplishment, travel, harmony between spirit and body <br> ת: Tree of Life Pathway: יסוד - מלכות"}    
+    {"cardName":"XXI. Yechida", "cardInterpretation":"Keywords: The Universe, enterity and completition, perfection, being home in one's self, inner independence, the 'mental paradise', accomplishment, travel, harmony between spirit and body <br> ת: Tree of Life Pathway: יסוד - מלכות"}    
 ];    
    
 
