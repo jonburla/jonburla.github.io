@@ -77,7 +77,7 @@ $('document').ready(function(){
     });
 });
 
-var deck = ['0. The Initiate', 'I. The Prophet', 'II. The Shekhinah', 
+var deck = ['0. The Initiate', 'I. The Navi', 'II. The Shekhinah', 
 'III. Sarah', 'IV. Avraham', 'V. Yitzchak', 'VI. Yacov', 'VII. Moshe',
 'VIII. Aaron', 'IX. Yosef', 'X. David','XI. Persuasion', 'XII. Bitachon',
 'XIII. Shift', 'XIV. Ruach', 'XV. Neshama','XVI. Chaya', 'XVII. The Star',
@@ -85,7 +85,7 @@ var deck = ['0. The Initiate', 'I. The Prophet', 'II. The Shekhinah',
 
 var deckInterpretation = [
     {"cardName":"0. The Initiate", "cardInterpretation":"Keywords: Beginnings, optimism, trust in inner instincts, innocence, spontaneity, a free spirit <br> א: Tree of Life Pathway: כתר - חכמה"},
-    {"cardName":"I. The Prophet", "cardInterpretation":"Keywords: Law of Attraction, manifestation, power, skill, concentration, action, resourcefulness, activity, power of life, solar impulse, energy <br> ב: Tree of Life Pathway: כתר - בינה‬"},
+    {"cardName":"I. The Navi", "cardInterpretation":"Keywords: Law of Attraction, manifestation, power, skill, concentration, action, resourcefulness, activity, power of life, solar impulse, energy <br> ב: Tree of Life Pathway: כתר - בינה‬"},
     {"cardName":"II. The Shekhinah","cardInterpretation": "Keywords: Access to universal life force, intuition, higher knowledge and powers, mystery, subconscious mind <br> ג: Tree of Life Pathway: כתר - תפארת"},
     {"cardName":"III. Sarah", "cardInterpretation":"Keywords: Creativity, maternity, love, trust, fulfilness, femininity, beauty, nature, charm, attraction, grace, the joy of great abundance, Mother Nature <br> ד: Tree of Life Pathway: חכמה - בינה"},
     {"cardName":"IV. Avraham", "cardInterpretation":"Keywords: Mastery of the will over nature, a sense for law and order, plan and structure, creation, recognition, stability, realism, authority, father-figure, solid foundation <br> צ: Tree of Life Pathway: נצח‎ - יסוד"},
