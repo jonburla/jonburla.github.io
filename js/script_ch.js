@@ -87,11 +87,11 @@ var deck = ['0. The Initiate', 'I. The Navi', 'II. The Shekhinah',
 'Swiftness', 'Emmunah', 'Princess of Atziluth',
 'Prince of Atziluth','Queen of Atziluth', 'Knight of Atziluth',
 
-'Kether in Briah','Love', 'Abundance', 'Luxury', 'Pleasure',
+'Kether in Briah','Love', 'Abundance', 'Luxury', 'Pleasure', 'Transmutation',
 'Happiness', 'Satiety', 'Princess of Briah',
 'Prince of Briah','Queen of Briah', 'Knight of Briah',
 
-'Kether in Yetzirah','Peace', 'Truce', 'Science',
+'Kether in Yetzirah','Peace', 'Truce', 'Science', 'Divine Providence',
 'Analysis', 'Princess of Yetzirah','Prince of Yetzirah',
 'Queen of Yetzirah', 'Knight of Yetzirah',
 
