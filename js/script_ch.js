@@ -166,7 +166,7 @@ var deckInterpretation = [
     {"cardName":"Deep Work", "cardInterpretation":"Keywords: Understanding, crystalization, teamwork, initial fulfilment, collaboration, learning <br> Zodiac Influence: Mars in Capricorn"},
     {"cardName":"Power", "cardInterpretation":"Keywords: Control, stability, security, safety, possession, establishment, wealth, financial foundation <br> Zodiac Influence: Sun in Capricorn"},
     {"cardName":"Success", "cardInterpretation":"Keywords: Generosity, charity, giving, prosperity, sharing wealth <br> Zodiac Influence: Moon in Taurus"},
-    {"cardName":"Prudence", "cardInterpretation":"Keywords: Prudence, education, quality, engagement <br> Zodiac Influence: Sun in Virgo"},
+    {"cardName":"Prudence", "cardInterpretation":"Keywords: Prudence, education, quality, engagement, realisation of coherences, ability to wait for the right moment <br> Zodiac Influence: Sun in Virgo"},
     {"cardName":"Gain", "cardInterpretation":"Keywords: Gratitude, luxury, self-sufficiency, culmination <br> Zodiac Influence: Venus in Virgo"},
     {"cardName":"Wealth", "cardInterpretation":"Keywords: Wealth, inheritance, family, establishment, retirement <br> Zodiac Influence: Mercury in Virgo"},
     {"cardName":"Princess of Assiah", "cardInterpretation":"Personality: Manifestation, financial opportunity, new job, creation, growth, birth, faith, sensitivity, concentration <br> Elemental Influences: Earth / Earth"},
