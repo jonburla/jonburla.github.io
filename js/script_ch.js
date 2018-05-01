@@ -79,8 +79,8 @@ $('document').ready(function(){
 
 var deck = ['0. The Initiate', 'I. The Navi', 'II. The Shekhinah', 
 'III. Sarah', 'IV. Avraham', 'V. Yitzchak', 'VI. Yacov', 'VII. Moshe',
-'VIII. Aaron', 'IX. Yosef', 'X. David','XI. Persuasion', 'XII. Bitachon',
-'XIII. Shift', 'XIV. Ruach', 'XV. Neshama','XVI. Chaya', 'XVII. The Star',
+'VIII. Aaron', 'IX. Yosef', 'X. David','XI. Neshama', 'XII. Bitachon',
+'XIII. Shift', 'XIV. Ruach', 'XV. Nefesh','XVI. Chaya', 'XVII. The Star',
 'XVIII. The Moon', 'XIX. The Sun', 'XX. Geulah', 'XXI. Yechida',
 
 'Kether in Atziluth','Dominion', 'Virtue', 'Completion', 'Victory',
