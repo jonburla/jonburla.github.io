@@ -105,7 +105,7 @@ var deckInterpretation = [
     {"cardName":"XVIII. The Moon", "cardInterpretation":"Keywords: Talent, career, creativity, emotional satisfaction, intuition, celebrity, influence, honor, subconscious <br> ק: Tree of Life Pathway: נצח‎ - מלכות"},
     {"cardName":"XIX. The Sun", "cardInterpretation":"Keywords: Vitality, generosity, warmth, selfconfidence, fun, success, positivity, love of life <br> ר: Tree of Life Pathway: הוד - יסוד"},
     {"cardName":"XX. Geulah", "cardInterpretation":"Keywords: Renewal, transformation, rebirth, inner calling, judgement, absolution, knowledge of coherences, widened perception and the liberation of hidden abilities <br> ש: Tree of Life Pathway: הוד - מלכות"},
-    {"cardName":"XXI. Yechida", "cardInterpretation":"Keywords: The Universe, enterity and completition, perfection, being home in one's self, inner independence, the 'mental paradise', accomplishment, travel, harmony between spirit and body <br> ת: Tree of Life Pathway: יסוד - מלכות"}    
+    {"cardName":"XXI. Yechida", "cardInterpretation":"Keywords: The Universe, entirety and completition, perfection, being home in one's self, inner independence, the 'mental paradise', accomplishment, travel, harmony between spirit and body <br> ת: Tree of Life Pathway: יסוד - מלכות"}    
 ];    
    
 
