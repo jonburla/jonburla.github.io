@@ -133,7 +133,7 @@ var deckInterpretation = [
     {"cardName":"Swiftness", "cardInterpretation":"Keywords: Flow, action, air travel, movement, swift change, rapid rush, ideas, creativity, motion, spiritual expanison, activities and energy speeding up <br> Zodiac Influence: Mercury in Sagittarius"},
     {"cardName":"Emmunah", "cardInterpretation":"Keywords: Faith, courage, persistence, spiritual truth, test of faith, resilience, realization, combination of the consciousness with the unconsciousness <br> Zodiac Influence: Moon in Sagittarius"},
     {"cardName":"Princess of Atziluth", "cardInterpretation":"Personality: Enthusiasm, exploration, discovery, free spirit, passion, joy of life, courage, beauty <br> Elemental Influences: Earth / Fire"},
-    {"cardName":"Prince of Atziluth", "cardInterpretation":"Personality: Energy, passion, lust, action, adventure, impulsiveness, restless <br> Elemental Influences: Air / Fire"},
+    {"cardName":"Prince of Atziluth", "cardInterpretation":"Personality: Activity, energy, passion, action, creativity, adventure, swift, strong, impulsiveness, confidence, positivity <br> Elemental Influences: Air / Fire"},
     {"cardName":"Queen of Atziluth", "cardInterpretation":"Personality: Exuberance, warmth, vibrancy, determination <br> Elemental Influences: Water / Fire"},
     {"cardName":"Knight of Atziluth", "cardInterpretation":"Personality: Natural-born leader, vision, inspiration, entrepreneur, honour, spiritual activity, expansion of spiritual individuality, strong-willed, foresight <br> Elemental Influences: Fire / Fire"},
     
