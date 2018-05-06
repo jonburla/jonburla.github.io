@@ -84,7 +84,7 @@ var deck = ['0. The Initiate', 'I. The Navi', 'II. The Shekhinah',
 'XVIII. The Moon', 'XIX. The Sun', 'XX. Geulah', 'XXI. Yechida'];
 
 var deckInterpretation = [
-    {"cardName":"0. The Initiate", "cardInterpretation":"Keywords: Beginnings, optimism, trust in inner instincts, innocence, spontaneity, a free spirit <br> א: Tree of Life Pathway: כתר - חכמה"},
+    {"cardName":"0. The Initiate", "cardInterpretation":"Keywords: Beginnings, optimism, trust in inner instincts, innocence, spontaneity, a free spirit, changes, movement, idealism <br> א: Tree of Life Pathway: כתר - חכמה"},
     {"cardName":"I. The Navi", "cardInterpretation":"Keywords: Law of Attraction, manifestation, power, skill, concentration, action, resourcefulness, activity, power of life, solar impulse, energy <br> ב: Tree of Life Pathway: כתר - בינה‬"},
     {"cardName":"II. The Shekhinah","cardInterpretation": "Keywords: Access to universal life force, intuition, higher knowledge and powers, mystery, subconscious mind <br> ג: Tree of Life Pathway: כתר - תפארת"},
     {"cardName":"III. Sarah", "cardInterpretation":"Keywords: Creativity, maternity, love, trust, femininity, beauty, nature, charm, attraction, grace, the joy of great abundance, mother nature <br> ד: Tree of Life Pathway: חכמה - בינה"},
