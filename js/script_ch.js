@@ -150,7 +150,7 @@ var deckInterpretation = [
     {"cardName":"Queen of Briah", "cardInterpretation":"Personality: Emotional security and depth, calm, intuitive, compassionate, sensitivity, drifting between reality and dream <br>Elemental Influences: Water / Water"},
     {"cardName":"Knight of Briah", "cardInterpretation":"Personality: Emotional balance and control, generosity, healing, spiritual leader, self-redemption, grace, poetry, solicitousness <br> Elemental Influences: Fire / Water"},
     
-    {"cardName":"Kether in Yetzirah", "cardInterpretation":"Keywords: Raw power, victory, break-throughs, mental clarity <br> Zodiac Influences: Libra, Aquarius, Gemini"},
+    {"cardName":"Kether in Yetzirah", "cardInterpretation":"Keywords: Raw power, victory, break-throughs, mental clarity, invoked powers. whirling force of mind, realisation, logic, intellectual aspiration <br> Zodiac Influences: Libra, Aquarius, Gemini"},
     {"cardName":"Peace", "cardInterpretation":"High Vibraton Keywords: Peace, Tranquility, Calm, Follow-Through <br> Keywords: Internal Debate, Choices, Stalemate, Blocked Emotions <br> Zodiac Influence: Moon in Libra"},
     {"cardName":"Truce", "cardInterpretation":"Keywords: Passive power, stability in an idea, contemplation, recuperation, passivity, relaxation, rest <br> Zodiac Influence: Jupiter in Libra"},
     {"cardName":"Science", "cardInterpretation":"Keywords: Success, search for and discovery of truth, progress, humanitarianism, rite of passage, all-embracing thinking, research <br> Zodiac Influence: Mercury in Aquarius"},
