@@ -163,7 +163,7 @@ var deckInterpretation = [
 
     {"cardName":"Kether in Assiah", "cardInterpretation":"Keywords: Manifestation, new financial opportunity, prosperity <br> Zodiac Influences: Capricorn, Taurus, Virgo"},
     {"cardName":"Change", "cardInterpretation":"Keywords: Growing, proceeding, flexibility, the start of a project, balance, adaptability, time management, prioritisation <br> Zodiac Influence: Jupiter in Capricorn"},
-    {"cardName":"Deep Work", "cardInterpretation":"Keywords: Understanding, crystalization, teamwork, initial fulfilment, collaboration, learning <br> Zodiac Influence: Mars in Capricorn"},
+    {"cardName":"Deep Work", "cardInterpretation":"Keywords: Understanding, crystalization, teamwork, initial fulfilment, collaboration, learning, progress, increase of substance, manifestation <br> Zodiac Influence: Mars in Capricorn"},
     {"cardName":"Power", "cardInterpretation":"Keywords: Control, stability, security, safety, possession, establishment, wealth, financial foundation <br> Zodiac Influence: Sun in Capricorn"},
     {"cardName":"Success", "cardInterpretation":"Keywords: Generosity, charity, giving, prosperity, sharing wealth <br> Zodiac Influence: Moon in Taurus"},
     {"cardName":"Prudence", "cardInterpretation":"Keywords: Prudence, education, quality, engagement, realisation of coherences, ability to wait for the right moment <br> Zodiac Influence: Sun in Virgo"},
