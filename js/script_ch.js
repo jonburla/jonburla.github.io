@@ -170,7 +170,7 @@ var deckInterpretation = [
     {"cardName":"Gain", "cardInterpretation":"Keywords: Gratitude, luxury, self-sufficiency, culmination <br> Zodiac Influence: Venus in Virgo"},
     {"cardName":"Wealth", "cardInterpretation":"Keywords: Wealth, inheritance, family, establishment, retirement <br> Zodiac Influence: Mercury in Virgo"},
     {"cardName":"Princess of Assiah", "cardInterpretation":"Personality: Manifestation, financial opportunity, new job, creation, growth, birth, faith, sensitivity, concentration <br> Elemental Influences: Earth / Earth"},
-    {"cardName":"Prince of Assiah", "cardInterpretation":"Personality: Efficiency, routine, conservatism, methodical <br> Elemental Influences: Air / Earth"},
+    {"cardName":"Prince of Assiah", "cardInterpretation":"Personality: Efficiency, routine, conservatism, methodical, industrious, enduring, reliable, practcal, reasonable, careful <br> Elemental Influences: Air / Earth"},
     {"cardName":"Queen of Assiah", "cardInterpretation":"Personality: Practical, security, kind, charming, great-hearted, truthful, stable, sensual, fertility, womanliness, security for family, home and materials  <br> Elemental Influences: Water / Earth"},
     {"cardName":"Knight of Assiah", "cardInterpretation":"Personality: Security, control, power, discipline, abundance, strive for material success and wealth, clever in material matters, patient, industrious <br> Elemental Influences: Fire / Earth"} 
 ];
