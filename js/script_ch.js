@@ -134,7 +134,7 @@ var deckInterpretation = [
     {"cardName":"Emmunah", "cardInterpretation":"Keywords: Faith, courage, persistence, spiritual truth, test of faith, resilience, realization, great success but with strife and energy <br> Zodiac Influence: Moon in Sagittarius"},
     {"cardName":"Princess of Atziluth", "cardInterpretation":"Personality: Enthusiasm, exploration, discovery, free spirit, passion, joy of life, courage, beauty <br> Elemental Influences: Earth / Fire"},
     {"cardName":"Prince of Atziluth", "cardInterpretation":"Personality: Activity, energy, passion, action, creativity, adventure, swift, strong, impulsiveness, confidence, positivity <br> Elemental Influences: Air / Fire"},
-    {"cardName":"Queen of Atziluth", "cardInterpretation":"Personality: Exuberance, warmth, vibrancy, determination <br> Elemental Influences: Water / Fire"},
+    {"cardName":"Queen of Atziluth", "cardInterpretation":"Personality: Exuberance, warmth, vibrancy, determination, independence, honor, spiritual visons, passion, adaptability, motion and transformation <br> Elemental Influences: Water / Fire"},
     {"cardName":"Knight of Atziluth", "cardInterpretation":"Personality: Natural-born leader, vision, inspiration, entrepreneur, honour, spiritual activity, expansion of spiritual individuality, strong-willed, foresight <br> Elemental Influences: Fire / Fire"},
     
     {"cardName":"Kether in Briah", "cardInterpretation":"Keywords: Love, compassion, creativity, overwhelming emotion, intuition, psychic connection <br> Zodiac Influences: Cancer, Scorpio, Pisces"},
@@ -145,7 +145,7 @@ var deckInterpretation = [
     {"cardName":"Transmutation", "cardInterpretation":"Keywords: Revolution, resolution, moving forward, letting the past go <br> Zodiac Influence: Saturn in Pisces"},
     {"cardName":"Happiness", "cardInterpretation":"Keywords: Wishes fulfilled, comfort, happiness, satisfaction <br> Zodiac Influence: Jupiter in Pisces"},
     {"cardName":"Satiety", "cardInterpretation":"Keywords: Harmony, alignment of one's ideas reality and emotions, happiness, marriage, search for inner completion and fulfilment, kindness, optimism, generosity <br> Zodiac Influence: Mars in Pisces"},
-    {"cardName":"Princess of Briah", "cardInterpretation":"Personality: A messenger, creative beginnings, synchronicity <br> Elemental Influences: Earth / Water"},
+    {"cardName":"Princess of Briah", "cardInterpretation":"Personality: A messenger, creative beginnings, synchronicity, tenderness, fantasy <br> Elemental Influences: Earth / Water"},
     {"cardName":"Prince of Briah", "cardInterpretation":"Personality: Romance, charm, ‘Knight in shining armour’, compassion, warmth, love, artistic intentions, imagination <br> Elemental Influences: Air / Water"},
     {"cardName":"Queen of Briah", "cardInterpretation":"Personality: Emotional security and depth, calm, intuitive, compassionate, sensitivity, drifting between reality and dream <br>Elemental Influences: Water / Water"},
     {"cardName":"Knight of Briah", "cardInterpretation":"Personality: Emotional balance and control, generosity, healing, spiritual leader, self-redemption, grace, poetry, solicitousness <br> Elemental Influences: Fire / Water"},
@@ -174,6 +174,3 @@ var deckInterpretation = [
     {"cardName":"Queen of Assiah", "cardInterpretation":"Personality: Practical, security, kind, charming, great-hearted, truthful, stable, sensual, fertility, womanliness, security for family, home and materials  <br> Elemental Influences: Water / Earth"},
     {"cardName":"Knight of Assiah", "cardInterpretation":"Personality: Security, control, power, discipline, abundance, strive for material success and wealth, clever in material matters, patient, industrious <br> Elemental Influences: Fire / Earth"} 
 ];
-
-
-

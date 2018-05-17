@@ -108,6 +108,3 @@ var deckInterpretation = [
     {"cardName":"XXI. Yechida", "cardInterpretation":"Keywords: The Universe, entirety and completition, perfection, being home in one's self, inner independence, the 'mental paradise', accomplishment, travel, harmony between spirit and body <br> ת: Tree of Life Pathway: יסוד - מלכות"}    
 ];    
    
-
-
-
