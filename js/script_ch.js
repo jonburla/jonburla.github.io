@@ -80,7 +80,7 @@ $('document').ready(function(){
 var deck = ['0. The Initiate', 'I. The Navi', 'II. The Shekhinah', 
 'III. Sarah', 'IV. Avraham', 'V. Yitzchak', 'VI. Yacov', 'VII. Moshe',
 'VIII. Aaron', 'IX. Yosef', 'X. David','XI. Persuasion', 'XII. Bitachon',
-'XIII. Shift', 'XIV. Ruach HaKodesh', 'XV. The Satan','XVI. The Tower of Babel', 'XVII. The Star',
+'XIII. Shift', 'XIV. Ruach HaKodesh', 'XVI. The Tower', 'XVII. The Star',
 'XVIII. The Moon', 'XIX. The Sun', 'XX. Geulah', 'XXI. Yechida',
 
 'Kether in Atziluth','Dominion', 'Virtue', 'Completion', 'Victory',
@@ -115,8 +115,8 @@ var deckInterpretation = [
     {"cardName":"XII. Bitachon", "cardInterpretation":"Keywords: Faith And TRUST In The Goodness Of God, the understanding that God loves me more than I love myself and that God knows what is best for me better than I do <br> מ: Tree of Life Pathway: גבורה - הוד"},
     {"cardName":"XIII. Shift", "cardInterpretation":"Keywords: Shift in conciousness, Death and Rebirth, Change, inner wisdom, making place for something new, transformation and metamorphosis, transition <br> נ: Tree of Life Pathway: תפארת - נצח‎"},
     {"cardName":"XIV. Ruach HaKodesh", "cardInterpretation":"Keywords: Balance and harmony, combining opposities in moderation, magic, creation, alchemy, purpose, meaning, temperance <br> ס: Tree of Life Pathway: תפארת - יסוד"},
-    {"cardName":"XV. The Satan", "cardInterpretation":"Keywords: Bondage, addiction, sexuality, materialism, independence, wilfulness, never accepting dogma <br> ע: Tree of Life Pathway: תפארת - הוד"},
-    {"cardName":"XVI. The Tower of Babel", "cardInterpretation":"Keywords: An Encounter With Revelation, sudden change, upheaval, sudden realization of the truth, the will to change old ways <br> פ: Tree of Life Pathway: נצח‎ - הוד"},
+    /*{"cardName":"XV. The Satan", "cardInterpretation":"Keywords: Bondage, addiction, sexuality, materialism, independence, wilfulness, never accepting dogma <br> ע: Tree of Life Pathway: תפארת - הוד"},*/
+    {"cardName":"XVI. The Tower", "cardInterpretation":"Keywords: An Encounter With Revelation, sudden change, upheaval, sudden realization of the truth, the will to change old ways <br> פ: Tree of Life Pathway: נצח‎ - הוד"},
     {"cardName":"XVII. The Star", "cardInterpretation":"Keywords: Hope, spirituality, optimism, trust, renewal, inspiration, serenity, unity, gratitude <br> ה: Tree of Life Pathway: חכמה - תפארת"},
     {"cardName":"XVIII. The Moon", "cardInterpretation":"Keywords: Talent, career, creativity, emotional satisfaction, intuition, celebrity, influence, honor, subconscious <br> ק: Tree of Life Pathway: נצח‎ - מלכות"},
     {"cardName":"XIX. The Sun", "cardInterpretation":"Keywords: Vitality, generosity, warmth, selfconfidence, fun, success, positivity, love of life <br> ר: Tree of Life Pathway: הוד - יסוד"},
