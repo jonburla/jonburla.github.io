@@ -80,7 +80,7 @@ $('document').ready(function(){
 var deck = ['0. The Initiate', 'I. The Navi', 'II. The Shekhinah', 
 'III. Sarah', 'IV. Avraham', 'V. Yitzchak', 'VI. Yacov', 'VII. Moshe',
 'VIII. Aaron', 'IX. Yosef', 'X. David','XI. Persuasion', 'XII. Bitachon', 'XIII. Shift', 
-'XIV. Ruach HaKodesh', 'XV. The Evil Inclination', 'XVI. The Tower', 'XVI. The Tower', 'XVII. The Star',
+'XIV. Ruach HaKodesh', 'XV. The Evil Inclination', 'XVI. The Tower', 'XVII. The Star',
 'XVIII. The Moon', 'XIX. The Sun', 'XX. Geulah', 'XXI. Yechida',
 
 'Kether in Atziluth','Dominion', 'Virtue', 'Completion', 'Strife', 'Victory', 'Valor',
@@ -92,7 +92,7 @@ var deck = ['0. The Initiate', 'I. The Navi', 'II. The Shekhinah',
 'Prince of Briah','Queen of Briah', 'Knight of Briah',
 
 'Kether in Yetzirah','Peace', 'Sorrow', 'Truce', 'Paradox', 'Science', 
-'Ingenuity', 'Divine Providence', 'Analysis', 'Princess of Yetzirah',
+'Ingenuity', 'Divine Providence', 'Analysis', 'Trumpian Logic', 'Princess of Yetzirah',
 'Prince of Yetzirah','Queen of Yetzirah', 'Knight of Yetzirah',
 
 'Kether in Assiah','Change', 'Deep Work', 'Power', 'Anxiety', 'Success',
